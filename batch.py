@@ -128,7 +128,8 @@ class Corpus(App[None]):
             self.notify(f"{saved} item(s) saved.", severity="information")
         if error:
             self.notify(f"{error} item(s) failed.", severity="warning")
-    
+
+        self._reload_list()
 
     def on_selection_list_selected_changed(
         self, event: SelectionList.SelectedChanged
@@ -175,6 +176,31 @@ class Corpus(App[None]):
         )
         yield Footer()
 
+    def _reload_list(self) -> None:
+        panel = self.query("#painel")
+        if panel:
+            panel.first().remove()
+
+        items = self.get_unique_samples()
+        if not items:
+            self.mount(Static("No more samples available for this corpus."))
+            return
+
+        self._render_list(items)
+
+    def _render_list(self, items: list[tuple]) -> None:
+        self.mount(
+            Vertical(
+                Label(f"{self.corpus}", id="title"),
+                VerticalScroll(
+                    SelectionList[str](*items, id="samples"),
+                ),
+                Static("None item selected.", id="details"),
+                Button("Save items", id="save", variant="primary"),
+                id="painel",
+            )
+        )
+
     def on_select_changed(self, event: Select.Changed) -> None:
         if event.value is Select.BLANK:
             return
@@ -188,17 +214,7 @@ class Corpus(App[None]):
             self.mount(Static("No sample found."))
             return
 
-        self.mount(
-            Vertical(
-                Label(f"{self.corpus}", id="title"),
-                VerticalScroll(
-                    SelectionList[str](*items, id="samples"),
-                ),
-                Static("Nenhum item selecionado.", id="details"),
-                Button("Salvar selecionados", id="save", variant="primary"),
-                id="painel",
-            )
-        )
+        self._render_list(items)
 
 
 def main():
