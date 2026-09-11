@@ -1,4 +1,5 @@
 import subprocess
+from typing import Optional
 
 class GitCommands:
     @staticmethod
@@ -12,7 +13,7 @@ class GitCommands:
         return result
 
     @staticmethod
-    def add_files(paths: list[str] | None = None) -> None:
+    def add_files(paths: Optional[list[str]] = None) -> None:
         if paths:
             GitCommands.run_git_command(["add", *paths])
         else:

@@ -34,9 +34,14 @@ class Corpus(App[None]):
         self.words_by_id = {}
 
     def _commit_changes(self) -> None:
-        GitCommands.add_files()
-        GitCommands.commit_changes(len(self.text_by_id),self.corpus)
-        GitCommands.push_changes()
+        try:
+            GitCommands.add_files()
+            GitCommands.commit_changes(len(self.text_by_id),self.corpus)
+            GitCommands.push_changes()
+        except Exception as e:
+            self.notify(f"It was not possible to save data on git.", severity="error")
+
+            raise e
 
     def get_unique_samples(self) -> None:
         FILE_PATH = f"./{self.corpus}.jsonl"
@@ -90,6 +95,8 @@ class Corpus(App[None]):
                 self.notify(f"Error while saving id {id} item saved.", severity="error")
 
                 print(e)
+
+        self._commit_changes()
 
         self.notify(f"{len(selected)} item saved.", severity="information")
     
