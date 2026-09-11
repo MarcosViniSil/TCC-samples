@@ -39,9 +39,8 @@ class Corpus(App[None]):
             GitCommands.commit_changes(files_modified,self.corpus)
             GitCommands.push_changes()
         except Exception as e:
-            self.notify(f"It was not possible to save data on git.", severity="error")
+            self.notify(f"It was not possible to save data on git. {str(e)}", severity="error")
 
-            raise e
 
     def get_unique_samples(self) -> None:
         FILE_PATH = f"./{self.corpus}.jsonl"
