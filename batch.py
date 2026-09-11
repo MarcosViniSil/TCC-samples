@@ -177,29 +177,29 @@ class Corpus(App[None]):
         yield Footer()
 
     def _reload_list(self) -> None:
-        panel = self.query("#painel")
-        if panel:
-            panel.first().remove()
+        div = self.query_one("#painel", Vertical)
+        div.remove_children()      
 
         items = self.get_unique_samples()
         if not items:
-            self.mount(Static("No more samples available for this corpus."))
+            div.mount(Static("No more samples available for this corpus."))
             return
 
-        self._render_list(items)
+        div.mount(
+            VerticalScroll(SelectionList[str](*items, id="samples")),
+            Static("None item selected.", id="details"),
+            Button("Save items", id="save", variant="primary"),
+        )
 
     def _render_list(self, items: list[tuple]) -> None:
-        self.mount(
-            Vertical(
-                Label(f"{self.corpus}", id="title"),
-                VerticalScroll(
-                    SelectionList[str](*items, id="samples"),
-                ),
-                Static("None item selected.", id="details"),
-                Button("Save items", id="save", variant="primary"),
-                id="painel",
-            )
+        div = Vertical(
+            Label(f"{self.corpus}", id="title"),
+            VerticalScroll(SelectionList[str](*items, id="samples")),
+            Static("None item selected.", id="details"),
+            Button("Save items", id="save", variant="primary"),
+            id="painel",
         )
+        self.mount(div)
 
     def on_select_changed(self, event: Select.Changed) -> None:
         if event.value is Select.BLANK:
