@@ -91,7 +91,7 @@ class Corpus(App[None]):
                 length_sentence = self.words_by_id[id]
                 insert_file(self.conn,id,self.corpus,length_sentence)
             except Exception as e:
-                self.notify(f"Error while saving id {id} item saved.", severity="error")
+                self.notify(f"Error while saving id {id} {str(e)}.", severity="error")
 
                 print(e)
 
