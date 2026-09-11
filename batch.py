@@ -33,10 +33,10 @@ class Corpus(App[None]):
         self.text_by_id = {}
         self.words_by_id = {}
 
-    def _commit_changes(self) -> None:
+    def _commit_changes(self, files_modified: int) -> None:
         try:
             GitCommands.add_files()
-            GitCommands.commit_changes(len(self.text_by_id),self.corpus)
+            GitCommands.commit_changes(files_modified,self.corpus)
             GitCommands.push_changes()
         except Exception as e:
             self.notify(f"It was not possible to save data on git.", severity="error")
@@ -96,7 +96,7 @@ class Corpus(App[None]):
 
                 print(e)
 
-        self._commit_changes()
+        self._commit_changes(len(selected))
 
         self.notify(f"{len(selected)} item saved.", severity="information")
     
