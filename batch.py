@@ -3,7 +3,7 @@ from pathlib import Path
 
 from textual.app import App, ComposeResult
 from textual.containers import Vertical, VerticalScroll
-from textual.widgets import Footer, Header, Label, Select, SelectionList, Static
+from textual.widgets import Footer, Header, Input, Label, Select, SelectionList, Static
 from textual.widgets import Button
 
 from common import CommonFileOperations
@@ -167,8 +167,32 @@ class Corpus(App[None]):
 
         return options
 
+    def on_input_submitted(self, event: Input.Submitted) -> None:
+        texto = event.value.strip()
+        event.input.value = ""          # limpa a barra
+    
+        if not texto:
+            return
+    
+        partes = texto.split()
+        comando = partes[0]
+    
+        if comando == "/details":
+            if len(partes) != 2:
+                self.notify("Uso: /details <id>", severity="warning")
+                return
+            try:
+                sid = int(partes[1])
+            except ValueError:
+                self.notify(f"Id inválido: {partes[1]}", severity="warning")
+                return
+            self._mostrar_detalhes(sid)
+        else:
+            self.notify(f"Comando desconhecido: {comando}", severity="warning")
+
     def compose(self) -> ComposeResult:
         yield Header()
+        yield Input(placeholder="Comando (ex: /details 898)", id="cmd")
         yield Select(
             options=self.get_corpus_details(),
             prompt="Choose the corpus to select samples",
@@ -177,11 +201,10 @@ class Corpus(App[None]):
         yield Footer()
 
     def _render_list(self, items: list[tuple]) -> None:
-        # cria os widgets que serão REUTILIZADOS nas recargas
         self._sel = SelectionList[str](*items, id="samples")
         self._details = Static("None item selected.", id="details")
         self._save_btn = Button("Save items", id="save", variant="primary")
-    
+
         self.mount(
             Vertical(
                 Label(f"{self.corpus}", id="title"),

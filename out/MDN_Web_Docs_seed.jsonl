@@ -2,3 +2,8 @@
 {"id": 3062, "en": "{{Glossary(“URL”)}}, an address system that keeps track of Web documents ", "pt": "“URL”, um sistema de endereços que mantém o controle de documentos da Web; "}
 {"id": 1003, "en": "Its “domain name” is a way to address this authority as part of the hierarchy in a {{Glossary(“URL”)}} - usually the most memorable part of it, for instance a brand name. ", "pt": "Seu “nome de domínio” é uma forma de endereçar essa autoridade como parte da hierarquia de uma {{Glossary(“URL”)}} — normalmente a parte mais memorável dela, por exemplo por ser uma marca. "}
 {"id": 11396, "en": "while (i < cats.length) { ", "pt": "while (i < cats.length) { "}
+{"id": 9394, "en": "Ideally, multiple resolutions would be made available to the user’s web browser. ", "pt": "E se isto é mostrado muito menor que seu tamanho original, é um desperdício de largura de banda - usuários mobile especialmente não querem ter que gastar seu pacote de dados baixando uma imagem grande feita para desktop, quando uma imagem pequena poderia ser feita para seu dispositivo. "}
+{"id": 10264, "en": "We use their {{domxref(“Node.textContent”)}} property — which represents the text content of an element — to insert a message inside the paragraph, and an “x” inside the button. ", "pt": "Nós usamos a sua propriedade {{domxref(“Node.textContent”)}} — que representa o conteúdo de texto de um elemento — para inserir uma mensagem dentro do parágrafo e um ‘x’ dentro do botão. "}
+{"id": 12125, "en": "solution.value = \"Show solution\"; ", "pt": "solution.value = \"Show solution\"; "}
+{"id": 8406, "en": "Donec a diam ", "pt": "Donec a diam "}
+{"id": 6137, "en": "<form> ", "pt": "<form> "}
