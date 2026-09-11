@@ -176,37 +176,44 @@ class Corpus(App[None]):
         )
         yield Footer()
 
-    def _reload_list(self) -> None:
-        div = self.query_one("#painel", Vertical)
-        div.remove_children()      
+    def _render_list(self, items: list[tuple]) -> None:
+        # cria os widgets que serão REUTILIZADOS nas recargas
+        self._sel = SelectionList[str](*items, id="samples")
+        self._details = Static("None item selected.", id="details")
+        self._save_btn = Button("Save items", id="save", variant="primary")
+    
+        self.mount(
+            Vertical(
+                Label(f"{self.corpus}", id="title"),
+                VerticalScroll(self._sel),
+                self._details,
+                self._save_btn,
+                id="painel",
+            )
+        )
 
+    def _reload_list(self) -> None:
         items = self.get_unique_samples()
         if not items:
-            div.mount(Static("No more samples available for this corpus."))
+            self._details.update("No more samples available for this corpus.")
+            # esconde a lista e o botão, se quiser
+            self._sel.display = False
+            self._save_btn.display = False
             return
 
-        div.mount(
-            VerticalScroll(SelectionList[str](*items, id="samples")),
-            Static("None item selected.", id="details"),
-            Button("Save items", id="save", variant="primary"),
-        )
+        # recria as OPÇÕES dentro da MESMA SelectionList
+        # (SelectionList tem add_option/remove/clear)
+        self._sel.clear_options()
+        for summary, sid in items:
+            self._sel.add_option((summary, sid))
 
-    def _render_list(self, items: list[tuple]) -> None:
-        div = Vertical(
-            Label(f"{self.corpus}", id="title"),
-            VerticalScroll(SelectionList[str](*items, id="samples")),
-            Static("None item selected.", id="details"),
-            Button("Save items", id="save", variant="primary"),
-            id="painel",
-        )
-        self.mount(div)
+        self._details.update("None item selected.")
 
     def on_select_changed(self, event: Select.Changed) -> None:
         if event.value is Select.BLANK:
             return
 
         self.corpus = event.value
-
         self.query_one(Select).remove()
 
         items = self.get_unique_samples()
@@ -215,6 +222,7 @@ class Corpus(App[None]):
             return
 
         self._render_list(items)
+
 
 
 def main():
