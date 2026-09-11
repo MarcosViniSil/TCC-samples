@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 import random
 from typing import Optional
 from prose_tokenizer import tokenize
@@ -36,3 +37,10 @@ class CommonFileOperations:
         doc = tokenize(sentence)
 
         return doc.counts.word_count
+
+    @staticmethod
+    def file_existence(file_path: str) -> int:
+        file_path = Path(file_path)
+        
+        if not file_path.is_file():
+            raise ValueError(f"The file {file_path} does not exists")

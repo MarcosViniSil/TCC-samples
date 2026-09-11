@@ -1,4 +1,5 @@
 import json
+from pathlib import Path
 
 from textual.app import App, ComposeResult
 from textual.containers import Vertical, VerticalScroll
@@ -19,6 +20,9 @@ from gitBackup import GitCommands
 JSON_FILE_PATH = "./OpenSubtitles.jsonl"
 BATCH_SIZE = 10
 
+OUT_FOLDER = Path("out")
+OUT_FOLDER.mkdir(parents=True, exist_ok=True)
+
 MAX_TRIES = 1000
 
 CORPUS_AVAILABLE = ["OpenSubtitles", "MDN_Web_Docs", "PHP", "teste"]
@@ -32,6 +36,7 @@ class Corpus(App[None]):
         self.corpus = ""
         self.text_by_id = {}
         self.words_by_id = {}
+        self.raw_by_id = {}
 
     def _commit_changes(self, files_modified: int) -> None:
         try:
@@ -44,11 +49,14 @@ class Corpus(App[None]):
 
     def get_unique_samples(self) -> None:
         FILE_PATH = f"./{self.corpus}.jsonl"
+        CommonFileOperations.file_existence(FILE_PATH)
+
         tries = 0
         i = 0
 
         self.text_by_id = {}
         self.words_by_id = {}
+        self.raw_by_id = {} 
         samples = []
 
         while i < BATCH_SIZE and tries < MAX_TRIES:
@@ -69,6 +77,12 @@ class Corpus(App[None]):
                 self.text_by_id[line_json["id"]] = summary
                 self.words_by_id[line_json["id"]] = length_sentence
 
+                self.raw_by_id[line_json["id"]] = {
+                    "id": line_json["id"],
+                    "en": line_json["en"],
+                    "pt": line_json["pt"],
+                }
+
                 samples.append((summary, line_json["id"]))
 
             i += 1
@@ -86,18 +100,34 @@ class Corpus(App[None]):
             )
             return
 
-        for id in selected:
-            try:
-                length_sentence = self.words_by_id[id]
-                insert_file(self.conn,id,self.corpus,length_sentence)
-            except Exception as e:
-                self.notify(f"Error while saving id {id} {str(e)}.", severity="error")
+        saved = 0
+        error = 0
 
-                print(e)
+        OUTPUT_FILE = f"{OUT_FOLDER}/{self.corpus}_seed.jsonl"
 
-        self._commit_changes(len(selected))
+        with open(OUTPUT_FILE, "a", encoding="utf-8") as out:
+            for sid in selected:
+                try:
+                    length_sentence = self.words_by_id[sid]
+                    insert_file(self.conn, sid, self.corpus, length_sentence)
 
-        self.notify(f"{len(selected)} item saved.", severity="information")
+                    register = self.raw_by_id[sid]
+                    out.write(json.dumps(register, ensure_ascii=False) + "\n")
+
+                    saved += 1
+                except Exception as e:
+                    error += 1
+                    self.notify(
+                        f"Error while saving id {sid}: {e}",
+                        severity="error",
+                    )
+
+        self._commit_changes(saved)
+
+        if saved:
+            self.notify(f"{saved} item(s) saved.", severity="information")
+        if error:
+            self.notify(f"{error} item(s) failed.", severity="warning")
     
 
     def on_selection_list_selected_changed(
