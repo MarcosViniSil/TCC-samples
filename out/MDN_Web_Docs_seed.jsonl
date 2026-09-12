@@ -2,3 +2,4 @@
 {"id": 6429, "en": "The two most important attributes are action and method. ", "pt": "Os dois atributos mais importantes são:action e method. "}
 {"id": 10608, "en": "const para = document.querySelector(\"p\"); ", "pt": "var para = document.querySelector(\"p\"); "}
 {"id": 10285, "en": "Calling the function ", "pt": "Chamando a função "}
+{"id": 7866, "en": "article::before { ", "pt": "article::before { "}
