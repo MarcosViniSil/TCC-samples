@@ -92,3 +92,4 @@
 {"id": 16864, "en": "zerofill - 1 if the column is zero-filled", "pt": "zerofill - 1 se a coluna é preenchida com zero"}
 {"id": 7635, "en": "number of links", "pt": "número de links"}
 {"id": 22709, "en": "?php $handle = popen (\"/ bin / ls\", \"r\");?", "pt": "?php $fp = popen (\"/ bin / ls\", \"r\");?"}
+{"id": 16687, "en": "See also: mysql_query(), mysql_num_rows().", "pt": "Veja também: mysql_query() e mysql_num_rows()."}
