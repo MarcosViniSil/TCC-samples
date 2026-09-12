@@ -16,3 +16,4 @@
 {"id": 23986, "en": "See also trim() and ltrim().", "pt": "Veja também trim() e ltrim()."}
 {"id": 16817, "en": "Example 4. mysql_fetch_array with MYSQL_BOTH", "pt": "Exemplo 4. mysql_fetch_array com MYSQL_BOTH"}
 {"id": 16977, "en": "This is deprecated, however.", "pt": "Esta função está depreciada."}
+{"id": 17143, "en": "For downward compatibility mysql_numfields() can also be used.", "pt": "Para compatibilidade com versões anteriores mysql_numfields() também pode ser usada."}
