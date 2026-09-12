@@ -34,3 +34,6 @@
 {"id": 22330, "en": "See also pg_lo_tell().", "pt": "Veja também pg_lo_tell()."}
 {"id": 32165, "en": "Note: db4 conflicts with db2 and db3.", "pt": "Nota: db4 conflicts with db2 and db3."}
 {"id": 2188, "en": "Example 1. asort() example", "pt": "Exemplo de asort()"}
+{"id": 13316, "en": "The sign string immediately succeeds the currency_symbol", "pt": "A string sinal sucede imediatamente o simbolo da moeda"}
+{"id": 13342, "en": "\"tm_year\" - Years since 1900", "pt": "\"tm_year\" - Anos desde 1900"}
+{"id": 8117, "en": "\"mon\" - month, numeric", "pt": "\"mon\" - mês, numérico"}
