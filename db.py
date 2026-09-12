@@ -12,17 +12,12 @@ def create_database() -> None:
         conn.execute(
             """
             CREATE TABLE IF NOT EXISTS files (
-                id INTEGER PRIMARY KEY,
+                id INTEGER NOT NULL,
                 corpus_name TEXT NOT NULL,
                 sentence_size INTEGER NOT NULL,
-                is_valid BOOLEAN NOT NULL
+                is_valid BOOLEAN NOT NULL,
+                PRIMARY KEY (corpus_name, id)
             )
-            """
-        )
-        conn.execute(
-            """
-            CREATE INDEX IF NOT EXISTS idx_files
-            ON files(id)
             """
         )
         conn.commit()
@@ -93,6 +88,7 @@ def insert_file(
         """
         INSERT INTO files (id, corpus_name, sentence_size, is_valid)
         VALUES (?, ?, ?, ?)
+        ON CONFLICT(corpus_name, id) DO NOTHING
         """,
         (id, corpus_name, sentence_size, is_valid),
     )
