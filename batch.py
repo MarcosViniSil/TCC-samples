@@ -197,12 +197,6 @@ class Corpus(App[None]):
 
         selected = self._sel.selected
 
-        if not selected:
-            self._details.update(
-                "[b]None selected. Select something before continue[/b]"
-            )
-            return
-
         self._save_btn.disabled = True
 
         saved = 0
@@ -210,22 +204,23 @@ class Corpus(App[None]):
         output_file = f"{OUT_FOLDER}/{self.corpus}_seed.jsonl"
 
         try:
-            with open(output_file, "a", encoding="utf-8") as out:
-                for sid in selected:
-                    try:
-                        length_sentence = self.words_by_id[sid]
-                        insert_file(self.conn, sid, self.corpus, length_sentence, True)
+            if selected:
+                with open(output_file, "a", encoding="utf-8") as out:
+                    for sid in selected:
+                        try:
+                            length_sentence = self.words_by_id[sid]
+                            insert_file(self.conn, sid, self.corpus, length_sentence, True)
 
-                        register = self.raw_by_id[sid]
-                        out.write(json.dumps(register, ensure_ascii=False) + "\n")
+                            register = self.raw_by_id[sid]
+                            out.write(json.dumps(register, ensure_ascii=False) + "\n")
 
-                        saved += 1
-                    except Exception as e:
-                        error += 1
-                        self.notify(
-                            f"Error while saving id {sid}: {e}",
-                            severity="error",
-                        )
+                            saved += 1
+                        except Exception as e:
+                            error += 1
+                            self.notify(
+                                f"Error while saving id {sid}: {e}",
+                                severity="error",
+                            )
 
             for sid, _length in list(self.words_by_id.items()):
                 if sid in selected:
