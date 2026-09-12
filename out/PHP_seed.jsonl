@@ -96,3 +96,4 @@
 {"id": 16606, "en": "See also: mysql_real_escape_string()", "pt": "Veja também: mysql_real_escape_string()"}
 {"id": 22544, "en": "encoding is the client encoding and can be either:", "pt": "encoding é a codificação do cliente e pode ter os valores:"}
 {"id": 2044, "en": "The printout of the program above will be:", "pt": "A saída do programa acima seria:"}
+{"id": 31555, "en": "References are not stored statically:", "pt": "Referências não são armazenadas estaticamente:"}
