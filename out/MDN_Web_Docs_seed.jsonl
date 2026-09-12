@@ -15,3 +15,5 @@
 {"id": 819, "en": "Note: Call stack list: - sayHi - greeting ", "pt": "Nota: Pilha de chamadas: - saudacao > - digaOi "}
 {"id": 2932, "en": "This will give you a window like the following: ", "pt": "Aparecerá uma janela como a seguinte: "}
 {"id": 10562, "en": "This is logically not what we want! ", "pt": "Isso logicamente não é o que queremos! "}
+{"id": 8906, "en": "But they are different things! ", "pt": "Mas são coisas diferentes! "}
+{"id": 10291, "en": "We are only calling it once, after all. ", "pt": "Nós só estamos chamando uma vez, afinal. "}
