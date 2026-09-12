@@ -61,3 +61,6 @@
 {"id": 2477, "en": "<span style=\"font-size: 2.5em\">My 2nd subheading</span> ", "pt": "<font size=\"5\">Meu segundo sub-título</font> "}
 {"id": 1970, "en": "Semantics in CSS ", "pt": "Semântica em CSS "}
 {"id": 11712, "en": "return num * num * num; ", "pt": "return num * num * num; "}
+{"id": 7210, "en": "Here, we have only really scratched the surface of HTML. ", "pt": "Aqui, nós só arranhamos na superfície do HTML. "}
+{"id": 8172, "en": "You need to be careful! ", "pt": "Práticas recomendadas "}
+{"id": 8776, "en": "Each heading has to be wrapped in a heading element: ", "pt": "Cada título deve ser envolvido em um elemento de título: "}
