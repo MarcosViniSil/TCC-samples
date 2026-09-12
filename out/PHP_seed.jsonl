@@ -68,3 +68,4 @@
 {"id": 2899, "en": "Example 1. chr() example", "pt": "Exemplo 1. chr() exemplo"}
 {"id": 16867, "en": "See also mysql_field_seek().", "pt": "Veja também mysql_field_seek()."}
 {"id": 7162, "en": "See also fgets(), fopen(), fsockopen(), popen(), and strip_tags().", "pt": "Veja também fgets(), fopen(), fsockopen(), popen() e strip_tags()."}
+{"id": 16192, "en": "For further details, also see mssql_fetch_row().", "pt": "Para maiores detalhes veja também mssql_fetch_row()."}
