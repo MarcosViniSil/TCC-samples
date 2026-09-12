@@ -64,3 +64,4 @@
 {"id": 25414, "en": "function returns_reference() {return $someref;} $newref = returns_reference();", "pt": "function retorna_referencia() {return $alguma_referencia;} $nova_referencia = retorna_referencia();"}
 {"id": 2358, "en": "See also bcmul().", "pt": "Veja também bcmul()."}
 {"id": 26973, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
+{"id": 8215, "en": "Example 1. getimagesize (file)", "pt": "Exemplo 1. getimagesize (file)"}
