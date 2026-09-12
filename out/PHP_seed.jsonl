@@ -6,3 +6,5 @@
 {"id": 9047, "en": "Available quote_style constants", "pt": "Suporte para o segundo argumento opcional foi adicionado no PHP 3.0.17 e PHP 4.0.3."}
 {"id": 1189, "en": "PHP 3 does not support $HTTP_POST_FILES.", "pt": "PHP 3 não suporta $HTTP_POST_FILES."}
 {"id": 25425, "en": "Example 2. sscanf() - using optional parameters", "pt": "Exemplo 2. sscanf() - using optional parameters"}
+{"id": 11812, "en": "See also explode(), and split().", "pt": "Veja também explode(), e split()."}
+{"id": 8216, "en": "Example 2. getimagesize (URL)", "pt": "Exemplo 2. getimagesize (URL)"}
