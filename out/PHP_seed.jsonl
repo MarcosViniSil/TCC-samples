@@ -78,3 +78,4 @@
 {"id": 22098, "en": "This function used to be called pg_fieldsize().", "pt": "Esta função era chamada pg_fieldsize()."}
 {"id": 2902, "en": "See also sprintf() with a format string of %c.", "pt": "Veja também sprintf() com uma string no formato de %c."}
 {"id": 26984, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
+{"id": 24768, "en": "See also count().", "pt": "Veja também count()."}
