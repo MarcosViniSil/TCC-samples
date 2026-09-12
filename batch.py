@@ -241,7 +241,7 @@ class Corpus(App[None]):
                         severity="error",
                     )
 
-            # self._commit_changes(saved)
+            self._commit_changes(saved)
 
             if saved:
                 self.notify(f"{saved} item(s) saved.", severity="information")
