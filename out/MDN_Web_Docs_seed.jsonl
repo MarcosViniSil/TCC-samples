@@ -3,3 +3,7 @@
 {"id": 10608, "en": "const para = document.querySelector(\"p\"); ", "pt": "var para = document.querySelector(\"p\"); "}
 {"id": 10285, "en": "Calling the function ", "pt": "Chamando a função "}
 {"id": 7866, "en": "article::before { ", "pt": "article::before { "}
+{"id": 11081, "en": "The HTML body looks like this: ", "pt": "O corpo do HTML se parece com isto: "}
+{"id": 6422, "en": "The server answers the request using the same protocol. ", "pt": "O servidor responde a solicitação usando o mesmo protocolo. "}
+{"id": 3917, "en": "Multiple-column layout ", "pt": "Layout de várias colunas "}
+{"id": 11076, "en": "Alternatively, you could use a site like JSBin or Glitch to do your assessment. ", "pt": "Nota: Como alternativa, você pode usar um site como o JSBin ou Thimble para fazer sua avaliação. "}
