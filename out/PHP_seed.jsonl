@@ -77,3 +77,4 @@
 {"id": 5119, "en": "CONSTANT and Constant represent different values.", "pt": "CONSTANTE e Constante representam valores diferentes."}
 {"id": 22082, "en": "This function will return -1 on an error.", "pt": "Esta função retornará -1 em caso de erro."}
 {"id": 2031, "en": "Example 1. array_splice() examples", "pt": "Exemplos de array_splice()"}
+{"id": 9014, "en": "In your httpd.conf you can add the following:", "pt": "No seu httpd.conf você pode adicionar o seguinte:"}
