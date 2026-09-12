@@ -37,3 +37,6 @@
 {"id": 13316, "en": "The sign string immediately succeeds the currency_symbol", "pt": "A string sinal sucede imediatamente o simbolo da moeda"}
 {"id": 13342, "en": "\"tm_year\" - Years since 1900", "pt": "\"tm_year\" - Anos desde 1900"}
 {"id": 8117, "en": "\"mon\" - month, numeric", "pt": "\"mon\" - mês, numérico"}
+{"id": 2254, "en": "See also acos() and atan().", "pt": "Veja também acos() e atan()."}
+{"id": 19063, "en": "See also: sprintf(), printf() and sscanf().", "pt": "Veja também: sprintf(), printf() e sscanf()."}
+{"id": 31397, "en": "See the setcookie() manual page for more details and examples.", "pt": "Veja o manual de setcookie() para mais detalhes e exemplos."}
