@@ -16,7 +16,7 @@ class CommonFileOperations:
         if file_size == 0:
             return None
 
-        ITERATIONS_UNTIL_FAIL = max(1, int((1 * file_size) / 100)) # 1%
+        ITERATIONS_UNTIL_FAIL = max(5, min(50, int(file_size * 0.001) or 5))
 
         with open(file_path, "rb") as file:
             for _ in range(ITERATIONS_UNTIL_FAIL):
