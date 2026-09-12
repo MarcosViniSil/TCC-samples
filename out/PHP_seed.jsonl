@@ -24,3 +24,4 @@
 {"id": 31395, "en": "This is the same restriction as for the header() function.", "pt": "Esta é a mesma restrição da função header()."}
 {"id": 22532, "en": "Query may be canceled by calling pg_cancel_query().", "pt": "A consulta pode ser cancelada chamando pg_cancel_query()."}
 {"id": 23651, "en": "Note that readdir() will return the. and.. entries.", "pt": "Note que readdir() irá retornar o. e..."}
+{"id": 11594, "en": "Example 1. imap_mime_header_decode() example", "pt": "Exemplo 1. imap_mime_header_decode() example"}
