@@ -38,3 +38,5 @@
 {"id": 33367, "en": "This socket will be found in / tmp / .s.PGSQL.5432.", "pt": "Este socket será encontrado em / tmp / .s.PGSQL.5432."}
 {"id": 1945, "en": "Example 1. array_reduce() example", "pt": "Exemplo de array_reduce()"}
 {"id": 28026, "en": "This example would display:", "pt": "Esse exemplo mostraria:"}
+{"id": 4463, "en": "Use this function at your own risk.", "pt": "Esteja avisado, e use esta função por sua própria conta e risco."}
+{"id": 22566, "en": "See also fopen() and pg_untrace().", "pt": "Veja também fopen() e pg_untrace()."}
