@@ -86,3 +86,6 @@
 {"id": 22013, "en": "Boolean is returned as \"t\" or \"f \".", "pt": "Boolean é retornado como \"t\" ou \"f \"."}
 {"id": 18088, "en": "Example 1. ncurses_mousemask() example", "pt": "Exemplo 1. ncurses_mousemask() example"}
 {"id": 22449, "en": "That final NULL-character is added automatically.", "pt": "O caractere NULL final é adicionado automaticamente."}
+{"id": 3123, "en": "The supported types are:", "pt": "Os tipos suportados são:"}
+{"id": 1816, "en": "Example 1. array_merge() example", "pt": "Exemplo de array_merge()"}
+{"id": 8103, "en": "See also chdir().", "pt": "Veja também: chdir()."}
