@@ -22,3 +22,5 @@
 {"id": 25317, "en": "SORT_NUMERIC - compare items numerically", "pt": "SORT_NUMERIC - compara os itens como valores numéricos"}
 {"id": 31514, "en": "However, within user-defined functions a local function scope is introduced.", "pt": "Entretanto, com as funções definidas pelo usuário, um escopo local é introduzido."}
 {"id": 7993, "en": "See also fread(), fopen(), fsockopen(), popen(), and fputs().", "pt": "Veja também fread(), fopen(), fsockopen(), popen() e fputs()."}
+{"id": 16157, "en": "See also mssql_pconnect(), mssql_close().", "pt": "Veja também mssql_pconnect(), mssql_close()."}
+{"id": 7434, "en": "Example 1. floor() example", "pt": "Exemplo 1. exemplos de floor()"}
