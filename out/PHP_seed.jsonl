@@ -20,3 +20,4 @@
 {"id": 17182, "en": "The optional client_flags parameter became available in PHP 4.3.0.", "pt": "O parametro opcional client_flags tornou-se disponivel no PHP 4.3.0."}
 {"id": 34125, "en": "These individual globals are not autoglobals.", "pt": "Estas variáveis globais individuais não são superglobais."}
 {"id": 25317, "en": "SORT_NUMERIC - compare items numerically", "pt": "SORT_NUMERIC - compara os itens como valores numéricos"}
+{"id": 31514, "en": "However, within user-defined functions a local function scope is introduced.", "pt": "Entretanto, com as funções definidas pelo usuário, um escopo local é introduzido."}
