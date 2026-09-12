@@ -61,3 +61,5 @@
 {"id": 13324, "en": "See also setlocale().", "pt": "Veja também setlocale()."}
 {"id": 31372, "en": "And, in PHP 3 it was always on.", "pt": "E no PHP ele era sempre on."}
 {"id": 1740, "en": "This makes $result have", "pt": "Isso faz com que $result tenha"}
+{"id": 25414, "en": "function returns_reference() {return $someref;} $newref = returns_reference();", "pt": "function retorna_referencia() {return $alguma_referencia;} $nova_referencia = retorna_referencia();"}
+{"id": 2358, "en": "See also bcmul().", "pt": "Veja também bcmul()."}
