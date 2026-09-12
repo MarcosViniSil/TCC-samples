@@ -82,3 +82,4 @@
 {"id": 23922, "en": "See also fseek() and ftell().", "pt": "Veja também fseek() e ftell()."}
 {"id": 30669, "en": "Note that these are not single-quotes!", "pt": "Note que não são apóstrofes!"}
 {"id": 3158, "en": "cos() returns the cosine of the arg parameter.", "pt": "cos() retorna o coseno de arg."}
+{"id": 625, "en": "In the beginning of each iteration, expr2 is evaluated.", "pt": "No começo de cada iteração, expr2 é avaliada."}
