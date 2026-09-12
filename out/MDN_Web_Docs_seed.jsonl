@@ -10,3 +10,4 @@
 {"id": 12474, "en": "Retrieving a specific string character ", "pt": "Recuperando um caractere de string específico "}
 {"id": 10220, "en": "Try varying the string to change the message. ", "pt": "Tente variar a string para mudar a mensagem. "}
 {"id": 12084, "en": "You might need an assignment operator to do this. ", "pt": "Você pode precisar de um operador aritiméticos para isto. "}
+{"id": 7120, "en": "<body></body> — the {{htmlelement(“body”)}} element. ", "pt": "<body></body> — o elemento {{htmlelement(“body”)}}. "}
