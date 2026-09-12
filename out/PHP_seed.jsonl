@@ -60,3 +60,5 @@
 {"id": 22173, "en": "This function is experimental.", "pt": "Esta função é experimental."}
 {"id": 30944, "en": "The foreach control structure exists specifically for arrays.", "pt": "foreach foreach existe especificamente para lidar com arrays."}
 {"id": 3028, "en": "Example 1. compact() example", "pt": "Exemplo de compact()"}
+{"id": 16789, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saida:"}
+{"id": 9020, "en": "http: / /your.server.com / source / path / to / script.php", "pt": "http: / /your.server.com / source / caminnho / para / script.php"}
