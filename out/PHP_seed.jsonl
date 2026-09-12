@@ -14,3 +14,4 @@
 {"id": 21760, "en": "Returns TRUE on success or FALSE on failure.", "pt": "Retorna TRUE em caso de sucesso ou FALSE em falhas."}
 {"id": 31537, "en": "Consider the following example:", "pt": "Considere o seguinte exemplo:"}
 {"id": 23986, "en": "See also trim() and ltrim().", "pt": "Veja também trim() e ltrim()."}
+{"id": 16817, "en": "Example 4. mysql_fetch_array with MYSQL_BOTH", "pt": "Exemplo 4. mysql_fetch_array com MYSQL_BOTH"}
