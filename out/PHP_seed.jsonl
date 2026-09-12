@@ -75,3 +75,5 @@
 {"id": 33949, "en": "Whether to transparently compress pages.", "pt": "Serve para comprimir páginas de modo transparente."}
 {"id": 7638, "en": "device type if inode device *", "pt": "tipo de device se inode device *"}
 {"id": 5119, "en": "CONSTANT and Constant represent different values.", "pt": "CONSTANTE e Constante representam valores diferentes."}
+{"id": 22082, "en": "This function will return -1 on an error.", "pt": "Esta função retornará -1 em caso de erro."}
+{"id": 2031, "en": "Example 1. array_splice() examples", "pt": "Exemplos de array_splice()"}
