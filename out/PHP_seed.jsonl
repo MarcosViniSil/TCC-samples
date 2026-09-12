@@ -85,3 +85,4 @@
 {"id": 625, "en": "In the beginning of each iteration, expr2 is evaluated.", "pt": "No começo de cada iteração, expr2 é avaliada."}
 {"id": 30809, "en": "References inside the constructor", "pt": "Referências dentro do construtor"}
 {"id": 24285, "en": "See also session_decode()", "pt": "session_encode() retorna uma string com o conteúdo da sessão corrente codificado em seu interior."}
+{"id": 31152, "en": "Pseudo-types used in this documentation", "pt": "Pseudo-tipos utilizados nesta documentação"}
