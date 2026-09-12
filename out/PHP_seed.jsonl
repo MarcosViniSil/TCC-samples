@@ -98,3 +98,4 @@
 {"id": 8081, "en": "Example 1. get_class_vars() example", "pt": "Exemplo get_class_vars()"}
 {"id": 544, "en": "There is just one syntax for do..while loops:", "pt": "Há apenas uma sintaxe para loops do..while:"}
 {"id": 20699, "en": "pathinfo() returns an associative array containing information about path.", "pt": "pathinfo() retorna um array associatico contendo informações sobre o path."}
+{"id": 34116, "en": "Introduced in 4.1.0.", "pt": "Introduzida na versão 4.1.0."}
