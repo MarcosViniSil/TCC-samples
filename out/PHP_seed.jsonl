@@ -97,3 +97,4 @@
 {"id": 23498, "en": "Example 1. pspell_new_personal()", "pt": "Exemplo 1. pspell_new_personal()"}
 {"id": 8081, "en": "Example 1. get_class_vars() example", "pt": "Exemplo get_class_vars()"}
 {"id": 544, "en": "There is just one syntax for do..while loops:", "pt": "Há apenas uma sintaxe para loops do..while:"}
+{"id": 20699, "en": "pathinfo() returns an associative array containing information about path.", "pt": "pathinfo() retorna um array associatico contendo informações sobre o path."}
