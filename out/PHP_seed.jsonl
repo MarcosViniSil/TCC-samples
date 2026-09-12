@@ -99,3 +99,5 @@
 {"id": 544, "en": "There is just one syntax for do..while loops:", "pt": "Há apenas uma sintaxe para loops do..while:"}
 {"id": 20699, "en": "pathinfo() returns an associative array containing information about path.", "pt": "pathinfo() retorna um array associatico contendo informações sobre o path."}
 {"id": 34116, "en": "Introduced in 4.1.0.", "pt": "Introduzida na versão 4.1.0."}
+{"id": 30388, "en": "See below for more information.", "pt": "Veja abaixo para mais detalhes."}
+{"id": 31976, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
