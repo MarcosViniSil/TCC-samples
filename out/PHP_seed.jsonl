@@ -84,3 +84,5 @@
 {"id": 13, "en": "The documentation is stored in the phpdoc module.", "pt": "A documentação é guardada no módulo phpdoc."}
 {"id": 12800, "en": "This example would display:", "pt": "O programa acima mostraria:"}
 {"id": 22013, "en": "Boolean is returned as \"t\" or \"f \".", "pt": "Boolean é retornado como \"t\" ou \"f \"."}
+{"id": 18088, "en": "Example 1. ncurses_mousemask() example", "pt": "Exemplo 1. ncurses_mousemask() example"}
+{"id": 22449, "en": "That final NULL-character is added automatically.", "pt": "O caractere NULL final é adicionado automaticamente."}
