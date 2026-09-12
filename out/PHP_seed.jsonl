@@ -68,3 +68,6 @@
 {"id": 19061, "en": "This is achieved with this line:", "pt": "Isto é feito com a linha:"}
 {"id": 165, "en": "They all can be downloaded here: http: / /www.php.net / docs.php.", "pt": "Todos eles podem ser baixados aqui: http: / /www.php.net / docs.php."}
 {"id": 16901, "en": "The row is returned as an array.", "pt": "A linha é retornada como uma matriz."}
+{"id": 28236, "en": "It performs an Apache sub-request.", "pt": "Ela realiza uma sub-requisição do Apache."}
+{"id": 22520, "en": "See also pg_convert()", "pt": "Veja também pg_convert()"}
+{"id": 30370, "en": "There are no destructors in PHP.", "pt": "Não existem destrutores no PHP."}
