@@ -29,3 +29,6 @@
 {"id": 12560, "en": "Safe mode limitations are not taken into account.", "pt": "Limitações do safemode não são levadas em consideração."}
 {"id": 780, "en": "Number of frames in the following stack dump.", "pt": "Número de janelas (frames) na saida atual."}
 {"id": 5149, "en": "See also: unlink() to delete files, unset() to delete variables.", "pt": "Veja também: unlink() para deletar arquivos, unset() para apagar váriaveis."}
+{"id": 30134, "en": "This means that HTML code after / /?", "pt": "Isto significa que código HTML após / /?"}
+{"id": 323, "en": "See also References Explained.", "pt": "Veja também Referências Explicadas."}
+{"id": 11846, "en": "See also array_search().", "pt": "Veja também array_search()."}
