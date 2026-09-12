@@ -72,3 +72,4 @@
 {"id": 12805, "en": "The second parameter was added in PHP 4.", "pt": "O segundo parâmetro foi adicionado a partir do PHP 4."}
 {"id": 30945, "en": "It provides an easy way to traverse an array.", "pt": "Ele provém uma maneira fácil de percorrer qualquer array."}
 {"id": 15453, "en": "Example 1. microtime() example", "pt": "Exemplo 1. microtime() exemplo"}
+{"id": 1803, "en": "The printout of the program above will be:", "pt": "A saída do programa acima seria:"}
