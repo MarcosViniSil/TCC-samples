@@ -31,3 +31,4 @@
 {"id": 25315, "en": "Sorting type flags:", "pt": "Sinais de tipo de ordenação:"}
 {"id": 30134, "en": "This means that HTML code after / /?", "pt": "Isto significa que código HTML após / /?"}
 {"id": 17296, "en": "Example 1. mysql_tablename() Example", "pt": "Exemplo mysql_tablename()"}
+{"id": 22330, "en": "See also pg_lo_tell().", "pt": "Veja também pg_lo_tell()."}
