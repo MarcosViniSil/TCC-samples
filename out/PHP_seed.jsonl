@@ -36,3 +36,4 @@
 {"id": 11889, "en": "Example 12-7. include() and the return() statement", "pt": "Instruções include() e return()"}
 {"id": 8326, "en": "See also get_class_methods() and get_class_vars()!", "pt": "Veja também get_class_methods() e get_class_vars()!"}
 {"id": 33367, "en": "This socket will be found in / tmp / .s.PGSQL.5432.", "pt": "Este socket será encontrado em / tmp / .s.PGSQL.5432."}
+{"id": 1945, "en": "Example 1. array_reduce() example", "pt": "Exemplo de array_reduce()"}
