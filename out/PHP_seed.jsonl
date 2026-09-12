@@ -20,3 +20,5 @@
 {"id": 22068, "en": "Field numbering starts at 0.", "pt": "A numeração de campo inicia-se em 0."}
 {"id": 27815, "en": "The comparison function is user-defined.", "pt": "A função de comparacão é definida pelo usuário."}
 {"id": 18899, "en": "This function is currently not documented; only the argument list is available.", "pt": "Esta função não está documentada, somente a lista de argumentos está disponível."}
+{"id": 29673, "en": "A recompile of Apache is not needed.", "pt": "Não será necessário recompilar o Apache."}
+{"id": 31395, "en": "This is the same restriction as for the header() function.", "pt": "Esta é a mesma restrição da função header()."}
