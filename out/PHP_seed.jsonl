@@ -49,3 +49,4 @@
 {"id": 17133, "en": "See also: mysql_list_dbs(), and mysql_tablename().", "pt": "Veja também: mysql_list_dbs(), e mysql_tablename()."}
 {"id": 32841, "en": "This will produce:", "pt": "Este código irá produzir:"}
 {"id": 27502, "en": "See also sybase_pconnect(), sybase_close().", "pt": "Veja também sybase_pconnect(), sybase_close()."}
+{"id": 1903, "en": "Please read the section on Booleans for more information.", "pt": "Leia a seção em Booleanos para maiores informações."}
