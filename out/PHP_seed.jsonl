@@ -44,3 +44,4 @@
 {"id": 6354, "en": "See also compact().", "pt": "Veja também compact()."}
 {"id": 30201, "en": "By convention constant identifiers are always uppercase.", "pt": "Por convenção, o nomes de constantes são sempre em maiúsculas."}
 {"id": 22530, "en": "Script execution is not blocked while query is executing.", "pt": "A execução do script não é bloqueada enquanto as consultas estão sendo executadas."}
+{"id": 16939, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saída:"}
