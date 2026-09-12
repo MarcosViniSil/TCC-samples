@@ -42,3 +42,5 @@
 {"id": 22566, "en": "See also fopen() and pg_untrace().", "pt": "Veja também fopen() e pg_untrace()."}
 {"id": 1050, "en": "Example showing a parser error", "pt": "Exemplo mostrando um erro de interpretação"}
 {"id": 6354, "en": "See also compact().", "pt": "Veja também compact()."}
+{"id": 30201, "en": "By convention constant identifiers are always uppercase.", "pt": "Por convenção, o nomes de constantes são sempre em maiúsculas."}
+{"id": 22530, "en": "Script execution is not blocked while query is executing.", "pt": "A execução do script não é bloqueada enquanto as consultas estão sendo executadas."}
