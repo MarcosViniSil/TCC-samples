@@ -45,3 +45,5 @@
 {"id": 23922, "en": "See also fseek() and ftell().", "pt": "Veja também fseek() e ftell()."}
 {"id": 17309, "en": "You should get it when you need it.", "pt": "Você deve pega-lo quando você precisar dele."}
 {"id": 8978, "en": "The function tries to avoid breaking words.", "pt": "A função tenta evitar palavras quebradas."}
+{"id": 30201, "en": "By convention constant identifiers are always uppercase.", "pt": "Por convenção, o nomes de constantes são sempre em maiúsculas."}
+{"id": 17133, "en": "See also: mysql_list_dbs(), and mysql_tablename().", "pt": "Veja também: mysql_list_dbs(), e mysql_tablename()."}
