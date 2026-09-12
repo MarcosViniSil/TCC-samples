@@ -71,3 +71,5 @@
 {"id": 28236, "en": "It performs an Apache sub-request.", "pt": "Ela realiza uma sub-requisição do Apache."}
 {"id": 22520, "en": "See also pg_convert()", "pt": "Veja também pg_convert()"}
 {"id": 30370, "en": "There are no destructors in PHP.", "pt": "Não existem destrutores no PHP."}
+{"id": 31557, "en": "Executing this example will result in the following output:", "pt": "Executando esse exemplo você terá as seguites saídas:"}
+{"id": 33949, "en": "Whether to transparently compress pages.", "pt": "Serve para comprimir páginas de modo transparente."}
