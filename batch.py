@@ -235,12 +235,12 @@ class Corpus(App[None]):
                         f"Error while saving id {sid} for exclusion: {e}",
                         severity="error",
                     )
+            if selected:
+                self._commit_changes(saved)
 
-            self._commit_changes(saved)
-
-            if saved:
+            if selected and saved:
                 self.notify(f"{saved} item(s) saved.", severity="information")
-            if error:
+            if  error:
                 self.notify(f"{error} item(s) failed.", severity="warning")
 
             self._reload_list()
