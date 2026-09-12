@@ -50,3 +50,5 @@
 {"id": 16468, "en": "Since 4.2.0 this is no longer necessary.", "pt": "Desde o PHP 4.2.0, isto não é mais necessário."}
 {"id": 16697, "en": "If an error occurs, FALSE is returned.", "pt": "Se houver um erro é retornado FALSE."}
 {"id": 9075, "en": "Decoding html entities", "pt": "Decodificando entidades html"}
+{"id": 1838, "en": "Example 1. array_merge_recursive() example", "pt": "Exemplo de array_merge_recursive()"}
+{"id": 1957, "en": "Example 1. array_reverse() example", "pt": "Exemplo de array_reverse()"}
