@@ -14,3 +14,4 @@
 {"id": 1426, "en": "Example 1. addcslashes() example", "pt": "Exemplo 1. addcslashes() exemplo"}
 {"id": 25767, "en": "Example 1. strrchr() example", "pt": "Exemplo 1. strrchr() example"}
 {"id": 17086, "en": "Example 1. mysql_list_dbs() example", "pt": "Exemplo mysql_list_dbs()"}
+{"id": 12746, "en": "See also explode(), implode(), and split().", "pt": "Veja também explode(), implode(), e split()."}
