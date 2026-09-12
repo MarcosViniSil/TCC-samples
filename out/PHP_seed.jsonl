@@ -47,3 +47,6 @@
 {"id": 16939, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saída:"}
 {"id": 8084, "en": "100 / / As of PHP 4.2.0 var1: var2: xyz var3:", "pt": "var2: xyz var3:"}
 {"id": 6470, "en": "Example 1. fbsql_data_seek() example", "pt": "Exemplo 1. fbsql_data_seek() example"}
+{"id": 16468, "en": "Since 4.2.0 this is no longer necessary.", "pt": "Desde o PHP 4.2.0, isto não é mais necessário."}
+{"id": 16697, "en": "If an error occurs, FALSE is returned.", "pt": "Se houver um erro é retornado FALSE."}
+{"id": 9075, "en": "Decoding html entities", "pt": "Decodificando entidades html"}
