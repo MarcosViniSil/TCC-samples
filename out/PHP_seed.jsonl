@@ -66,3 +66,4 @@
 {"id": 26973, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
 {"id": 8215, "en": "Example 1. getimagesize (file)", "pt": "Exemplo 1. getimagesize (file)"}
 {"id": 2899, "en": "Example 1. chr() example", "pt": "Exemplo 1. chr() exemplo"}
+{"id": 16867, "en": "See also mysql_field_seek().", "pt": "Veja também mysql_field_seek()."}
