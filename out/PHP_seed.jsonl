@@ -41,3 +41,4 @@
 {"id": 4463, "en": "Use this function at your own risk.", "pt": "Esteja avisado, e use esta função por sua própria conta e risco."}
 {"id": 22566, "en": "See also fopen() and pg_untrace().", "pt": "Veja também fopen() e pg_untrace()."}
 {"id": 1050, "en": "Example showing a parser error", "pt": "Exemplo mostrando um erro de interpretação"}
+{"id": 6354, "en": "See also compact().", "pt": "Veja também compact()."}
