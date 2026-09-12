@@ -22,3 +22,5 @@
 {"id": 18899, "en": "This function is currently not documented; only the argument list is available.", "pt": "Esta função não está documentada, somente a lista de argumentos está disponível."}
 {"id": 29673, "en": "A recompile of Apache is not needed.", "pt": "Não será necessário recompilar o Apache."}
 {"id": 31395, "en": "This is the same restriction as for the header() function.", "pt": "Esta é a mesma restrição da função header()."}
+{"id": 22532, "en": "Query may be canceled by calling pg_cancel_query().", "pt": "A consulta pode ser cancelada chamando pg_cancel_query()."}
+{"id": 23651, "en": "Note that readdir() will return the. and.. entries.", "pt": "Note que readdir() irá retornar o. e..."}
