@@ -62,3 +62,6 @@
 {"id": 3028, "en": "Example 1. compact() example", "pt": "Exemplo de compact()"}
 {"id": 16789, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saida:"}
 {"id": 9020, "en": "http: / /your.server.com / source / path / to / script.php", "pt": "http: / /your.server.com / source / caminnho / para / script.php"}
+{"id": 7993, "en": "See also fread(), fopen(), fsockopen(), popen(), and fputs().", "pt": "Veja também fread(), fopen(), fsockopen(), popen() e fputs()."}
+{"id": 12429, "en": "This function is an alias of is_float().", "pt": "is_double - - Alias of is_float()"}
+{"id": 13236, "en": "operation to apply: 'I', 'R' or'D '", "pt": "operation to apply: 'I', 'R' ou 'D '"}
