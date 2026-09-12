@@ -57,3 +57,6 @@
 {"id": 763, "en": "A line has this format:", "pt": "Uma linha tem este formato:"}
 {"id": 2264, "en": "See also atan(), asinh() and acosh().", "pt": "Veja também atan(), asinh() e acosh()."}
 {"id": 396, "en": "Here is a short explanation of the configuration directives.", "pt": "Descrição resumida das diretivas de configuração."}
+{"id": 22173, "en": "This function is experimental.", "pt": "Esta função é experimental."}
+{"id": 30944, "en": "The foreach control structure exists specifically for arrays.", "pt": "foreach foreach existe especificamente para lidar com arrays."}
+{"id": 3028, "en": "Example 1. compact() example", "pt": "Exemplo de compact()"}
