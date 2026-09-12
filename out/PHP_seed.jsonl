@@ -94,3 +94,4 @@
 {"id": 23958, "en": "This example would display:", "pt": "Esse exemplo mostraria:"}
 {"id": 2202, "en": "Example 1. aspell_check()", "pt": "Exemplo 1. aspell_check()"}
 {"id": 22321, "en": "See also pg_lo_read_all().", "pt": "Veja também pg_lo_read_all()."}
+{"id": 23498, "en": "Example 1. pspell_new_personal()", "pt": "Exemplo 1. pspell_new_personal()"}
