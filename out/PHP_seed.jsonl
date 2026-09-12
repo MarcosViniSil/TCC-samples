@@ -58,3 +58,4 @@
 {"id": 2149, "en": "See also asort(), rsort(), ksort(), and sort().", "pt": "Veja também: asort(), rsort(), ksort() e sort()."}
 {"id": 3131, "en": "Makes a copy of a file.", "pt": "Faz uma cópia de um arquivo."}
 {"id": 16751, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saida:"}
+{"id": 13324, "en": "See also setlocale().", "pt": "Veja também setlocale()."}
