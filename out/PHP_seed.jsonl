@@ -82,3 +82,4 @@
 {"id": 7133, "en": "If an error occurs, returns FALSE.", "pt": "Se um erro ocorrer, retorna FALSE."}
 {"id": 12788, "en": "See also asort(), arsort(), ksort(), sort(), natsort(), and rsort().", "pt": "Veja também asort(), arsort(), ksort() sort(), natsort() e rsort()."}
 {"id": 13, "en": "The documentation is stored in the phpdoc module.", "pt": "A documentação é guardada no módulo phpdoc."}
+{"id": 12800, "en": "This example would display:", "pt": "O programa acima mostraria:"}
