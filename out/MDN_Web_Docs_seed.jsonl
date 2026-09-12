@@ -12,3 +12,4 @@
 {"id": 12084, "en": "You might need an assignment operator to do this. ", "pt": "Você pode precisar de um operador aritiméticos para isto. "}
 {"id": 7120, "en": "<body></body> — the {{htmlelement(“body”)}} element. ", "pt": "<body></body> — o elemento {{htmlelement(“body”)}}. "}
 {"id": 7171, "en": "These are wrapped in an {{htmlelement(“ol”)}} element. ", "pt": "Essas são envolvidas em um elemento {{htmlelement(“ol”)}}. "}
+{"id": 6625, "en": "<form action=\"/my-handling-form-page\" method=\"post\"> <ul> ", "pt": "<form action=\"/pagina-processa-dados-do-form\" method=\"post\"> "}
