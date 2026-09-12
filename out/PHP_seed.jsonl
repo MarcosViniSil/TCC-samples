@@ -73,3 +73,5 @@
 {"id": 30945, "en": "It provides an easy way to traverse an array.", "pt": "Ele provém uma maneira fácil de percorrer qualquer array."}
 {"id": 15453, "en": "Example 1. microtime() example", "pt": "Exemplo 1. microtime() exemplo"}
 {"id": 1803, "en": "The printout of the program above will be:", "pt": "A saída do programa acima seria:"}
+{"id": 2487, "en": "Regardless of the workfactor, the generated output is the same.", "pt": "Independente do valor de workfactor, a saída gerada será a mesma."}
+{"id": 1903, "en": "Please read the section on Booleans for more information.", "pt": "Leia a seção em Booleanos para maiores informações."}
