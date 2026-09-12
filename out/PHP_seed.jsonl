@@ -13,3 +13,4 @@
 {"id": 31463, "en": "This is a major change in PHP.", "pt": "Esta é a maior modificação no PHP."}
 {"id": 1426, "en": "Example 1. addcslashes() example", "pt": "Exemplo 1. addcslashes() exemplo"}
 {"id": 25767, "en": "Example 1. strrchr() example", "pt": "Exemplo 1. strrchr() example"}
+{"id": 17086, "en": "Example 1. mysql_list_dbs() example", "pt": "Exemplo mysql_list_dbs()"}
