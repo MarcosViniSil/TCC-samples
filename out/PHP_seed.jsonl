@@ -80,3 +80,5 @@
 {"id": 26984, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
 {"id": 24768, "en": "See also count().", "pt": "Veja também count()."}
 {"id": 23922, "en": "See also fseek() and ftell().", "pt": "Veja também fseek() e ftell()."}
+{"id": 30669, "en": "Note that these are not single-quotes!", "pt": "Note que não são apóstrofes!"}
+{"id": 3158, "en": "cos() returns the cosine of the arg parameter.", "pt": "cos() retorna o coseno de arg."}
