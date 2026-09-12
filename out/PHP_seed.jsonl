@@ -65,3 +65,6 @@
 {"id": 7993, "en": "See also fread(), fopen(), fsockopen(), popen(), and fputs().", "pt": "Veja também fread(), fopen(), fsockopen(), popen() e fputs()."}
 {"id": 12429, "en": "This function is an alias of is_float().", "pt": "is_double - - Alias of is_float()"}
 {"id": 13236, "en": "operation to apply: 'I', 'R' or'D '", "pt": "operation to apply: 'I', 'R' ou 'D '"}
+{"id": 19061, "en": "This is achieved with this line:", "pt": "Isto é feito com a linha:"}
+{"id": 165, "en": "They all can be downloaded here: http: / /www.php.net / docs.php.", "pt": "Todos eles podem ser baixados aqui: http: / /www.php.net / docs.php."}
+{"id": 16901, "en": "The row is returned as an array.", "pt": "A linha é retornada como uma matriz."}
