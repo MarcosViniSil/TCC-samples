@@ -87,3 +87,4 @@
 {"id": 24285, "en": "See also session_decode()", "pt": "session_encode() retorna uma string com o conteúdo da sessão corrente codificado em seu interior."}
 {"id": 31152, "en": "Pseudo-types used in this documentation", "pt": "Pseudo-tipos utilizados nesta documentação"}
 {"id": 16736, "en": "See also: mysql_create_db(), mysql_query().", "pt": "Veja também: mysql_create_db() e mysql_query()."}
+{"id": 22013, "en": "Boolean is returned as \"t\" or \"f \".", "pt": "Boolean é retornado como \"t\" ou \"f \"."}
