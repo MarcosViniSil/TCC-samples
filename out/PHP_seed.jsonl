@@ -78,3 +78,5 @@
 {"id": 22082, "en": "This function will return -1 on an error.", "pt": "Esta função retornará -1 em caso de erro."}
 {"id": 2031, "en": "Example 1. array_splice() examples", "pt": "Exemplos de array_splice()"}
 {"id": 9014, "en": "In your httpd.conf you can add the following:", "pt": "No seu httpd.conf você pode adicionar o seguinte:"}
+{"id": 29692, "en": ". / configure --with-apache= / path / to / apache_source --with-pgsql", "pt": ". / configure --with-apache= / caminho / para / apache_source --with-pgsql"}
+{"id": 7133, "en": "If an error occurs, returns FALSE.", "pt": "Se um erro ocorrer, retorna FALSE."}
