@@ -53,3 +53,6 @@
 {"id": 13276, "en": "It 's assigned in the reverse order.", "pt": "O índice é criado na ordem reversa."}
 {"id": 30019, "en": "With PHP you are not limited to output HTML.", "pt": "Com PHP você não está limitado a gerar somente HTML."}
 {"id": 32482, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
+{"id": 30292, "en": "A very common type of expressions are comparison expressions.", "pt": "Um tipo muito comum de expressão são expressões de comparação."}
+{"id": 763, "en": "A line has this format:", "pt": "Uma linha tem este formato:"}
+{"id": 2264, "en": "See also atan(), asinh() and acosh().", "pt": "Veja também atan(), asinh() e acosh()."}
