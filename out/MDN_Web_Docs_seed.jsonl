@@ -12,3 +12,5 @@
 {"id": 8941, "en": "This is the code we used: ", "pt": "Este é o código que usamos: "}
 {"id": 9897, "en": "To understand how to use promises in JavaScript. ", "pt": "Entender promises e como elas funcionam. "}
 {"id": 3196, "en": "These can seem like a tricky set of concepts to understand. ", "pt": "Estes podem parecer um conjunto complicado de conceitos para entender. "}
+{"id": 819, "en": "Note: Call stack list: - sayHi - greeting ", "pt": "Nota: Pilha de chamadas: - saudacao > - digaOi "}
+{"id": 2932, "en": "This will give you a window like the following: ", "pt": "Aparecerá uma janela como a seguinte: "}
