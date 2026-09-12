@@ -3,3 +3,4 @@
 {"id": 29587, "en": "Articles about PHP appeared in Dr.", "pt": "Artigos sobre PHP apareceram no Dr."}
 {"id": 34035, "en": "List of Reserved Words", "pt": "Palavras reservadas do PHP"}
 {"id": 32396, "en": "Define the user agent for PHP to send.", "pt": "Define o user agent que o PHP irá enviar."}
+{"id": 9047, "en": "Available quote_style constants", "pt": "Suporte para o segundo argumento opcional foi adicionado no PHP 3.0.17 e PHP 4.0.3."}
