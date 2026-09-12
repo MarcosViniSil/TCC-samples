@@ -33,3 +33,4 @@
 {"id": 17296, "en": "Example 1. mysql_tablename() Example", "pt": "Exemplo mysql_tablename()"}
 {"id": 22330, "en": "See also pg_lo_tell().", "pt": "Veja também pg_lo_tell()."}
 {"id": 32165, "en": "Note: db4 conflicts with db2 and db3.", "pt": "Nota: db4 conflicts with db2 and db3."}
+{"id": 2188, "en": "Example 1. asort() example", "pt": "Exemplo de asort()"}
