@@ -28,3 +28,4 @@
 {"id": 28027, "en": "20: twenty 10: ten 4: four 3: three", "pt": "20: vinte 10: dez 4: quatro 3: tres"}
 {"id": 31524, "en": "The above script will output \"3\".", "pt": "O script acima imprimirá \"3\"."}
 {"id": 17076, "en": "See also: mysql_query().", "pt": "Veja também: mysql_query()."}
+{"id": 25315, "en": "Sorting type flags:", "pt": "Sinais de tipo de ordenação:"}
