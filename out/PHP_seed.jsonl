@@ -42,3 +42,6 @@
 {"id": 31397, "en": "See the setcookie() manual page for more details and examples.", "pt": "Veja o manual de setcookie() para mais detalhes e exemplos."}
 {"id": 17241, "en": "Example 1. mysql_real_escape_string() example", "pt": "Exemplo mysql_real_escape_string()"}
 {"id": 1336, "en": "This function is disabled in safe mode.", "pt": "Esta função é desabilitada no safe-mode"}
+{"id": 23922, "en": "See also fseek() and ftell().", "pt": "Veja também fseek() e ftell()."}
+{"id": 17309, "en": "You should get it when you need it.", "pt": "Você deve pega-lo quando você precisar dele."}
+{"id": 8978, "en": "The function tries to avoid breaking words.", "pt": "A função tenta evitar palavras quebradas."}
