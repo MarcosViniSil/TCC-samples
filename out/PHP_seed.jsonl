@@ -88,3 +88,7 @@
 {"id": 31152, "en": "Pseudo-types used in this documentation", "pt": "Pseudo-tipos utilizados nesta documentação"}
 {"id": 16736, "en": "See also: mysql_create_db(), mysql_query().", "pt": "Veja também: mysql_create_db() e mysql_query()."}
 {"id": 22013, "en": "Boolean is returned as \"t\" or \"f \".", "pt": "Boolean é retornado como \"t\" ou \"f \"."}
+{"id": 21815, "en": "See also pg_connection_busy().", "pt": "Veja também pg_connection_busy()."}
+{"id": 399, "en": "UNIX include_path", "pt": "Exemplo 4-3. include_path UNIX"}
+{"id": 2424, "en": "See also bcadd().", "pt": "Veja também bcadd()."}
+{"id": 23958, "en": "This example would display:", "pt": "Esse exemplo mostraria:"}
