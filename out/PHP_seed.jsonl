@@ -191,3 +191,5 @@
 {"id": 759, "en": "The PHP 3 debugger protocol is line-based.", "pt": "O protocolo do debugador do PHP 3 é baseado em linhas."}
 {"id": 15352, "en": "The hash is a 32-character hexadecimal number.", "pt": "O hash é um número hexadecimal caracter-32."}
 {"id": 22449, "en": "That final NULL-character is added automatically.", "pt": "O caractere NULL final é adicionado automaticamente."}
+{"id": 27, "en": "Classify the bug as \"Documentation Problem\".", "pt": "Classifique o problema com um \"Documentation Problem\"."}
+{"id": 28073, "en": "Similar to the Unix C unlink() function.", "pt": "Similar a função C no Unix unlink()."}
