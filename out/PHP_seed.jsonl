@@ -156,3 +156,4 @@
 {"id": 24494, "en": "Example 1. setcookie() send examples", "pt": "Exemplo 1. setcookie() send examples"}
 {"id": 33821, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
 {"id": 1204, "en": "Here' s some debugging info:\\n\"; print_r($_FILES);}?", "pt": "Aqui esta alguma informação:\\n\"; print_r($_FILES);}?"}
+{"id": 1164, "en": "See the PUT Method Support for more details.", "pt": "Note que o PHP também suporta o método PUT para upload de arquivos como o usado por Netscape Composer e W3C 's Amaya clients."}
