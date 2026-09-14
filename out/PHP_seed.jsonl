@@ -173,3 +173,4 @@
 {"id": 1095, "en": "You can set cookies using the setcookie() function.", "pt": "Você pode criar cookies usando a função setcookie()."}
 {"id": 1428, "en": "See also stripcslashes(), stripslashes(), htmlspecialchars(), and quotemeta().", "pt": "Veja também stripcslashes(), stripslashes(), htmlspecialchars(), e quotemeta()."}
 {"id": 32977, "en": "PHP Manual", "pt": "Manual do PHP"}
+{"id": 19061, "en": "This is achieved with this line:", "pt": "Isto é feito com a linha:"}
