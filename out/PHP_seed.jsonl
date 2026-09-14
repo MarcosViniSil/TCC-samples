@@ -144,3 +144,5 @@
 {"id": 31107, "en": "There is no integer division operator in PHP.", "pt": "Não há operador de divisão inteira no PHP."}
 {"id": 22389, "en": "This function will return -1 on error.", "pt": "Esta função retornará -1 em caso de erro."}
 {"id": 23506, "en": "Example 1. pspell_add_to_personal()", "pt": "Exemplo 1. pspell_add_to_personal()"}
+{"id": 29692, "en": ". / configure --with-apache= / path / to / apache_source --with-pgsql", "pt": ". / configure --with-apache= / caminho / para / apache_source --with-pgsql"}
+{"id": 3424, "en": "PHP Manual", "pt": "Manual do PHP"}
