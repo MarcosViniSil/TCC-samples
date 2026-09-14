@@ -131,3 +131,4 @@
 {"id": 1336, "en": "This function is disabled in safe mode.", "pt": "Esta função é desabilitada no safe-mode"}
 {"id": 7178, "en": "On such filesystems this function will be useless.", "pt": "Nestes filesystems esta função é inútil."}
 {"id": 33217, "en": "This way overloading can be selective.", "pt": "Desta forma a sobrecarga pode ser seletiva:"}
+{"id": 276, "en": "Entry can be set in user scripts", "pt": "Diretiva pode ser modificada em seus scripts"}
