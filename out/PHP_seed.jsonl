@@ -154,3 +154,5 @@
 {"id": 22427, "en": "It returns TRUE if connection is alive, otherwise FALSE.", "pt": "Retorna TRUE se a conexão está ativa, do contrário, retorna FALSE."}
 {"id": 20186, "en": "Example 1. openssl_verify() example", "pt": "Exemplo 1. openssl_verify() example"}
 {"id": 24494, "en": "Example 1. setcookie() send examples", "pt": "Exemplo 1. setcookie() send examples"}
+{"id": 33821, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
+{"id": 1204, "en": "Here' s some debugging info:\\n\"; print_r($_FILES);}?", "pt": "Aqui esta alguma informação:\\n\"; print_r($_FILES);}?"}
