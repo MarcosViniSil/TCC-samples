@@ -116,3 +116,5 @@
 {"id": 7020, "en": "However, it’s not very easy to remember, is it? ", "pt": "No entanto, não é muito fácil de lembrar, é? "}
 {"id": 8975, "en": "Note: Many <meta> features just aren’t used anymore. ", "pt": "Nota: Muitos recursos <meta> simplesmente não são mais usados. "}
 {"id": 7699, "en": "First things first: planning ", "pt": "Primeiramente: planejamento "}
+{"id": 9945, "en": "It turns out that json() is also asynchronous. ", "pt": "Acontece que json() também é assíncrono. "}
+{"id": 11386, "en": "First, let’s have a look at the while loop. ", "pt": "Primeiro, vamos dar uma olhada no [while](/pt-BR/docs/Web/JavaScript/Reference/Statements/while) loop. "}
