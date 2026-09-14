@@ -118,3 +118,4 @@
 {"id": 7699, "en": "First things first: planning ", "pt": "Primeiramente: planejamento "}
 {"id": 9945, "en": "It turns out that json() is also asynchronous. ", "pt": "Acontece que json() também é assíncrono. "}
 {"id": 11386, "en": "First, let’s have a look at the while loop. ", "pt": "Primeiro, vamos dar uma olhada no [while](/pt-BR/docs/Web/JavaScript/Reference/Statements/while) loop. "}
+{"id": 1836, "en": "Here’s an example of a CSS rule: ", "pt": "Aqui está um exemplo de uma regra do CSS: "}
