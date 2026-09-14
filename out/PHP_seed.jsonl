@@ -164,3 +164,4 @@
 {"id": 28186, "en": "This example would display:", "pt": "Esse exemplo mostraria:"}
 {"id": 979, "en": "Using the CLI SAPI yields:", "pt": "Utilizando a versão CLI SAPI:"}
 {"id": 20652, "en": "Example 2. parse_ini_file() example", "pt": "Exemplo 2. exemplo de parse_ini_file()"}
+{"id": 30126, "en": "PHP supports' C', 'C++ 'and Unix shell-style comments.", "pt": "O PHP suporta comentários do 'C', 'C++' e Unix shell."}
