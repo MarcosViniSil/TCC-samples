@@ -160,3 +160,4 @@
 {"id": 8118, "en": "URLs use paths to find files. ", "pt": "Os URLs usam caminhos para encontrar arquivos. "}
 {"id": 12531, "en": "Filtering greeting messages ", "pt": "Filtrando mensagens de saudação "}
 {"id": 2659, "en": "What exactly do I want to accomplish? ", "pt": "O que exatamente eu quero realizar? "}
+{"id": 4506, "en": "Change your CSS to use `column-width` as follows: ```css ", "pt": "Mude o seu CSS para usar column-width, como a seguir: "}
