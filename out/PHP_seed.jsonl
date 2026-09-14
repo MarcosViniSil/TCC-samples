@@ -107,3 +107,5 @@
 {"id": 33090, "en": "Table 4. dns_get_record() Options", "pt": "Tabela 4. dns_get_record() Options"}
 {"id": 13430, "en": "The following RFC 's may also be useful:", "pt": "Os seguintes RFC 's pode ser úteis:"}
 {"id": 30394, "en": "Such a function is called a constructor (see below).", "pt": "Por isso, essa função é conhecida como construtor (veja baixo)."}
+{"id": 1030, "en": "Generate extended information for debugger / profiler.", "pt": "Gera informações estendidas para o debugador / profiler."}
+{"id": 1119, "en": "Make sure to set post_max_size large enough.", "pt": "Tenha certeza de estabelecer post_max_size grande o suficiente."}
