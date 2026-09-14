@@ -167,3 +167,6 @@
 {"id": 30126, "en": "PHP supports' C', 'C++ 'and Unix shell-style comments.", "pt": "O PHP suporta comentários do 'C', 'C++' e Unix shell."}
 {"id": 13276, "en": "It 's assigned in the reverse order.", "pt": "O índice é criado na ordem reversa."}
 {"id": 33375, "en": "Supported environment variables are different from version to version.", "pt": "As variáveis de ambiente suportadas variam de versão para versão."}
+{"id": 17287, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saída:"}
+{"id": 367, "en": "This setting also affects file upload.", "pt": "Esta configuração também afeta o upload de arquivos."}
+{"id": 17356, "en": "The code above will generate the following output:", "pt": "O código acima geraria a seguinte saída:"}
