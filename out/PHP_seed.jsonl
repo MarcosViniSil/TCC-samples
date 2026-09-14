@@ -127,3 +127,4 @@
 {"id": 606, "en": "You may have noticed that the following are functionally identical:", "pt": "Você pode ter notado que os seguintes itens são funcionalmente idênticos:"}
 {"id": 11456, "en": "Example 1. imap_get_quota() example", "pt": "Exemplo 1. imap_get_quota() example"}
 {"id": 21892, "en": "pg_escape_bytea() escapes string for bytea datatype.", "pt": "pg_escape_bytea() gera uma string do tipo bytea."}
+{"id": 20717, "en": "See also popen().", "pt": "Veja também popen()."}
