@@ -196,3 +196,6 @@
 {"id": 12370, "en": "We’d like you to contain these inside variables inside main.js: ", "pt": "Gostaríamos que você armazenasse essas strings dentro de variáveis no main.js: "}
 {"id": 1944, "en": "Here is a typical SDP message: ", "pt": "Aqui está uma mensagem SDP típica: "}
 {"id": 8105, "en": "Adding supporting information with the title attribute ", "pt": "Inclua atributos de título. Links de nível de bloco "}
+{"id": 1767, "en": "Display resolution is expressed in the unit of pixels. ", "pt": "A resolução de exibição pode ser expressada utilizando-se pixels como unidade. "}
+{"id": 3031, "en": "Let’s learn what they each mean! ", "pt": "Vamos aprender o que cada um significa! "}
+{"id": 1798, "en": "Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE ", "pt": "Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE "}
