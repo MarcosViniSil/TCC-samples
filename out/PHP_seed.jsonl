@@ -138,3 +138,5 @@
 {"id": 21826, "en": "See also pg_metadata()", "pt": "Veja também pg_metadata()"}
 {"id": 1402, "en": "This function is not implemented on Windows platforms.", "pt": "Nota: esta função não é implementada na plataforma Windows"}
 {"id": 7116, "en": "fgetcsv() returns FALSE on error, including end of file.", "pt": "fgetcsv() retorna FALSE ao encontrar um erro, incluindo fim de arquivo (eof)."}
+{"id": 7503, "en": "Example 1. fopen() example", "pt": "Exemplo 1. exemplo do fopen()"}
+{"id": 430, "en": "Whether or not to allow HTTP file uploads.", "pt": "Permite ou não upload de arquivos HTTP."}
