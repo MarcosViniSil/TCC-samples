@@ -136,3 +136,5 @@
 {"id": 2033, "en": "See also array_slice().", "pt": "Veja também array_slice()."}
 {"id": 30060, "en": "This is also called a \"parent-child\" relationship.", "pt": "Isto é chamado relacionamento \"pai-filho\"."}
 {"id": 21826, "en": "See also pg_metadata()", "pt": "Veja também pg_metadata()"}
+{"id": 1402, "en": "This function is not implemented on Windows platforms.", "pt": "Nota: esta função não é implementada na plataforma Windows"}
+{"id": 7116, "en": "fgetcsv() returns FALSE on error, including end of file.", "pt": "fgetcsv() retorna FALSE ao encontrar um erro, incluindo fim de arquivo (eof)."}
