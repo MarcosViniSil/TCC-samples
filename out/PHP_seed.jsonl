@@ -166,3 +166,4 @@
 {"id": 20652, "en": "Example 2. parse_ini_file() example", "pt": "Exemplo 2. exemplo de parse_ini_file()"}
 {"id": 30126, "en": "PHP supports' C', 'C++ 'and Unix shell-style comments.", "pt": "O PHP suporta comentários do 'C', 'C++' e Unix shell."}
 {"id": 13276, "en": "It 's assigned in the reverse order.", "pt": "O índice é criado na ordem reversa."}
+{"id": 33375, "en": "Supported environment variables are different from version to version.", "pt": "As variáveis de ambiente suportadas variam de versão para versão."}
