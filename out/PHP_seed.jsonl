@@ -109,3 +109,4 @@
 {"id": 30394, "en": "Such a function is called a constructor (see below).", "pt": "Por isso, essa função é conhecida como construtor (veja baixo)."}
 {"id": 1030, "en": "Generate extended information for debugger / profiler.", "pt": "Gera informações estendidas para o debugador / profiler."}
 {"id": 1119, "en": "Make sure to set post_max_size large enough.", "pt": "Tenha certeza de estabelecer post_max_size grande o suficiente."}
+{"id": 7207, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
