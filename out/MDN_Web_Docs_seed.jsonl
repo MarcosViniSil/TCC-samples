@@ -161,3 +161,5 @@
 {"id": 12531, "en": "Filtering greeting messages ", "pt": "Filtrando mensagens de saudação "}
 {"id": 2659, "en": "What exactly do I want to accomplish? ", "pt": "O que exatamente eu quero realizar? "}
 {"id": 4506, "en": "Change your CSS to use `column-width` as follows: ```css ", "pt": "Mude o seu CSS para usar column-width, como a seguir: "}
+{"id": 3255, "en": "This value acts like {{cssxref(“unset”)}} in many cases. ", "pt": "Esse valor age como {{cssxref(“unset”)}} em muitos casos. "}
+{"id": 3452, "en": "It selects the second list item. ", "pt": "Ele seleciona o segundo item da lista. "}
