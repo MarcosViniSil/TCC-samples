@@ -134,3 +134,5 @@
 {"id": 276, "en": "Entry can be set in user scripts", "pt": "Diretiva pode ser modificada em seus scripts"}
 {"id": 24275, "en": "Destroying a session with $_SESSION", "pt": "Destruindo uma sessão com $_SESSION"}
 {"id": 2033, "en": "See also array_slice().", "pt": "Veja também array_slice()."}
+{"id": 30060, "en": "This is also called a \"parent-child\" relationship.", "pt": "Isto é chamado relacionamento \"pai-filho\"."}
+{"id": 21826, "en": "See also pg_metadata()", "pt": "Veja também pg_metadata()"}
