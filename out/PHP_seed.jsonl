@@ -115,3 +115,6 @@
 {"id": 531, "en": "Ticks are well suited for debugging, implementing simple multitasking, backgrounded I / O and many other tasks.", "pt": "Ticks são idealizados para debug, implementação de multitask simples, processos de I / O em background e afins."}
 {"id": 22203, "en": "This function is fully implemented in PHP 4.3.0.", "pt": "Esta função está totalmente implementada no PHP 4.3.0."}
 {"id": 25311, "en": "This example would display:", "pt": "A saída desse programa seria:"}
+{"id": 1527, "en": "The properties of the returned class are:", "pt": "As propriedades da classe retornada são:"}
+{"id": 17105, "en": "For downward compatibility mysql_listfields() can also be used.", "pt": "Para compatibilidade com versões anteriores mysql_listfields() também pode ser usada."}
+{"id": 12836, "en": "Example 1.", "pt": "Exemplo 1."}
