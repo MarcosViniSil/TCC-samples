@@ -113,3 +113,5 @@
 {"id": 30712, "en": "Returns $a, then decrements $a by one.", "pt": "Retorna $a, e então decrementa $a em um."}
 {"id": 22099, "en": "See also pg_field_prtlen() and pg_field_type().", "pt": "Veja também pg_field_len() e pg_field_type()."}
 {"id": 531, "en": "Ticks are well suited for debugging, implementing simple multitasking, backgrounded I / O and many other tasks.", "pt": "Ticks são idealizados para debug, implementação de multitask simples, processos de I / O em background e afins."}
+{"id": 22203, "en": "This function is fully implemented in PHP 4.3.0.", "pt": "Esta função está totalmente implementada no PHP 4.3.0."}
+{"id": 25311, "en": "This example would display:", "pt": "A saída desse programa seria:"}
