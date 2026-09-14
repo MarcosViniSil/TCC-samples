@@ -106,3 +106,4 @@
 {"id": 30856, "en": "Other constructs that use references are:", "pt": "Outros construtores que também utilizam referências são:"}
 {"id": 33090, "en": "Table 4. dns_get_record() Options", "pt": "Tabela 4. dns_get_record() Options"}
 {"id": 13430, "en": "The following RFC 's may also be useful:", "pt": "Os seguintes RFC 's pode ser úteis:"}
+{"id": 30394, "en": "Such a function is called a constructor (see below).", "pt": "Por isso, essa função é conhecida como construtor (veja baixo)."}
