@@ -196,3 +196,4 @@
 {"id": 30226, "en": "Constants may only evaluate to scalar values.", "pt": "Constantes só podem conter valores escalares."}
 {"id": 23651, "en": "Note that readdir() will return the. and.. entries.", "pt": "Note que readdir() irá retornar o. e..."}
 {"id": 16227, "en": "max_length - maximum length of the column", "pt": "max_length - o limite de tamanho da coluna"}
+{"id": 30262, "en": "Slightly more complex examples for expressions are functions.", "pt": "Exemplos ligeiramente mais complexos para expressões são as funções."}
