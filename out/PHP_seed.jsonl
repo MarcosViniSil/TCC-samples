@@ -120,3 +120,5 @@
 {"id": 12836, "en": "Example 1.", "pt": "Exemplo 1."}
 {"id": 2959, "en": "The stream must have previously been opened by opendir().", "pt": "O stream deve ter sido previamente aberto por opendir()."}
 {"id": 32148, "en": "No external libraries are needed to build this extension.", "pt": "Nenhuma biblioteca externa é necessária para compilar esta extensão."}
+{"id": 22365, "en": "See also pg_lo_create() and pg_lo_open().", "pt": "Veja também pg_lo_create() e pg_lo_open()."}
+{"id": 16576, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saída:"}
