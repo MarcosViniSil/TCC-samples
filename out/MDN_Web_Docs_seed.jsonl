@@ -182,3 +182,6 @@
 {"id": 7413, "en": "Here we are testing “is myVariable NOT equal to 3”. ", "pt": "Aqui estamos testando “é myVariable NÃO igual a 3”. "}
 {"id": 1094, "en": "Passing a function as an argument ", "pt": "Exemplo | Passar uma função como um Argumento "}
 {"id": 5432, "en": "How do I assign multiple classes to an element? ", "pt": "Como eu aplico diversas classes a um elemento? "}
+{"id": 9144, "en": "Don’t write redundant alt text. ", "pt": "Não escreva redundante alt texto. "}
+{"id": 10427, "en": "In JavaScript, we could represent this like so: ", "pt": "Em JavaScript, nós podemos representar isso como: "}
+{"id": 10667, "en": "A web page finishes loading. ", "pt": "Uma pagina da web terminando de carregar. "}
