@@ -157,3 +157,5 @@
 {"id": 33821, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
 {"id": 1204, "en": "Here' s some debugging info:\\n\"; print_r($_FILES);}?", "pt": "Aqui esta alguma informação:\\n\"; print_r($_FILES);}?"}
 {"id": 1164, "en": "See the PUT Method Support for more details.", "pt": "Note que o PHP também suporta o método PUT para upload de arquivos como o usado por Netscape Composer e W3C 's Amaya clients."}
+{"id": 1992, "en": "This would result in $stack having 3 elements left:", "pt": "O programa acima resultaria em $stack tendo 3 elementos:"}
+{"id": 7362, "en": "PHP Manual", "pt": "Manual do PHP"}
