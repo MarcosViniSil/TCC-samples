@@ -129,3 +129,4 @@
 {"id": 21892, "en": "pg_escape_bytea() escapes string for bytea datatype.", "pt": "pg_escape_bytea() gera uma string do tipo bytea."}
 {"id": 20717, "en": "See also popen().", "pt": "Veja também popen()."}
 {"id": 1336, "en": "This function is disabled in safe mode.", "pt": "Esta função é desabilitada no safe-mode"}
+{"id": 7178, "en": "On such filesystems this function will be useless.", "pt": "Nestes filesystems esta função é inútil."}
