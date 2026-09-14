@@ -197,3 +197,6 @@
 {"id": 23651, "en": "Note that readdir() will return the. and.. entries.", "pt": "Note que readdir() irá retornar o. e..."}
 {"id": 16227, "en": "max_length - maximum length of the column", "pt": "max_length - o limite de tamanho da coluna"}
 {"id": 30262, "en": "Slightly more complex examples for expressions are functions.", "pt": "Exemplos ligeiramente mais complexos para expressões são as funções."}
+{"id": 30460, "en": "10 class B:", "pt": "10 classe B:"}
+{"id": 272, "en": "Definition of PHP_INI_* constants", "pt": "Definições das constantes PHP_INI_*"}
+{"id": 25698, "en": "Example 1. strip_tags() example", "pt": "Exemplo strip_tags()"}
