@@ -194,3 +194,4 @@
 {"id": 27, "en": "Classify the bug as \"Documentation Problem\".", "pt": "Classifique o problema com um \"Documentation Problem\"."}
 {"id": 28073, "en": "Similar to the Unix C unlink() function.", "pt": "Similar a função C no Unix unlink()."}
 {"id": 30226, "en": "Constants may only evaluate to scalar values.", "pt": "Constantes só podem conter valores escalares."}
+{"id": 23651, "en": "Note that readdir() will return the. and.. entries.", "pt": "Note que readdir() irá retornar o. e..."}
