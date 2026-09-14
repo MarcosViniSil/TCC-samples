@@ -163,3 +163,5 @@
 {"id": 4506, "en": "Change your CSS to use `column-width` as follows: ```css ", "pt": "Mude o seu CSS para usar column-width, como a seguir: "}
 {"id": 3255, "en": "This value acts like {{cssxref(“unset”)}} in many cases. ", "pt": "Esse valor age como {{cssxref(“unset”)}} em muitos casos. "}
 {"id": 3452, "en": "It selects the second list item. ", "pt": "Ele seleciona o segundo item da lista. "}
+{"id": 6819, "en": "Element selector (sometimes called a tag or type selector) ", "pt": "Seletor de elemento (às vezes, chamado tag ou seletor de tipo) "}
+{"id": 12424, "en": "Declare a variable called myName. ", "pt": "Declare uma variável chamada meuNome. "}
