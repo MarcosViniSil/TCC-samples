@@ -152,3 +152,4 @@
 {"id": 22677, "en": "Example 1. phpversion() Example", "pt": "Exemplo 1. phpversion() Example"}
 {"id": 13316, "en": "The sign string immediately succeeds the currency_symbol", "pt": "A string sinal sucede imediatamente o simbolo da moeda"}
 {"id": 22427, "en": "It returns TRUE if connection is alive, otherwise FALSE.", "pt": "Retorna TRUE se a conexão está ativa, do contrário, retorna FALSE."}
+{"id": 20186, "en": "Example 1. openssl_verify() example", "pt": "Exemplo 1. openssl_verify() example"}
