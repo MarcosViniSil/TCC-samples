@@ -119,3 +119,4 @@
 {"id": 9945, "en": "It turns out that json() is also asynchronous. ", "pt": "Acontece que json() também é assíncrono. "}
 {"id": 11386, "en": "First, let’s have a look at the while loop. ", "pt": "Primeiro, vamos dar uma olhada no [while](/pt-BR/docs/Web/JavaScript/Reference/Statements/while) loop. "}
 {"id": 1836, "en": "Here’s an example of a CSS rule: ", "pt": "Aqui está um exemplo de uma regra do CSS: "}
+{"id": 9930, "en": "passing a handler function into the Promise’s then() method. ", "pt": "passando uma função manipuladora dentro do método da Promise then(). "}
