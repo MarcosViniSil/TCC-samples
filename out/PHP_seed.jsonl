@@ -140,3 +140,5 @@
 {"id": 7116, "en": "fgetcsv() returns FALSE on error, including end of file.", "pt": "fgetcsv() retorna FALSE ao encontrar um erro, incluindo fim de arquivo (eof)."}
 {"id": 7503, "en": "Example 1. fopen() example", "pt": "Exemplo 1. exemplo do fopen()"}
 {"id": 430, "en": "Whether or not to allow HTTP file uploads.", "pt": "Permite ou não upload de arquivos HTTP."}
+{"id": 532, "en": "See also register_tick_function() and unregister_tick_function().", "pt": "Veja também: register_tick_function() e unregister_tick_function()."}
+{"id": 31107, "en": "There is no integer division operator in PHP.", "pt": "Não há operador de divisão inteira no PHP."}
