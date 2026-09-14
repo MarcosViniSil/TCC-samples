@@ -103,3 +103,6 @@
 {"id": 31976, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
 {"id": 3137, "en": "See fopen() for more details.", "pt": "Veja fopen() para mais detalhes."}
 {"id": 7212, "en": "Testing whether a file exists", "pt": "Testando se um arquivo existe"}
+{"id": 30856, "en": "Other constructs that use references are:", "pt": "Outros construtores que também utilizam referências são:"}
+{"id": 33090, "en": "Table 4. dns_get_record() Options", "pt": "Tabela 4. dns_get_record() Options"}
+{"id": 13430, "en": "The following RFC 's may also be useful:", "pt": "Os seguintes RFC 's pode ser úteis:"}
