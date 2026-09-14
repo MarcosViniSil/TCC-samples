@@ -162,3 +162,5 @@
 {"id": 23836, "en": "See the include() documentation for more examples.", "pt": "Vaja a documentação de include() para mais exemplos."}
 {"id": 12643, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
 {"id": 28186, "en": "This example would display:", "pt": "Esse exemplo mostraria:"}
+{"id": 979, "en": "Using the CLI SAPI yields:", "pt": "Utilizando a versão CLI SAPI:"}
+{"id": 20652, "en": "Example 2. parse_ini_file() example", "pt": "Exemplo 2. exemplo de parse_ini_file()"}
