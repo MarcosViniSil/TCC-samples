@@ -142,3 +142,4 @@
 {"id": 430, "en": "Whether or not to allow HTTP file uploads.", "pt": "Permite ou não upload de arquivos HTTP."}
 {"id": 532, "en": "See also register_tick_function() and unregister_tick_function().", "pt": "Veja também: register_tick_function() e unregister_tick_function()."}
 {"id": 31107, "en": "There is no integer division operator in PHP.", "pt": "Não há operador de divisão inteira no PHP."}
+{"id": 22389, "en": "This function will return -1 on error.", "pt": "Esta função retornará -1 em caso de erro."}
