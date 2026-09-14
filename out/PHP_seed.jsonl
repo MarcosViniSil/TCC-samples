@@ -146,3 +146,4 @@
 {"id": 23506, "en": "Example 1. pspell_add_to_personal()", "pt": "Exemplo 1. pspell_add_to_personal()"}
 {"id": 29692, "en": ". / configure --with-apache= / path / to / apache_source --with-pgsql", "pt": ". / configure --with-apache= / caminho / para / apache_source --with-pgsql"}
 {"id": 3424, "en": "PHP Manual", "pt": "Manual do PHP"}
+{"id": 362, "en": "An example .htaccess entry: php_flag register_globals on.", "pt": "Um exemplo de entrada do .htaccess: php_flag register_globals on."}
