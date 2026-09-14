@@ -118,3 +118,5 @@
 {"id": 1527, "en": "The properties of the returned class are:", "pt": "As propriedades da classe retornada são:"}
 {"id": 17105, "en": "For downward compatibility mysql_listfields() can also be used.", "pt": "Para compatibilidade com versões anteriores mysql_listfields() também pode ser usada."}
 {"id": 12836, "en": "Example 1.", "pt": "Exemplo 1."}
+{"id": 2959, "en": "The stream must have previously been opened by opendir().", "pt": "O stream deve ter sido previamente aberto por opendir()."}
+{"id": 32148, "en": "No external libraries are needed to build this extension.", "pt": "Nenhuma biblioteca externa é necessária para compilar esta extensão."}
