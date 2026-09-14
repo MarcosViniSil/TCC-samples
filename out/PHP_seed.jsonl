@@ -181,3 +181,4 @@
 {"id": 32334, "en": "This extension has no resource types defined.", "pt": "Esta extensão não possui nenhum tipo resource."}
 {"id": 16860, "en": "numeric - 1 if the column is numeric", "pt": "numeric - 1 se a coluna é numérica"}
 {"id": 15353, "en": "See also crc32(), md5_file(), and sha1().", "pt": "Veja também crc32() e md5_file()"}
+{"id": 33956, "en": "Instead you must use zlib.output_handler.", "pt": "Em vez disto você deve usar zlib.output_handler."}
