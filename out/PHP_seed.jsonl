@@ -195,3 +195,4 @@
 {"id": 28073, "en": "Similar to the Unix C unlink() function.", "pt": "Similar a função C no Unix unlink()."}
 {"id": 30226, "en": "Constants may only evaluate to scalar values.", "pt": "Constantes só podem conter valores escalares."}
 {"id": 23651, "en": "Note that readdir() will return the. and.. entries.", "pt": "Note que readdir() irá retornar o. e..."}
+{"id": 16227, "en": "max_length - maximum length of the column", "pt": "max_length - o limite de tamanho da coluna"}
