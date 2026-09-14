@@ -184,3 +184,7 @@
 {"id": 33956, "en": "Instead you must use zlib.output_handler.", "pt": "Em vez disto você deve usar zlib.output_handler."}
 {"id": 400, "en": "include_path=\".: / php / includes \"", "pt": "include_path=.: / home / httpd / php-lib"}
 {"id": 32173, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 21943, "en": "First row is 0.", "pt": "A primeira linha é 0."}
+{"id": 15545, "en": "See also date() and time().", "pt": "Veja também date() e time()."}
+{"id": 7640, "en": "time of last access", "pt": "tempo do último acesso"}
+{"id": 5847, "en": "PHP Manual", "pt": "Manual do PHP"}
