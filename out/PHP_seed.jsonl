@@ -174,3 +174,5 @@
 {"id": 1428, "en": "See also stripcslashes(), stripslashes(), htmlspecialchars(), and quotemeta().", "pt": "Veja também stripcslashes(), stripslashes(), htmlspecialchars(), e quotemeta()."}
 {"id": 32977, "en": "PHP Manual", "pt": "Manual do PHP"}
 {"id": 19061, "en": "This is achieved with this line:", "pt": "Isto é feito com a linha:"}
+{"id": 31939, "en": "Sorting type flags: used by various sort functions", "pt": "Sinais de tipos de ordenação: usadas por várias funções de ordenação"}
+{"id": 6720, "en": "Example 2. fbsql_query() example", "pt": "Exemplo 2. fbsql_query() example"}
