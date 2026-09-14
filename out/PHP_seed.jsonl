@@ -122,3 +122,5 @@
 {"id": 32148, "en": "No external libraries are needed to build this extension.", "pt": "Nenhuma biblioteca externa é necessária para compilar esta extensão."}
 {"id": 22365, "en": "See also pg_lo_create() and pg_lo_open().", "pt": "Veja também pg_lo_create() e pg_lo_open()."}
 {"id": 16576, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saída:"}
+{"id": 17200, "en": "See also: mysql_thread_id(), mysql_list_processes().", "pt": "Veja também: mysql_thread_id(), mysql_list_processes()."}
+{"id": 16619, "en": "See also freeing resources.", "pt": "Veja também freeing resources."}
