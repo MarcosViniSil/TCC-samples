@@ -132,3 +132,5 @@
 {"id": 7178, "en": "On such filesystems this function will be useless.", "pt": "Nestes filesystems esta função é inútil."}
 {"id": 33217, "en": "This way overloading can be selective.", "pt": "Desta forma a sobrecarga pode ser seletiva:"}
 {"id": 276, "en": "Entry can be set in user scripts", "pt": "Diretiva pode ser modificada em seus scripts"}
+{"id": 24275, "en": "Destroying a session with $_SESSION", "pt": "Destruindo uma sessão com $_SESSION"}
+{"id": 2033, "en": "See also array_slice().", "pt": "Veja também array_slice()."}
