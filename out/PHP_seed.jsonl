@@ -189,3 +189,5 @@
 {"id": 7640, "en": "time of last access", "pt": "tempo do último acesso"}
 {"id": 5847, "en": "PHP Manual", "pt": "Manual do PHP"}
 {"id": 759, "en": "The PHP 3 debugger protocol is line-based.", "pt": "O protocolo do debugador do PHP 3 é baseado em linhas."}
+{"id": 15352, "en": "The hash is a 32-character hexadecimal number.", "pt": "O hash é um número hexadecimal caracter-32."}
+{"id": 22449, "en": "That final NULL-character is added automatically.", "pt": "O caractere NULL final é adicionado automaticamente."}
