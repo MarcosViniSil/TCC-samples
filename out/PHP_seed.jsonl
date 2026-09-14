@@ -124,3 +124,5 @@
 {"id": 16576, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saída:"}
 {"id": 17200, "en": "See also: mysql_thread_id(), mysql_list_processes().", "pt": "Veja também: mysql_thread_id(), mysql_list_processes()."}
 {"id": 16619, "en": "See also freeing resources.", "pt": "Veja também freeing resources."}
+{"id": 606, "en": "You may have noticed that the following are functionally identical:", "pt": "Você pode ter notado que os seguintes itens são funcionalmente idênticos:"}
+{"id": 11456, "en": "Example 1. imap_get_quota() example", "pt": "Exemplo 1. imap_get_quota() example"}
