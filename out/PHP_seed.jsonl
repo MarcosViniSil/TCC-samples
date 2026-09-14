@@ -170,3 +170,5 @@
 {"id": 17287, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saída:"}
 {"id": 367, "en": "This setting also affects file upload.", "pt": "Esta configuração também afeta o upload de arquivos."}
 {"id": 17356, "en": "The code above will generate the following output:", "pt": "O código acima geraria a seguinte saída:"}
+{"id": 1095, "en": "You can set cookies using the setcookie() function.", "pt": "Você pode criar cookies usando a função setcookie()."}
+{"id": 1428, "en": "See also stripcslashes(), stripslashes(), htmlspecialchars(), and quotemeta().", "pt": "Veja também stripcslashes(), stripslashes(), htmlspecialchars(), e quotemeta()."}
