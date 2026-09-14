@@ -149,3 +149,4 @@
 {"id": 362, "en": "An example .htaccess entry: php_flag register_globals on.", "pt": "Um exemplo de entrada do .htaccess: php_flag register_globals on."}
 {"id": 21874, "en": "See also pg_convert()", "pt": "Veja também pg_convert()"}
 {"id": 22602, "en": "See also pg_trace().", "pt": "Veja também pg_trace()."}
+{"id": 22677, "en": "Example 1. phpversion() Example", "pt": "Exemplo 1. phpversion() Example"}
