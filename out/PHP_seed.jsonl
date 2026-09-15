@@ -277,3 +277,4 @@
 {"id": 22551, "en": "The function used to be called pg_setclientencoding().", "pt": "Esta função era chamada pg_setclientencoding()."}
 {"id": 401, "en": "Windows include_path", "pt": "Exemplo 4-4. include_path Windows"}
 {"id": 30370, "en": "There are no destructors in PHP.", "pt": "Não existem destrutores no PHP."}
+{"id": 32483, "en": "This extension has no resource types defined.", "pt": "Esta extensão não possui nenhum tipo resource."}
