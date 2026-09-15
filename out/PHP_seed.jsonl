@@ -248,3 +248,7 @@
 {"id": 30839, "en": "When returning references, use this syntax:", "pt": "Para retornar referências, utilize esta sintaxe:"}
 {"id": 657, "en": "if (expr) statement", "pt": "if (expressao) instrucoes"}
 {"id": 21985, "en": "First row is 0.", "pt": "A primeira linha é 0."}
+{"id": 27060, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
+{"id": 32388, "en": "Here is a short explanation of the configuration directives.", "pt": "Descrição resumida das diretivas de configuração."}
+{"id": 33734, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 7307, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
