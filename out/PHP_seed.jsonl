@@ -288,3 +288,5 @@
 {"id": 2367, "en": "See also bcdiv().", "pt": "Veja também bcdiv()."}
 {"id": 32335, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
 {"id": 17100, "en": "mysql_list_fields() retrieves information about the given table name.", "pt": "mysql_list_fields() retorna informação sobre a tabela dada."}
+{"id": 2103, "en": "See also array_keys().", "pt": "Veja também array_keys()."}
+{"id": 32400, "en": "Define the anonymous ftp password (your email address).", "pt": "Define a senha do FTP anonimo (seu endereço de e-mail)."}
