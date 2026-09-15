@@ -222,3 +222,4 @@
 {"id": 21997, "en": "From 4.1.0, row became optional.", "pt": "A partir do PHP 4.1.0, row tornou-se opcional."}
 {"id": 16687, "en": "See also: mysql_query(), mysql_num_rows().", "pt": "Veja também: mysql_query() e mysql_num_rows()."}
 {"id": 9092, "en": "The translations performed are:", "pt": "As traduções executadas são:"}
+{"id": 30562, "en": "To learn more about references, please read References explained.", "pt": "Para aprender mais sobre referências, leia Referências explicadas."}
