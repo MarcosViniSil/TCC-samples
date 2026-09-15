@@ -377,3 +377,4 @@
 {"id": 31246, "en": "Now, I am printing some {$foo - bar[1]}.", "pt": "Agora, eu estou imprimindo {$foo - bar[1]}."}
 {"id": 27488, "en": "See also: sybase_connect(), sybase_pconnect().", "pt": "Veja também: sybase_connect(), sybase_pconnect()."}
 {"id": 33848, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extensão não possui nenhum tipo resource."}
+{"id": 16976, "en": "For downward compatibility mysql_fieldtype() can also be used.", "pt": "Para compatibilidade com versões anteriores mysql_fieldtype() também pode ser usada."}
