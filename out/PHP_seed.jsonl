@@ -236,3 +236,4 @@
 {"id": 21733, "en": "You cannot cancel query executed by pg_query().", "pt": "Você não pode cancelar uma consulta executada por pg_query()."}
 {"id": 7308, "en": "See clearstatcache() for more details.", "pt": "Veja clearstatcache() para mais detalhes."}
 {"id": 30312, "en": "However, not every expression is a statement.", "pt": "Porém, nem toda expressão é um comando."}
+{"id": 33344, "en": "Whether to allow persistent Postgres connections.", "pt": "Se quer ou não permitir conexões persistentes com o PostgreSQL."}
