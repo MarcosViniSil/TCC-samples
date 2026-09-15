@@ -373,3 +373,4 @@
 {"id": 31909, "en": "Here is a short explanation of the configuration directives.", "pt": "Descrição resumida das diretivas de configuração."}
 {"id": 23443, "en": "Example 1. pspell_config_mode()", "pt": "Exemplo 1. pspell_config_mode()"}
 {"id": 1816, "en": "Example 1. array_merge() example", "pt": "Exemplo de array_merge()"}
+{"id": 2060, "en": "In words: when the string representation is the same.", "pt": "Em palavras: quando a represetação em string é a mesma."}
