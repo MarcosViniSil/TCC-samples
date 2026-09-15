@@ -284,3 +284,5 @@
 {"id": 33129, "en": "Example 3. storage_classes.inc", "pt": "Exemplo 3. storage_classes.inc"}
 {"id": 24563, "en": "The hash is a 40-character hexadecimal number.", "pt": "A hash é um número hexadecimal de 40 caracteres."}
 {"id": 20448, "en": "You can find an ASCII-table over here: http: / /www.asciitable.com.", "pt": "Você pode achar a tabela ASCII aqui: http: / /www.asciitable.com."}
+{"id": 27213, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
+{"id": 2367, "en": "See also bcdiv().", "pt": "Veja também bcdiv()."}
