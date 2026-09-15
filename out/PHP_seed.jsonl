@@ -245,3 +245,6 @@
 {"id": 23757, "en": "See also is_link(), symlink(), and linkinfo().", "pt": "Veja também symlink(), readlink() e linkinfo()."}
 {"id": 985, "en": "Telling PHP to execute a certain file.", "pt": "Chamando o PHP para executar um arquivo determinado."}
 {"id": 17103, "en": "Example 1. mysql_list_fields() example", "pt": "Exemplo mysql_list_fields()"}
+{"id": 30839, "en": "When returning references, use this syntax:", "pt": "Para retornar referências, utilize esta sintaxe:"}
+{"id": 657, "en": "if (expr) statement", "pt": "if (expressao) instrucoes"}
+{"id": 21985, "en": "First row is 0.", "pt": "A primeira linha é 0."}
