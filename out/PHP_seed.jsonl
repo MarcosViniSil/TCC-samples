@@ -230,3 +230,4 @@
 {"id": 32946, "en": "Table 1. mSQL configuration options", "pt": "Tabela 1. mSQL configuration options"}
 {"id": 23841, "en": "Similarly, looping structures do not affect the behaviour of require().", "pt": "Similarmente, estruturas de loop não afetam o funcionamento do require()."}
 {"id": 9105, "en": "See also get_html_translation_table(), htmlentities() and nl2br().", "pt": "Veja também htmlentities() e nl2br()."}
+{"id": 1690, "en": "array_flip() returns FALSE if it fails.", "pt": "array_flip() retorna FALSE se falhar."}
