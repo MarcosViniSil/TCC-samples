@@ -326,3 +326,4 @@
 {"id": 24700, "en": "See also highlight_string() and highlight_file().", "pt": "Veja também highlight_string() e highlight_file()."}
 {"id": 1708, "en": "Example 1. array() example", "pt": "Exemplo de array()"}
 {"id": 17296, "en": "Example 1. mysql_tablename() Example", "pt": "Exemplo mysql_tablename()"}
+{"id": 20641, "en": "It is already processed, the time you run your script.", "pt": "Este já é processado na hora que você executa o script."}
