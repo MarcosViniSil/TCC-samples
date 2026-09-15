@@ -220,3 +220,4 @@
 {"id": 31245, "en": "I am printing some $foo - foo.", "pt": "Eu estou imprimindo $foo - foo."}
 {"id": 25438, "en": "Returns FALSE in case of error.", "pt": "Retorna FALSE em caso de erro."}
 {"id": 21997, "en": "From 4.1.0, row became optional.", "pt": "A partir do PHP 4.1.0, row tornou-se opcional."}
+{"id": 16687, "en": "See also: mysql_query(), mysql_num_rows().", "pt": "Veja também: mysql_query() e mysql_num_rows()."}
