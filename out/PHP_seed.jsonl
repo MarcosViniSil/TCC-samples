@@ -362,3 +362,5 @@
 {"id": 16663, "en": "For downwards compatibility mysql_createdb() can also be used.", "pt": "Para compatibilidade com versões anteriores mysql_createdb() também pode ser usada."}
 {"id": 8017, "en": "See also apache_request_headers().", "pt": "Veja também apache_request_headers()."}
 {"id": 31480, "en": "Variables provided to the script via HTTP POST.", "pt": "Variáveis postadas para o script via método HTTP POST."}
+{"id": 11810, "en": "Example 1. implode() example", "pt": "Exemplo 1. implode() exemplo"}
+{"id": 34170, "en": "Introduced in 4.1.0.", "pt": "Introduzida na versão 4.1.0."}
