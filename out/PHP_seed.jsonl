@@ -200,3 +200,5 @@
 {"id": 30460, "en": "10 class B:", "pt": "10 classe B:"}
 {"id": 272, "en": "Definition of PHP_INI_* constants", "pt": "Definições das constantes PHP_INI_*"}
 {"id": 25698, "en": "Example 1. strip_tags() example", "pt": "Exemplo strip_tags()"}
+{"id": 8202, "en": "The default is ENT_COMPAT mode.", "pt": "O padrão é modo ENT_COMPAT."}
+{"id": 6554, "en": "Example 1. fbsql_fetch_object() example", "pt": "Exemplo 1. fbsql_fetch_object() example"}
