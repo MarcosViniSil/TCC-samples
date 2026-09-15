@@ -320,3 +320,4 @@
 {"id": 31557, "en": "Executing this example will result in the following output:", "pt": "Executando esse exemplo você terá as seguites saídas:"}
 {"id": 21967, "en": "First row is 0.", "pt": "A primeira linha é 0."}
 {"id": 1227, "en": "Uploading multiple files", "pt": "Carregando múltiplos arquivos"}
+{"id": 22549, "en": "Supported encoding depends on PostgreSQL version.", "pt": "As codificações suportadas dependem da versão do PostgreSQL."}
