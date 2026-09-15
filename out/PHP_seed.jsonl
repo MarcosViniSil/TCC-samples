@@ -265,3 +265,4 @@
 {"id": 6329, "en": "Prefix all variable names with prefix.", "pt": "Adiciona um prefixo ao nome de todas as variáveis definido por prefix."}
 {"id": 33585, "en": "Defaults to 0 (disabled).", "pt": "Por definição 0 (desabilitada)."}
 {"id": 15531, "en": "Returns the Unix timestamp corresponding to the arguments given.", "pt": "Retorna o timestamp Unix correspondente para os argumentos dados."}
+{"id": 6089, "en": "Example 1. echo() examples", "pt": "Exemplo 1. echo() exemplos"}
