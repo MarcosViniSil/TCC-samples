@@ -278,3 +278,4 @@
 {"id": 401, "en": "Windows include_path", "pt": "Exemplo 4-4. include_path Windows"}
 {"id": 30370, "en": "There are no destructors in PHP.", "pt": "Não existem destrutores no PHP."}
 {"id": 32483, "en": "This extension has no resource types defined.", "pt": "Esta extensão não possui nenhum tipo resource."}
+{"id": 2127, "en": "Add / delete elements, unset elements, etc.", "pt": "Por exemplo, adicionar / remover elementos, removerá o array no qual array_walk() está sendo aplicada."}
