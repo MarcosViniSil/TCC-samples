@@ -294,3 +294,4 @@
 {"id": 989, "en": "The -r switch simply does not need them.", "pt": "A opção -r simplesmente não precisa delas."}
 {"id": 11278, "en": "Example 1. image_type_to_mime_type (file)", "pt": "Exemplo 1. image_type_to_mime_type (file)"}
 {"id": 22150, "en": "It returns result resource.", "pt": "Retorna o recurso (resource) de resultado."}
+{"id": 1773, "en": "The printout of the program above will be:", "pt": "A saída deste programa seria:"}
