@@ -397,3 +397,4 @@
 {"id": 16243, "en": "See also: mssql_fetch-array() and mssql_fetch-row().", "pt": "Veja também: mssql_fetch-array() e mssql_fetch-row()."}
 {"id": 16901, "en": "The row is returned as an array.", "pt": "A linha é retornada como uma matriz."}
 {"id": 609, "en": "Some more examples to demonstrate usages:", "pt": "Mais alguns exemplos para demonstrar os usos:"}
+{"id": 31882, "en": "The downloads are updated as the content changes.", "pt": "Os arquivos para downloads são atualizados automaticamente assim que o conteúdo for modificado."}
