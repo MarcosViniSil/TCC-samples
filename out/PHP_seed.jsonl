@@ -313,3 +313,6 @@
 {"id": 19140, "en": "Example 1. ob_iconv_handler() example:", "pt": "Exemplo 1. ob_iconv_handler() example:"}
 {"id": 28158, "en": "See also sleep() and set_time_limit().", "pt": "Veja também sleep() e set_time_limit()."}
 {"id": 2503, "en": "See also bzcompress().", "pt": "Veja também bzcompress()."}
+{"id": 2915, "en": "This function is not implemented on Windows platforms.", "pt": "Nota: esta função não é implementada na plataforma Windows"}
+{"id": 24312, "en": "See also Session handling.", "pt": "Veja também Session handling."}
+{"id": 16999, "en": "Example 1. mysql_get_client_info Example", "pt": "Exemplo mysql_get_client_info"}
