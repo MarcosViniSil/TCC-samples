@@ -316,3 +316,5 @@
 {"id": 2915, "en": "This function is not implemented on Windows platforms.", "pt": "Nota: esta função não é implementada na plataforma Windows"}
 {"id": 24312, "en": "See also Session handling.", "pt": "Veja também Session handling."}
 {"id": 16999, "en": "Example 1. mysql_get_client_info Example", "pt": "Exemplo mysql_get_client_info"}
+{"id": 28174, "en": "Example 1. usort() example", "pt": "Exemplo de usort()"}
+{"id": 31557, "en": "Executing this example will result in the following output:", "pt": "Executando esse exemplo você terá as seguites saídas:"}
