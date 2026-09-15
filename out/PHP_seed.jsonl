@@ -308,3 +308,5 @@
 {"id": 22068, "en": "Field numbering starts at 0.", "pt": "A numeração de campo inicia-se em 0."}
 {"id": 1268, "en": "When the request ends, this temporary file is deleted.", "pt": "Quando a requisição termina, este arquivo temporário é apagado."}
 {"id": 7133, "en": "If an error occurs, returns FALSE.", "pt": "Se um erro ocorrer, retorna FALSE."}
+{"id": 2011, "en": "See also array_splice().", "pt": "Veja também array_splice()."}
+{"id": 22714, "en": "See also pclose(), fopen(), and proc_open().", "pt": "Veja também pclose(), fopen() e proc_open()."}
