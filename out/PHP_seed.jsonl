@@ -268,3 +268,6 @@
 {"id": 6089, "en": "Example 1. echo() examples", "pt": "Exemplo 1. echo() exemplos"}
 {"id": 11987, "en": "Example 1. ingres_fetch_object() example", "pt": "Exemplo 1. ingres_fetch_object() example"}
 {"id": 28099, "en": "Example 1. unserialize_callback_func example", "pt": "Exemplo 1. unserialize_callback_func example"}
+{"id": 32912, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 1001, "en": "To prevent this, use the argument list separator - -.", "pt": "Para prevenir isso, utilize o separador de argumentos - -."}
+{"id": 2042, "en": "Example 1. array_sum() examples", "pt": "Exemplos de array_sum()"}
