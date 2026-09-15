@@ -282,3 +282,5 @@
 {"id": 1863, "en": "SORT_NUMERIC - compare items numerically", "pt": "SORT_NUMERIC - compara os elementos como itens numéricos"}
 {"id": 16810, "en": "MYSQL_BOTH is the default for this argument.", "pt": "MYSQL_BOTH é o padrão para este argumento."}
 {"id": 33129, "en": "Example 3. storage_classes.inc", "pt": "Exemplo 3. storage_classes.inc"}
+{"id": 24563, "en": "The hash is a 40-character hexadecimal number.", "pt": "A hash é um número hexadecimal de 40 caracteres."}
+{"id": 20448, "en": "You can find an ASCII-table over here: http: / /www.asciitable.com.", "pt": "Você pode achar a tabela ASCII aqui: http: / /www.asciitable.com."}
