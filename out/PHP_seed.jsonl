@@ -350,3 +350,4 @@
 {"id": 33732, "en": "No external libraries are needed to build this extension.", "pt": "Nenhuma biblioteca externa é necessária para compilar esta extensão."}
 {"id": 16650, "en": "See also mysql_pconnect() and mysql_close().", "pt": "Veja também mysql_pconnect() e mysql_close()."}
 {"id": 17225, "en": "Example 2. mysql_query()", "pt": "Exemplo 2. mysql_query()"}
+{"id": 33716, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
