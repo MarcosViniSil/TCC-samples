@@ -341,3 +341,6 @@
 {"id": 7791, "en": "How to mark abbreviations and make them understandable ", "pt": "Como assinalar abreviaturas e torná-las inteligíveis "}
 {"id": 2603, "en": "Another link, to the Mozilla Developer Network. ", "pt": "Outro link, para Mozilla Developer Network. "}
 {"id": 5168, "en": "Internal stylesheet ", "pt": "Folha de estilos interna "}
+{"id": 8551, "en": "This is called {{glossary(“Information architecture”)}}. ", "pt": "Isso é chamado {{glossary(“Information architecture”)}}. "}
+{"id": 8484, "en": "{{HTMLElement(‘header’)}} represents a group of introductory content. ", "pt": "{{HTMLElement(‘header’)}} representa um grupo de conteúdo introdutório. "}
+{"id": 10641, "en": "The pseudocode looks like this: ", "pt": "O pseudocódigo é assim: "}
