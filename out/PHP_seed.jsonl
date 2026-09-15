@@ -225,3 +225,5 @@
 {"id": 30562, "en": "To learn more about references, please read References explained.", "pt": "Para aprender mais sobre referências, leia Referências explicadas."}
 {"id": 2377, "en": "See also bcdiv().", "pt": "Veja também bcdiv()."}
 {"id": 11999, "en": "Example 1. ingres_fetch_row() example", "pt": "Exemplo 1. ingres_fetch_row() example"}
+{"id": 665, "en": "Instead, you can group several statements into a statement group.", "pt": "Em vez disso, você pode colocar várias instruções em um agrupamento de comandos."}
+{"id": 28075, "en": "See also rmdir() for removing directories.", "pt": "Veja também rmdir() para remover diretórios."}
