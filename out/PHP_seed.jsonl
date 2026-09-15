@@ -369,3 +369,4 @@
 {"id": 366, "en": "Sets max size of post data allowed.", "pt": "Configura o tamanho máximo dos dados postados."}
 {"id": 2159, "en": "See also the reverse function ebcdic2ascii()", "pt": "Veja também a função inversa ebcdic2ascii()"}
 {"id": 30571, "en": "Chapter 11.", "pt": "Capítulo 11."}
+{"id": 6093, "en": "See also print(), printf(), and flush().", "pt": "Veja também print(), printf(), e flush()."}
