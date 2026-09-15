@@ -266,3 +266,4 @@
 {"id": 33585, "en": "Defaults to 0 (disabled).", "pt": "Por definição 0 (desabilitada)."}
 {"id": 15531, "en": "Returns the Unix timestamp corresponding to the arguments given.", "pt": "Retorna o timestamp Unix correspondente para os argumentos dados."}
 {"id": 6089, "en": "Example 1. echo() examples", "pt": "Exemplo 1. echo() exemplos"}
+{"id": 11987, "en": "Example 1. ingres_fetch_object() example", "pt": "Exemplo 1. ingres_fetch_object() example"}
