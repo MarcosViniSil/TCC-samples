@@ -366,3 +366,6 @@
 {"id": 34170, "en": "Introduced in 4.1.0.", "pt": "Introduzida na versão 4.1.0."}
 {"id": 7603, "en": "SEEK_SET - Set position equal to offset bytes.", "pt": "SEEK_SET - Use a posição igual à offset bytes."}
 {"id": 27715, "en": "See also tmpfile() and unlink().", "pt": "Veja também tmpfile() e unlink()."}
+{"id": 366, "en": "Sets max size of post data allowed.", "pt": "Configura o tamanho máximo dos dados postados."}
+{"id": 2159, "en": "See also the reverse function ebcdic2ascii()", "pt": "Veja também a função inversa ebcdic2ascii()"}
+{"id": 30571, "en": "Chapter 11.", "pt": "Capítulo 11."}
