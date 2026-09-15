@@ -374,3 +374,5 @@
 {"id": 23443, "en": "Example 1. pspell_config_mode()", "pt": "Exemplo 1. pspell_config_mode()"}
 {"id": 1816, "en": "Example 1. array_merge() example", "pt": "Exemplo de array_merge()"}
 {"id": 2060, "en": "In words: when the string representation is the same.", "pt": "Em palavras: quando a represetação em string é a mesma."}
+{"id": 31246, "en": "Now, I am printing some {$foo - bar[1]}.", "pt": "Agora, eu estou imprimindo {$foo - bar[1]}."}
+{"id": 27488, "en": "See also: sybase_connect(), sybase_pconnect().", "pt": "Veja também: sybase_connect(), sybase_pconnect()."}
