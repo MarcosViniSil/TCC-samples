@@ -305,3 +305,5 @@
 {"id": 1691, "en": "Example 1. array_flip() example", "pt": "Exemplo de array_flip()"}
 {"id": 17170, "en": "mysql_pconnect() establishes a connection to a MySQL server.", "pt": "mysql_pconnect() estabelece uma conexão com o servidor MySQL."}
 {"id": 26120, "en": "Example 2. swfbutton - addaction() example", "pt": "Exemplo 2. swfbutton - addaction() example"}
+{"id": 22068, "en": "Field numbering starts at 0.", "pt": "A numeração de campo inicia-se em 0."}
+{"id": 1268, "en": "When the request ends, this temporary file is deleted.", "pt": "Quando a requisição termina, este arquivo temporário é apagado."}
