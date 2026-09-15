@@ -295,3 +295,5 @@
 {"id": 11278, "en": "Example 1. image_type_to_mime_type (file)", "pt": "Exemplo 1. image_type_to_mime_type (file)"}
 {"id": 22150, "en": "It returns result resource.", "pt": "Retorna o recurso (resource) de resultado."}
 {"id": 1773, "en": "The printout of the program above will be:", "pt": "A saída deste programa seria:"}
+{"id": 31553, "en": "Executing this example will result in the following output:", "pt": "Executando esse exemplo você terá as seguites saídas:"}
+{"id": 477, "en": "A is equal to 5 ?php endif;?", "pt": "A é igual a 5 ?php endif;?"}
