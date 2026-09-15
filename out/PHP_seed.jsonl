@@ -271,3 +271,6 @@
 {"id": 32912, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
 {"id": 1001, "en": "To prevent this, use the argument list separator - -.", "pt": "Para prevenir isso, utilize o separador de argumentos - -."}
 {"id": 2042, "en": "Example 1. array_sum() examples", "pt": "Exemplos de array_sum()"}
+{"id": 23976, "en": "\"\\n\" (ASCII 10 (0x0A)), a new line (line feed).", "pt": "\"\\t\" (ASCII 9 (0x09)), uma tabulação."}
+{"id": 12786, "en": "d = lemon c = apple b = banana a = orange", "pt": "d = limao c = melancia b = banana a = laranja"}
+{"id": 17013, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saída:"}
