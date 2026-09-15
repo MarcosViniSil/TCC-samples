@@ -359,3 +359,5 @@
 {"id": 5046, "en": "Styling things based on their location in a document ", "pt": "Estilizando coisas baseadas em sua localização no documento "}
 {"id": 9808, "en": "Getting our code examples ", "pt": "Obtendo nossos exemplos de código "}
 {"id": 9089, "en": "How do we put an image on a webpage? ", "pt": "Como colocamos uma imagem numa página web? "}
+{"id": 10043, "en": "The promise returned by Promise.all() is: ", "pt": "A promise retornada por Promise.all() é: "}
+{"id": 9942, "en": "Chaining promises ", "pt": "Encadeamento de promises "}
