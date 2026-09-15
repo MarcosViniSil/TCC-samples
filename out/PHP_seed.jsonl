@@ -332,3 +332,4 @@
 {"id": 27786, "en": "Example 1. touch() example", "pt": "Exemplo 1. exemplo da função touch()"}
 {"id": 22108, "en": "Field numbering starts at 0.", "pt": "A numeração de campo inicia-se em 0."}
 {"id": 32165, "en": "Note: db4 conflicts with db2 and db3.", "pt": "Nota: db4 conflicts with db2 and db3."}
+{"id": 30367, "en": "There are no destructors in PHP 3 or PHP 4.", "pt": "Não existem destrutores no PHP 3 ou 4."}
