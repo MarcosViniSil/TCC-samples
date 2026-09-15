@@ -333,3 +333,5 @@
 {"id": 22108, "en": "Field numbering starts at 0.", "pt": "A numeração de campo inicia-se em 0."}
 {"id": 32165, "en": "Note: db4 conflicts with db2 and db3.", "pt": "Nota: db4 conflicts with db2 and db3."}
 {"id": 30367, "en": "There are no destructors in PHP 3 or PHP 4.", "pt": "Não existem destrutores no PHP 3 ou 4."}
+{"id": 1426, "en": "Example 1. addcslashes() example", "pt": "Exemplo 1. addcslashes() exemplo"}
+{"id": 33071, "en": "Table 4. mouse constants", "pt": "Tabela 4. mouse constants"}
