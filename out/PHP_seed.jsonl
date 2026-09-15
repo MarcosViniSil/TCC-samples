@@ -286,3 +286,5 @@
 {"id": 20448, "en": "You can find an ASCII-table over here: http: / /www.asciitable.com.", "pt": "Você pode achar a tabela ASCII aqui: http: / /www.asciitable.com."}
 {"id": 27213, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
 {"id": 2367, "en": "See also bcdiv().", "pt": "Veja também bcdiv()."}
+{"id": 32335, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 17100, "en": "mysql_list_fields() retrieves information about the given table name.", "pt": "mysql_list_fields() retorna informação sobre a tabela dada."}
