@@ -246,3 +246,5 @@
 {"id": 3250, "en": "Effectively, this “turns on inheritance”. ", "pt": "Efetivamente, isso “ativa a herança”. "}
 {"id": 2254, "en": "W3C on Wikipedia ", "pt": "W3C na Wikipedia "}
 {"id": 10398, "en": "Basic if…else syntax ", "pt": "Sintaxe básica if … else "}
+{"id": 11899, "en": "<input type=\"number\" id=\"guessField\" class=\"guessField\" /> ", "pt": "><input type=\"text\" id=\"campoPalpite\" class=\"campoPalpite\" /> "}
+{"id": 6783, "en": "To style a different element, change the selector. ", "pt": "Para dar estilo a um outro elemento, é só mudar o seletor. "}
