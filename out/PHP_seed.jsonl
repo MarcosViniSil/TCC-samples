@@ -355,3 +355,6 @@
 {"id": 11, "en": "The manuals are updated automatically as the text is updated.", "pt": "Os manuais são automaticamente atualizados quando da alteração dos fontes."}
 {"id": 21942, "en": "row is row (record) number to be retrieved.", "pt": "row é o número da linha (registro) a ser recuperado."}
 {"id": 990, "en": "Using them will lead to a parser error.", "pt": "Utilizando-as você obterá erros de interpretação."}
+{"id": 23614, "en": "If not specified, step will default to 1.", "pt": "Se não for especificado, step terá valor igual a 1."}
+{"id": 22111, "en": "See also pg_field_len() and pg_field_name().", "pt": "Veja também pg_field_len() e pg_field_name()."}
+{"id": 7339, "en": "Next", "pt": "Próxima"}
