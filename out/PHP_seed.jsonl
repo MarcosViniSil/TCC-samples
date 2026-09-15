@@ -234,3 +234,5 @@
 {"id": 2081, "en": "Returns the new number of elements in the array.", "pt": "Retorna o novo número de elementos de array."}
 {"id": 3188, "en": "Example 1. count() example", "pt": "Exemplo de count()"}
 {"id": 21733, "en": "You cannot cancel query executed by pg_query().", "pt": "Você não pode cancelar uma consulta executada por pg_query()."}
+{"id": 7308, "en": "See clearstatcache() for more details.", "pt": "Veja clearstatcache() para mais detalhes."}
+{"id": 30312, "en": "However, not every expression is a statement.", "pt": "Porém, nem toda expressão é um comando."}
