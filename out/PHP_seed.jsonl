@@ -390,3 +390,4 @@
 {"id": 409, "en": "See also: enable_dl, and dl().", "pt": "Veja também enable_dl e dl()."}
 {"id": 2084, "en": "This would result in $queue having the following elements:", "pt": "O programa acima resultaria em $queue contendo os seguintes elementos:"}
 {"id": 31588, "en": "This means you cannot do things like ${$_GET}.", "pt": "Isto significa que você não pode fazer coisas como ${$_GET}."}
+{"id": 30007, "en": "See the section about Command line usage of PHP for more information.", "pt": "Veja a seção Utilizando o PHP em linha de comando para maiores informações."}
