@@ -240,3 +240,4 @@
 {"id": 27709, "en": "Example 1. tempnam() example", "pt": "Exemplo 1. exemplo de tempnam()"}
 {"id": 16731, "en": "For downward compatibility mysql_dropdb() can also be used.", "pt": "Para compatibilidade com as versãoes anteriores, mysql_dropdb() pode ser usada também."}
 {"id": 24014, "en": "The output of the above example is:", "pt": "A saída do exemplo acima é:"}
+{"id": 16808, "en": "MYSQL_ASSOC, MYSQL_NUM, and MYSQL_BOTH.", "pt": "MYSQL_ASSOC, MYSQL_NUM, e MYSQL_BOTH."}
