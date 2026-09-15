@@ -214,3 +214,4 @@
 {"id": 30024, "en": "Writing a database-enabled web page is incredibly simple.", "pt": "Escrever uma página que consulte um banco de dados é incrivelmente simples."}
 {"id": 2336, "en": "See also bcsub().", "pt": "Veja também bcsub()."}
 {"id": 29569, "en": "Both of these books covered PHP 3.0.", "pt": "Todos estes livros falavam sobre o PHP 3.0."}
+{"id": 1338, "en": "This function is disabled in safe mode.", "pt": "Esta função é desabilitada no safe-mode"}
