@@ -322,3 +322,4 @@
 {"id": 1227, "en": "Uploading multiple files", "pt": "Carregando múltiplos arquivos"}
 {"id": 22549, "en": "Supported encoding depends on PostgreSQL version.", "pt": "As codificações suportadas dependem da versão do PostgreSQL."}
 {"id": 13408, "en": "Without the second parameter, ltrim() will strip these characters:", "pt": "Esta função retorna uma string com whitespace retirados do início de str."}
+{"id": 22160, "en": "See also pg_connect() and pg_pconnect().", "pt": "Veja também pg_connect() e pg_pconnect()."}
