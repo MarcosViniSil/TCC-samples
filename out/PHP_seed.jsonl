@@ -391,3 +391,7 @@
 {"id": 2084, "en": "This would result in $queue having the following elements:", "pt": "O programa acima resultaria em $queue contendo os seguintes elementos:"}
 {"id": 31588, "en": "This means you cannot do things like ${$_GET}.", "pt": "Isto significa que você não pode fazer coisas como ${$_GET}."}
 {"id": 30007, "en": "See the section about Command line usage of PHP for more information.", "pt": "Veja a seção Utilizando o PHP em linha de comando para maiores informações."}
+{"id": 12453, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
+{"id": 6348, "en": "The above example will produce:", "pt": "O exemplo acima produziria:"}
+{"id": 16771, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saida:"}
+{"id": 16243, "en": "See also: mssql_fetch-array() and mssql_fetch-row().", "pt": "Veja também: mssql_fetch-array() e mssql_fetch-row()."}
