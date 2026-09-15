@@ -258,3 +258,6 @@
 {"id": 22122, "en": "Returns TRUE on success or FALSE on failure.", "pt": "Retorna TRUE em caso de sucesso ou FALSE em falhas."}
 {"id": 4153, "en": "See also getlastmod(), gmdate(), mktime(), strftime() and time().", "pt": "Veja também getlastmod(), gmdate(), mktime(), strftime() e time()."}
 {"id": 8991, "en": "Example 1. hexdec() example", "pt": "Exemplo 1. exemplos hexdec()"}
+{"id": 652, "en": "A statement-group is a statement by itself as well.", "pt": "Um grupo de comandos é uma instrução também."}
+{"id": 24759, "en": "See also asin(), cos(), tan() and deg2rad().", "pt": "Veja também asin(), cos(), tan() e deg2rad()."}
+{"id": 16644, "en": "The new_link parameter became available in PHP 4.2.0", "pt": "O parâmetro new_link tornou-se disponível no PHP 4.2.0"}
