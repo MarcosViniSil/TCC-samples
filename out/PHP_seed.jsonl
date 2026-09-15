@@ -318,3 +318,4 @@
 {"id": 16999, "en": "Example 1. mysql_get_client_info Example", "pt": "Exemplo mysql_get_client_info"}
 {"id": 28174, "en": "Example 1. usort() example", "pt": "Exemplo de usort()"}
 {"id": 31557, "en": "Executing this example will result in the following output:", "pt": "Executando esse exemplo você terá as seguites saídas:"}
+{"id": 21967, "en": "First row is 0.", "pt": "A primeira linha é 0."}
