@@ -353,3 +353,5 @@
 {"id": 7357, "en": "Keep this in mind as you learn. ", "pt": "Tenha isso em mente enquanto aprende. "}
 {"id": 6968, "en": "Call it test-site (or something more imaginative). ", "pt": "Chame ela de site-teste (ou algo mais criativo). "}
 {"id": 10097, "en": "In that case, you want {{jsxref(“Promise/any”, “Promise.any()”)}}. ", "pt": "Nesse caso, você deseja {{jsxref(“Promise/any”, “Promise.any()”)}}. "}
+{"id": 12622, "en": "We’d recommend doing it like this: ", "pt": "Nós recomendamos que faça assim: "}
+{"id": 2648, "en": "Technique comes second. ", "pt": "Técnica vem em segundo lugar. "}
