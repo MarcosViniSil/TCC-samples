@@ -355,3 +355,6 @@
 {"id": 10097, "en": "In that case, you want {{jsxref(“Promise/any”, “Promise.any()”)}}. ", "pt": "Nesse caso, você deseja {{jsxref(“Promise/any”, “Promise.any()”)}}. "}
 {"id": 12622, "en": "We’d recommend doing it like this: ", "pt": "Nós recomendamos que faça assim: "}
 {"id": 2648, "en": "Technique comes second. ", "pt": "Técnica vem em segundo lugar. "}
+{"id": 1237, "en": "In JavaScript, there’s always a global object defined. ", "pt": "Em JavaScript, um objeto global é sempre definido. "}
+{"id": 5046, "en": "Styling things based on their location in a document ", "pt": "Estilizando coisas baseadas em sua localização no documento "}
+{"id": 9808, "en": "Getting our code examples ", "pt": "Obtendo nossos exemplos de código "}
