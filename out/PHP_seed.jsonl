@@ -202,3 +202,6 @@
 {"id": 25698, "en": "Example 1. strip_tags() example", "pt": "Exemplo strip_tags()"}
 {"id": 8202, "en": "The default is ENT_COMPAT mode.", "pt": "O padrão é modo ENT_COMPAT."}
 {"id": 6554, "en": "Example 1. fbsql_fetch_object() example", "pt": "Exemplo 1. fbsql_fetch_object() example"}
+{"id": 31497, "en": "See the Session handling functions section for more information.", "pt": "Veja a sessão funções de manipulação de Sessões para maiores informações."}
+{"id": 25982, "en": "Example 2. swfaction() example", "pt": "Exemplo 2. swfaction() example"}
+{"id": 31940, "en": "SORT_REGULAR is used to compare items normally.", "pt": "SORT_REGULAR é usada para comparar itens normalmente."}
