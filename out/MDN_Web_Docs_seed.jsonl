@@ -325,3 +325,6 @@
 {"id": 12474, "en": "Retrieving a specific string character ", "pt": "Recuperando um caractere de string específico "}
 {"id": 1963, "en": "Also known as an {{glossary(“IIFE”)}} (Immediately Invoked Function Expression). ", "pt": "Ela também é conhecida como IIFE (Immediately Invoked Function Expression). "}
 {"id": 3672, "en": "You can also see it live here. ", "pt": "Você pode ver a página aqui também. "}
+{"id": 7714, "en": "Sketching out your design ", "pt": "Rascunhando seu design "}
+{"id": 7169, "en": "These are wrapped in a {{htmlelement(“ul”)}} element. ", "pt": "Essas são envolvidas em um elemento {{htmlelement(“ul”)}}. "}
+{"id": 9665, "en": "The HTML contains the same animals example as you saw above. ", "pt": "O arquivo HTML contém o mesmo exemplo de animais visto acima. "}
