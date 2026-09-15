@@ -290,3 +290,5 @@
 {"id": 17100, "en": "mysql_list_fields() retrieves information about the given table name.", "pt": "mysql_list_fields() retorna informação sobre a tabela dada."}
 {"id": 2103, "en": "See also array_keys().", "pt": "Veja também array_keys()."}
 {"id": 32400, "en": "Define the anonymous ftp password (your email address).", "pt": "Define a senha do FTP anonimo (seu endereço de e-mail)."}
+{"id": 13267, "en": "Example 1. list() examples", "pt": "Exemplo de list()"}
+{"id": 989, "en": "The -r switch simply does not need them.", "pt": "A opção -r simplesmente não precisa delas."}
