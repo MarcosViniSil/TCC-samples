@@ -237,3 +237,5 @@
 {"id": 7308, "en": "See clearstatcache() for more details.", "pt": "Veja clearstatcache() para mais detalhes."}
 {"id": 30312, "en": "However, not every expression is a statement.", "pt": "Porém, nem toda expressão é um comando."}
 {"id": 33344, "en": "Whether to allow persistent Postgres connections.", "pt": "Se quer ou não permitir conexões persistentes com o PostgreSQL."}
+{"id": 27709, "en": "Example 1. tempnam() example", "pt": "Exemplo 1. exemplo de tempnam()"}
+{"id": 16731, "en": "For downward compatibility mysql_dropdb() can also be used.", "pt": "Para compatibilidade com as versãoes anteriores, mysql_dropdb() pode ser usada também."}
