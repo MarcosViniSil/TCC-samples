@@ -345,3 +345,5 @@
 {"id": 28074, "en": "Returns TRUE on success or FALSE on failure.", "pt": "Retorna TRUE em caso de sucesso ou FALSE em falhas."}
 {"id": 30002, "en": "Command line scripting.", "pt": "Script de linha de comando."}
 {"id": 10245, "en": "Example 1. iconv() example:", "pt": "Exemplo 1. iconv() example:"}
+{"id": 6193, "en": "In PHP 3, eval() does not return a value.", "pt": "No PHP 3, eval() não retorna um valor."}
+{"id": 8465, "en": "Example 1. gmdate() example", "pt": "Exemplo 1. gmdate() exemplo"}
