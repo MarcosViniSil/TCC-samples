@@ -382,3 +382,8 @@
 {"id": 17056, "en": "See also: mysql_affected_rows()", "pt": "Veja também: mysql_affected_rows()"}
 {"id": 13258, "en": "See also symlink(), link(), and readlink().", "pt": "Veja também symlink(), link(), e readlink()."}
 {"id": 16891, "en": "See also: mysql_fetch_array() and mysql_fetch_row().", "pt": "Veja também: mysql_fetch_array() e mysql_fetch_row()."}
+{"id": 13145, "en": "Returns TRUE on success or FALSE on failure.", "pt": "Retorna TRUE em caso de sucesso ou FALSE em falhas."}
+{"id": 24565, "en": "See also sha1(), crc32(), and md5_file()", "pt": "Veja também sha1(), crc32(), e md5_file()"}
+{"id": 13281, "en": "See also each(), array() and extract().", "pt": "Veja também each(), array() e extract()."}
+{"id": 25676, "en": "Recognizes C-like \\n, \\r..., octal and hexadecimal representation.", "pt": "Reconhece estilo C \\n, \\r..., representação octal e hexadecimal."}
+{"id": 16593, "en": "It is not available in PHP 4.", "pt": "Ela não esta disponível no PHP 4."}
