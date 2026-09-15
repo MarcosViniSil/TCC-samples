@@ -279,3 +279,5 @@
 {"id": 30370, "en": "There are no destructors in PHP.", "pt": "Não existem destrutores no PHP."}
 {"id": 32483, "en": "This extension has no resource types defined.", "pt": "Esta extensão não possui nenhum tipo resource."}
 {"id": 2127, "en": "Add / delete elements, unset elements, etc.", "pt": "Por exemplo, adicionar / remover elementos, removerá o array no qual array_walk() está sendo aplicada."}
+{"id": 1863, "en": "SORT_NUMERIC - compare items numerically", "pt": "SORT_NUMERIC - compara os elementos como itens numéricos"}
+{"id": 16810, "en": "MYSQL_BOTH is the default for this argument.", "pt": "MYSQL_BOTH é o padrão para este argumento."}
