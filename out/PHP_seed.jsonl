@@ -302,3 +302,5 @@
 {"id": 11341, "en": "This function is currently not documented; only the argument list is available.", "pt": "Esta função não está documentada, somente a lista de argumentos está disponível."}
 {"id": 20745, "en": "Example 1. pcntl_signal() Example", "pt": "Exemplo 1. pcntl_signal() Example"}
 {"id": 165, "en": "They all can be downloaded here: http: / /www.php.net / docs.php.", "pt": "Todos eles podem ser baixados aqui: http: / /www.php.net / docs.php."}
+{"id": 1691, "en": "Example 1. array_flip() example", "pt": "Exemplo de array_flip()"}
+{"id": 17170, "en": "mysql_pconnect() establishes a connection to a MySQL server.", "pt": "mysql_pconnect() estabelece uma conexão com o servidor MySQL."}
