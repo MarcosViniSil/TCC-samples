@@ -254,3 +254,4 @@
 {"id": 7307, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
 {"id": 2095, "en": "Example 1. array_values() example", "pt": "Exemplo de array_values()"}
 {"id": 3782, "en": "See also md5()", "pt": "Veja também md5()"}
+{"id": 8010, "en": "getallheaders() is an alias for apache_request_headers().", "pt": "getallheaders() é um sinônimo para apache_request_headers()."}
