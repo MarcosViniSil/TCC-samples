@@ -330,3 +330,5 @@
 {"id": 34019, "en": "These lists are neither exhaustive or complete.", "pt": "Lista de palavras-chave (keywords)"}
 {"id": 3113, "en": "See also define(), defined() and the section on Constants.", "pt": "Veja também define(), defined() e a seção sobre Constantes."}
 {"id": 27786, "en": "Example 1. touch() example", "pt": "Exemplo 1. exemplo da função touch()"}
+{"id": 22108, "en": "Field numbering starts at 0.", "pt": "A numeração de campo inicia-se em 0."}
+{"id": 32165, "en": "Note: db4 conflicts with db2 and db3.", "pt": "Nota: db4 conflicts with db2 and db3."}
