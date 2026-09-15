@@ -342,3 +342,5 @@
 {"id": 32080, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
 {"id": 34079, "en": "This is set by the user agent.", "pt": "Essa diretiva é informada pelo agente do usuário."}
 {"id": 30820, "en": "Following things can be passed by reference:", "pt": "As coisas a seguir podem ser passadas por referência:"}
+{"id": 28074, "en": "Returns TRUE on success or FALSE on failure.", "pt": "Retorna TRUE em caso de sucesso ou FALSE em falhas."}
+{"id": 30002, "en": "Command line scripting.", "pt": "Script de linha de comando."}
