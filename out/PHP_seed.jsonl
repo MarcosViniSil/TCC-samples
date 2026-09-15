@@ -312,3 +312,4 @@
 {"id": 22714, "en": "See also pclose(), fopen(), and proc_open().", "pt": "Veja também pclose(), fopen() e proc_open()."}
 {"id": 19140, "en": "Example 1. ob_iconv_handler() example:", "pt": "Exemplo 1. ob_iconv_handler() example:"}
 {"id": 28158, "en": "See also sleep() and set_time_limit().", "pt": "Veja também sleep() e set_time_limit()."}
+{"id": 2503, "en": "See also bzcompress().", "pt": "Veja também bzcompress()."}
