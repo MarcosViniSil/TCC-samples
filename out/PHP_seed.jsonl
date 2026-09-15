@@ -274,3 +274,6 @@
 {"id": 23976, "en": "\"\\n\" (ASCII 10 (0x0A)), a new line (line feed).", "pt": "\"\\t\" (ASCII 9 (0x09)), uma tabulação."}
 {"id": 12786, "en": "d = lemon c = apple b = banana a = orange", "pt": "d = limao c = melancia b = banana a = laranja"}
 {"id": 17013, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saída:"}
+{"id": 22551, "en": "The function used to be called pg_setclientencoding().", "pt": "Esta função era chamada pg_setclientencoding()."}
+{"id": 401, "en": "Windows include_path", "pt": "Exemplo 4-4. include_path Windows"}
+{"id": 30370, "en": "There are no destructors in PHP.", "pt": "Não existem destrutores no PHP."}
