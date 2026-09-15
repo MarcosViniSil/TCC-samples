@@ -380,3 +380,5 @@
 {"id": 16976, "en": "For downward compatibility mysql_fieldtype() can also be used.", "pt": "Para compatibilidade com versões anteriores mysql_fieldtype() também pode ser usada."}
 {"id": 32482, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
 {"id": 17056, "en": "See also: mysql_affected_rows()", "pt": "Veja também: mysql_affected_rows()"}
+{"id": 13258, "en": "See also symlink(), link(), and readlink().", "pt": "Veja também symlink(), link(), e readlink()."}
+{"id": 16891, "en": "See also: mysql_fetch_array() and mysql_fetch_row().", "pt": "Veja também: mysql_fetch_array() e mysql_fetch_row()."}
