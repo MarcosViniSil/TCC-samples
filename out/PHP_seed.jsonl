@@ -328,3 +328,5 @@
 {"id": 17296, "en": "Example 1. mysql_tablename() Example", "pt": "Exemplo mysql_tablename()"}
 {"id": 20641, "en": "It is already processed, the time you run your script.", "pt": "Este já é processado na hora que você executa o script."}
 {"id": 34019, "en": "These lists are neither exhaustive or complete.", "pt": "Lista de palavras-chave (keywords)"}
+{"id": 3113, "en": "See also define(), defined() and the section on Constants.", "pt": "Veja também define(), defined() e a seção sobre Constantes."}
+{"id": 27786, "en": "Example 1. touch() example", "pt": "Exemplo 1. exemplo da função touch()"}
