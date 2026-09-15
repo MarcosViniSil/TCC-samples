@@ -364,3 +364,4 @@
 {"id": 31480, "en": "Variables provided to the script via HTTP POST.", "pt": "Variáveis postadas para o script via método HTTP POST."}
 {"id": 11810, "en": "Example 1. implode() example", "pt": "Exemplo 1. implode() exemplo"}
 {"id": 34170, "en": "Introduced in 4.1.0.", "pt": "Introduzida na versão 4.1.0."}
+{"id": 7603, "en": "SEEK_SET - Set position equal to offset bytes.", "pt": "SEEK_SET - Use a posição igual à offset bytes."}
