@@ -340,3 +340,4 @@
 {"id": 22592, "en": "See also pg_escape_bytea() and pg_escape_string()", "pt": "Veja também pg_escape_bytea() e pg_escape_string()"}
 {"id": 25309, "en": "Example 1. sort() example", "pt": "Exemplo de sort()"}
 {"id": 32080, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 34079, "en": "This is set by the user agent.", "pt": "Essa diretiva é informada pelo agente do usuário."}
