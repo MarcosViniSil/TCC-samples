@@ -252,3 +252,5 @@
 {"id": 32388, "en": "Here is a short explanation of the configuration directives.", "pt": "Descrição resumida das diretivas de configuração."}
 {"id": 33734, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
 {"id": 7307, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
+{"id": 2095, "en": "Example 1. array_values() example", "pt": "Exemplo de array_values()"}
+{"id": 3782, "en": "See also md5()", "pt": "Veja também md5()"}
