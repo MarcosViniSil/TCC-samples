@@ -328,3 +328,5 @@
 {"id": 7714, "en": "Sketching out your design ", "pt": "Rascunhando seu design "}
 {"id": 7169, "en": "These are wrapped in a {{htmlelement(“ul”)}} element. ", "pt": "Essas são envolvidas em um elemento {{htmlelement(“ul”)}}. "}
 {"id": 9665, "en": "The HTML contains the same animals example as you saw above. ", "pt": "O arquivo HTML contém o mesmo exemplo de animais visto acima. "}
+{"id": 11813, "en": "Important parts of web browser; the document is the web page. ", "pt": "O documento HTML tem uma folha de estilo anexada, bem como um arquivo de script. "}
+{"id": 7615, "en": "Many professional websites go online this way. ", "pt": "Muitos sites profissionais ficam online dessa maneira. "}
