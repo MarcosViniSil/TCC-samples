@@ -261,3 +261,4 @@
 {"id": 652, "en": "A statement-group is a statement by itself as well.", "pt": "Um grupo de comandos é uma instrução também."}
 {"id": 24759, "en": "See also asin(), cos(), tan() and deg2rad().", "pt": "Veja também asin(), cos(), tan() e deg2rad()."}
 {"id": 16644, "en": "The new_link parameter became available in PHP 4.2.0", "pt": "O parâmetro new_link tornou-se disponível no PHP 4.2.0"}
+{"id": 2124, "en": "To reset the pointer, use reset().", "pt": "Para reiniciar o ponteiro, use reset()."}
