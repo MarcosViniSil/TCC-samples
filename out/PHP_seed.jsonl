@@ -325,3 +325,4 @@
 {"id": 22160, "en": "See also pg_connect() and pg_pconnect().", "pt": "Veja também pg_connect() e pg_pconnect()."}
 {"id": 24700, "en": "See also highlight_string() and highlight_file().", "pt": "Veja também highlight_string() e highlight_file()."}
 {"id": 1708, "en": "Example 1. array() example", "pt": "Exemplo de array()"}
+{"id": 17296, "en": "Example 1. mysql_tablename() Example", "pt": "Exemplo mysql_tablename()"}
