@@ -208,3 +208,4 @@
 {"id": 6651, "en": "Example 1. fbsql_list_dbs() example", "pt": "Exemplo 1. fbsql_list_dbs() example"}
 {"id": 640, "en": "See the documentation for these functions for an example.", "pt": "Veja a documentação para estas funções para exemplos."}
 {"id": 16623, "en": "See also: mysql_connect(), and mysql_pconnect().", "pt": "Veja também: mysql_connect(), e mysql_pconnect()."}
+{"id": 2082, "en": "Example 1. array_unshift() example", "pt": "Exemplo de array_unshift()"}
