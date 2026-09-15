@@ -359,3 +359,4 @@
 {"id": 22111, "en": "See also pg_field_len() and pg_field_name().", "pt": "Veja também pg_field_len() e pg_field_name()."}
 {"id": 7339, "en": "Next", "pt": "Próxima"}
 {"id": 2927, "en": "See also explode(), split() wordwrap() and RFC 2045.", "pt": "Veja também explode(), split() wordwrap() e RFC 2045."}
+{"id": 16663, "en": "For downwards compatibility mysql_createdb() can also be used.", "pt": "Para compatibilidade com versões anteriores mysql_createdb() também pode ser usada."}
