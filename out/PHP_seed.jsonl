@@ -336,3 +336,4 @@
 {"id": 1426, "en": "Example 1. addcslashes() example", "pt": "Exemplo 1. addcslashes() exemplo"}
 {"id": 33071, "en": "Table 4. mouse constants", "pt": "Tabela 4. mouse constants"}
 {"id": 2564, "en": "Example 1. bzread() Example", "pt": "Exemplo de bzread()"}
+{"id": 7388, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
