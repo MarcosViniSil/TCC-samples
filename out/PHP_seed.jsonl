@@ -233,3 +233,4 @@
 {"id": 1690, "en": "array_flip() returns FALSE if it fails.", "pt": "array_flip() retorna FALSE se falhar."}
 {"id": 2081, "en": "Returns the new number of elements in the array.", "pt": "Retorna o novo número de elementos de array."}
 {"id": 3188, "en": "Example 1. count() example", "pt": "Exemplo de count()"}
+{"id": 21733, "en": "You cannot cancel query executed by pg_query().", "pt": "Você não pode cancelar uma consulta executada por pg_query()."}
