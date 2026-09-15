@@ -344,3 +344,6 @@
 {"id": 8551, "en": "This is called {{glossary(“Information architecture”)}}. ", "pt": "Isso é chamado {{glossary(“Information architecture”)}}. "}
 {"id": 8484, "en": "{{HTMLElement(‘header’)}} represents a group of introductory content. ", "pt": "{{HTMLElement(‘header’)}} representa um grupo de conteúdo introdutório. "}
 {"id": 10641, "en": "The pseudocode looks like this: ", "pt": "O pseudocódigo é assim: "}
+{"id": 6541, "en": "By default, its value is application/x-www-form-urlencoded. ", "pt": "Por padrão, seu valor é application / x-www-form-urlencoded. "}
+{"id": 8508, "en": "<h2>Shopping cart</h2> ", "pt": "<h2>Carrinho de compras</h2> "}
+{"id": 9538, "en": "## Active learning: Creating your first table ", "pt": "Active learning: Criar sua primeira tabela "}
