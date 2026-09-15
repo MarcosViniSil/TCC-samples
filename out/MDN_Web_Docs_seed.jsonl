@@ -389,3 +389,7 @@
 {"id": 5410, "en": "How do I restore the default value of a property? ", "pt": "Como eu redefino o valor padrão de uma propriedade? "}
 {"id": 7365, "en": "The browser ignores text marked as comments. ", "pt": "O navegador ignora o texto marcado como comentários. "}
 {"id": 10048, "en": "For example: ", "pt": "Por exemplo: "}
+{"id": 7282, "en": "Add this code to the main.js file: ", "pt": "Adicione este código ao arquivo main.js: "}
+{"id": 12027, "en": "const cities = [\"Manchester\", \"Liverpool\", \"Edinburgh\", \"Carlisle\"]; ", "pt": "myArray.length; "}
+{"id": 9161, "en": "Returning to our example, we could do this: ", "pt": "Voltando ao nosso exemplo, poderíamos fazer isso: "}
+{"id": 9788, "en": "This topic teaches HTML in detail. ", "pt": "Este tópico ensina HTML em detalhes. "}
