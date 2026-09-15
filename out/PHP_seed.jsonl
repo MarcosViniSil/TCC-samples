@@ -353,3 +353,5 @@
 {"id": 33716, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
 {"id": 6110, "en": "A simple end() example", "pt": "Exemplo simples de end()"}
 {"id": 11, "en": "The manuals are updated automatically as the text is updated.", "pt": "Os manuais são automaticamente atualizados quando da alteração dos fontes."}
+{"id": 21942, "en": "row is row (record) number to be retrieved.", "pt": "row é o número da linha (registro) a ser recuperado."}
+{"id": 990, "en": "Using them will lead to a parser error.", "pt": "Utilizando-as você obterá erros de interpretação."}
