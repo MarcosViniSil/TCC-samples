@@ -360,3 +360,4 @@
 {"id": 7339, "en": "Next", "pt": "Próxima"}
 {"id": 2927, "en": "See also explode(), split() wordwrap() and RFC 2045.", "pt": "Veja também explode(), split() wordwrap() e RFC 2045."}
 {"id": 16663, "en": "For downwards compatibility mysql_createdb() can also be used.", "pt": "Para compatibilidade com versões anteriores mysql_createdb() também pode ser usada."}
+{"id": 8017, "en": "See also apache_request_headers().", "pt": "Veja também apache_request_headers()."}
