@@ -255,3 +255,6 @@
 {"id": 2095, "en": "Example 1. array_values() example", "pt": "Exemplo de array_values()"}
 {"id": 3782, "en": "See also md5()", "pt": "Veja também md5()"}
 {"id": 8010, "en": "getallheaders() is an alias for apache_request_headers().", "pt": "getallheaders() é um sinônimo para apache_request_headers()."}
+{"id": 22122, "en": "Returns TRUE on success or FALSE on failure.", "pt": "Retorna TRUE em caso de sucesso ou FALSE em falhas."}
+{"id": 4153, "en": "See also getlastmod(), gmdate(), mktime(), strftime() and time().", "pt": "Veja também getlastmod(), gmdate(), mktime(), strftime() e time()."}
+{"id": 8991, "en": "Example 1. hexdec() example", "pt": "Exemplo 1. exemplos hexdec()"}
