@@ -266,3 +266,5 @@
 {"id": 9964, "en": "It is, of course. ", "pt": "Sim, claro. "}
 {"id": 8040, "en": "<p>Here is a blockquote:</p> ", "pt": "A fórmula química da cafeína é C8H10N4O2. "}
 {"id": 3892, "en": "Understand how to style boxes. ", "pt": "Entenda como estilizar caixas. "}
+{"id": 3641, "en": "It results in invalid code, and will cause strange behavior in many places. ", "pt": "Isso resulta em código inválido e causará um comportamento estranho em muitos lugares. "}
+{"id": 6476, "en": "POST / HTTP/2.0 ", "pt": "POST / HTTP/1.1 "}
