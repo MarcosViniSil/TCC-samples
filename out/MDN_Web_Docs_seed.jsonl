@@ -381,3 +381,5 @@
 {"id": 10289, "en": "This line invokes the function, making it run immediately. ", "pt": "Esta linha chama a função, fazendo com que ela seja executada imediatamente. "}
 {"id": 8362, "en": "navigation bar: {{htmlelement(“nav”)}}. ", "pt": "barra de navegação: {{htmlelement(“nav”)}}. "}
 {"id": 2023, "en": "When you search, the search engine displays the indexed content. ", "pt": "Quando se faz uma busca, o mecanismo de pesquisa exibe o conteúdo classificado. "}
+{"id": 5848, "en": "Validating against a regular expression ", "pt": "Validando com uma expressão regular "}
+{"id": 6774, "en": "You should see something like this: ", "pt": "Você deve ver uma página como essa: "}
