@@ -241,3 +241,6 @@
 {"id": 16731, "en": "For downward compatibility mysql_dropdb() can also be used.", "pt": "Para compatibilidade com as versãoes anteriores, mysql_dropdb() pode ser usada também."}
 {"id": 24014, "en": "The output of the above example is:", "pt": "A saída do exemplo acima é:"}
 {"id": 16808, "en": "MYSQL_ASSOC, MYSQL_NUM, and MYSQL_BOTH.", "pt": "MYSQL_ASSOC, MYSQL_NUM, e MYSQL_BOTH."}
+{"id": 17039, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saída:"}
+{"id": 23757, "en": "See also is_link(), symlink(), and linkinfo().", "pt": "Veja também symlink(), readlink() e linkinfo()."}
+{"id": 985, "en": "Telling PHP to execute a certain file.", "pt": "Chamando o PHP para executar um arquivo determinado."}
