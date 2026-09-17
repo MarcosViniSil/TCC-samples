@@ -421,3 +421,4 @@
 {"id": 32150, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
 {"id": 32164, "en": "Note: db3 conflicts with db2 and db4.", "pt": "Nota: db3 conflicts with db2 and db4."}
 {"id": 5082, "en": "See also hexdec().", "pt": "Veja também hexdec()."}
+{"id": 31987, "en": "Bzip2 support in PHP is not enabled by default.", "pt": "O suporte às funções para Bzip2 no PHP não é habilitado por padrão."}
