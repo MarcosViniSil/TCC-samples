@@ -414,3 +414,5 @@
 {"id": 31414, "en": "See also the chapter on Types.", "pt": "Veja também o capítulo Tipos."}
 {"id": 25466, "en": "Note that this comparison is case sensitive.", "pt": "Note que esta função diferencia maiúsculas e minúsculas."}
 {"id": 1605, "en": "Example 1. array_chunk() example", "pt": "Exemplo de array_chunk()"}
+{"id": 28027, "en": "20: twenty 10: ten 4: four 3: three", "pt": "20: vinte 10: dez 4: quatro 3: tres"}
+{"id": 20174, "en": "Example 1. openssl_sign() example", "pt": "Exemplo 1. openssl_sign() example"}
