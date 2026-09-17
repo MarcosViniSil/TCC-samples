@@ -476,3 +476,4 @@
 {"id": 7209, "en": "Using Windows shares:", "pt": "Utilizando compartilhamentos Windows:"}
 {"id": 25363, "en": "Example 5. sprintf(): zero-padded integers", "pt": "Exemplo 5. sprintf(): zero-padded integers"}
 {"id": 1364, "en": "Using PHP from the command line", "pt": "Utilizando o PHP na linha de comando"}
+{"id": 33252, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
