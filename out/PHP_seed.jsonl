@@ -431,3 +431,5 @@
 {"id": 32833, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
 {"id": 21750, "en": "The function used to be called pg_clientencoding().", "pt": "Esta função costumava ser chamada pg_clientencoding()."}
 {"id": 22552, "en": "See also pg_client_encoding().", "pt": "Veja também pg_client_encoding()."}
+{"id": 3821, "en": "Example 1. crypt() examples", "pt": "Exemplo 1. crypt() exemplos"}
+{"id": 2131, "en": "The printout of the program above will be:", "pt": "A saída do programa acima seria:"}
