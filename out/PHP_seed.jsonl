@@ -438,3 +438,4 @@
 {"id": 33790, "en": "No external libraries are needed to build this extension.", "pt": "Nenhuma biblioteca externa é necessária para compilar esta extensão."}
 {"id": 30505, "en": "These work just like those.", "pt": "Estes operadores funcionam exatamente como aqueles."}
 {"id": 1856, "en": "The very first argument has to be an array.", "pt": "O primeiro argumento de todos deve ser um array."}
+{"id": 42, "en": "How we generate the formats", "pt": "Como nós geramos os formatos"}
