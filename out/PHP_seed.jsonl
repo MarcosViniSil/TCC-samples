@@ -410,3 +410,4 @@
 {"id": 5116, "en": "The optional third parameter case_insensitive is also available.", "pt": "O terceiro parâmetro, que é opcional, case_insensitive também esta disponível."}
 {"id": 2871, "en": "See also chown() and chgrp().", "pt": "Veja também chown() e chgrp()."}
 {"id": 23982, "en": "With.. you can specify a range of characters.", "pt": "Com.. você pode especificar um intervalo de caracteres."}
+{"id": 19569, "en": "The largest number that can be converted is 17777777777 or 2147483647 in decimal.", "pt": "O maior número que pode ser convertido é 17777777777 ou 2147483647 em decimal."}
