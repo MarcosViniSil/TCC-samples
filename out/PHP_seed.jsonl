@@ -453,3 +453,5 @@
 {"id": 19966, "en": "Home", "pt": "Principal"}
 {"id": 34130, "en": "This is a 'superglobal', or automatic global, variable.", "pt": "Esta é uma variável 'superglobal', ou automaticamente global."}
 {"id": 25120, "en": "Warning", "pt": "Atenção"}
+{"id": 762, "en": "PHP 3 may send lines for different messages simultaneously.", "pt": "O PHP 3 pode enviar linhas de diferentes mensagens simultaneamente."}
+{"id": 34070, "en": "Example: 'iso-8859-1,*,utf-8'.", "pt": "Exemplo: 'iso-8859-1,*,utf-8'."}
