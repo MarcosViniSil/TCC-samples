@@ -399,3 +399,4 @@
 {"id": 609, "en": "Some more examples to demonstrate usages:", "pt": "Mais alguns exemplos para demonstrar os usos:"}
 {"id": 31882, "en": "The downloads are updated as the content changes.", "pt": "Os arquivos para downloads são atualizados automaticamente assim que o conteúdo for modificado."}
 {"id": 8878, "en": "Example 1. gzopen() Example", "pt": "Exemplo 1. gzopen() Example"}
+{"id": 16890, "en": "Example 1. mysql_fetch_object() example", "pt": "Exemplo mysql_fetch_object()"}
