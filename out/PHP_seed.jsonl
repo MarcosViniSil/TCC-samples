@@ -434,3 +434,5 @@
 {"id": 3821, "en": "Example 1. crypt() examples", "pt": "Exemplo 1. crypt() exemplos"}
 {"id": 2131, "en": "The printout of the program above will be:", "pt": "A saída do programa acima seria:"}
 {"id": 387, "en": "Always populate the $HTTP_RAW_POST_DATA variable.", "pt": "Sempre preenche a variável $HTTP_RAW_POST_DATA."}
+{"id": 23615, "en": "Example 1. range() examples", "pt": "Exemplos de range()"}
+{"id": 33790, "en": "No external libraries are needed to build this extension.", "pt": "Nenhuma biblioteca externa é necessária para compilar esta extensão."}
