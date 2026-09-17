@@ -443,3 +443,6 @@
 {"id": 977, "en": "When using the CGI version, the output is:", "pt": "Quando utilizando a versão CGI, a saída é"}
 {"id": 17052, "en": "The string format depends on the given statement.", "pt": "O formato da string depende do comando dado."}
 {"id": 2553, "en": "See also bzclose().", "pt": "Veja também bzclose()."}
+{"id": 17352, "en": "This is described as a \"natural ordering\".", "pt": "Isso é chamado de \"ordenação natural\"."}
+{"id": 502, "en": "Chapter 12.", "pt": "Capítulo 12."}
+{"id": 24777, "en": "See also usleep() and set_time_limit()", "pt": "Veja também usleep() e set_time_limit()"}
