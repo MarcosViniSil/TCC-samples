@@ -480,3 +480,7 @@
 {"id": 25364, "en": "Example 6. sprintf(): formatting currency", "pt": "Exemplo 6. sprintf(): formatting currency"}
 {"id": 16829, "en": "It only returns an associative array.", "pt": "Somente retorna uma matriz associativa."}
 {"id": 1177, "en": "Using $_FILES is preferred.", "pt": "Usar $_FILES é preferido."}
+{"id": 1860, "en": "SORT_DESC - sort in descending order", "pt": "SORT_DESC - classifica na ordem descrescente"}
+{"id": 13308, "en": "The sign string precedes the quantity and currency_symbol", "pt": "A string sinal precede a quantidade e o simbolo da moeda"}
+{"id": 8117, "en": "\"mon\" - month, numeric", "pt": "\"mon\" - mês, numérico"}
+{"id": 34074, "en": "Example: 'en'.", "pt": "Exemplo 'en'."}
