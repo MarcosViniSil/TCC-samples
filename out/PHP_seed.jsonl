@@ -470,3 +470,6 @@
 {"id": 30200, "en": "A constant is case-sensitive by default.", "pt": "As constantes são sensíveis ao caso por padrão."}
 {"id": 16915, "en": "For downward compatibility mysql_fieldflags() can also be used.", "pt": "Para compatibilidade com as versões anteriores mysql_fieldflags() também pode ser usada."}
 {"id": 13472, "en": "Prev", "pt": "Anterior"}
+{"id": 2113, "en": "Typically, function takes on two parameters.", "pt": "Aplica uma função definida pelo usuário nomeada pelo argumento func em cada elemento de arr."}
+{"id": 11878, "en": "Example 12-5. include() through HTTP", "pt": "Exemplo 12-5. include() através de HTTP"}
+{"id": 19570, "en": "See also decoct().", "pt": "Veja também decoct()."}
