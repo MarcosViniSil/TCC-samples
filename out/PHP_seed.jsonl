@@ -484,3 +484,5 @@
 {"id": 13308, "en": "The sign string precedes the quantity and currency_symbol", "pt": "A string sinal precede a quantidade e o simbolo da moeda"}
 {"id": 8117, "en": "\"mon\" - month, numeric", "pt": "\"mon\" - mês, numérico"}
 {"id": 34074, "en": "Example: 'en'.", "pt": "Exemplo 'en'."}
+{"id": 1871, "en": "The second array will contain 1, 1, \"2\", 3.", "pt": "O segundo conterá 1, 1, \"2\", 3."}
+{"id": 33365, "en": "TCP port will NOT be opened by default.", "pt": "A porta TCP não ficará aberta por padrão."}
