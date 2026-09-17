@@ -401,3 +401,4 @@
 {"id": 8878, "en": "Example 1. gzopen() Example", "pt": "Exemplo 1. gzopen() Example"}
 {"id": 16890, "en": "Example 1. mysql_fetch_object() example", "pt": "Exemplo mysql_fetch_object()"}
 {"id": 22007, "en": "Row numbering starts from 0.", "pt": "A numeração de linhas começa de 0."}
+{"id": 2817, "en": "Changes PHP 's current directory to directory.", "pt": "Muda o diretório atual do PHP para diretorio."}
