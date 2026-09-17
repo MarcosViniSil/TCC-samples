@@ -477,3 +477,5 @@
 {"id": 25363, "en": "Example 5. sprintf(): zero-padded integers", "pt": "Exemplo 5. sprintf(): zero-padded integers"}
 {"id": 1364, "en": "Using PHP from the command line", "pt": "Utilizando o PHP na linha de comando"}
 {"id": 33252, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
+{"id": 25364, "en": "Example 6. sprintf(): formatting currency", "pt": "Exemplo 6. sprintf(): formatting currency"}
+{"id": 16829, "en": "It only returns an associative array.", "pt": "Somente retorna uma matriz associativa."}
