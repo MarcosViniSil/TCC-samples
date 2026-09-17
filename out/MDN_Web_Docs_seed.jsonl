@@ -413,3 +413,4 @@
 {"id": 2796, "en": "Summary ", "pt": "Resumo "}
 {"id": 5574, "en": "You should start with the first one. ", "pt": "Você deve definitivamente começar com o primeiro. "}
 {"id": 10830, "en": "Let’s look at a simple example. ", "pt": "Vamos dar uma olhada em um exemplo simples. "}
+{"id": 11699, "en": "ctx.arc(500, 200, 35, 0, 2 * Math.PI); ", "pt": "ctx.arc(500, 200, 35, 0, 2 * Math.PI); "}
