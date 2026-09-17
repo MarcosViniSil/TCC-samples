@@ -431,3 +431,6 @@
 {"id": 8075, "en": "What is a hyperlink? ", "pt": "O que é um hiperlink? "}
 {"id": 10232, "en": "Next, add the following inside the <script> element: ", "pt": "Em seguida, adicione o seguinte dentro do elemento <script> : "}
 {"id": 5369, "en": "Why doesn’t my CSS, which is valid, render correctly? ", "pt": "Por que meu CSS, que é válido, não é renderizado corretamente? "}
+{"id": 8186, "en": "Bad link text: Click here to download Firefox ", "pt": "Texto de link incorreto: clique aqui para baixar o Firefox "}
+{"id": 3264, "en": "For example: ", "pt": "Por exemplo: "}
+{"id": 4717, "en": ".card { ", "pt": ".card { "}
