@@ -471,3 +471,4 @@
 {"id": 1645, "en": "Mozilla Firefox official website ", "pt": "Site oficial do Mozilla Firefox "}
 {"id": 11786, "en": "Introduction to web APIs ", "pt": "Introdução a APIs para a web "}
 {"id": 9626, "en": "Allowing cells to span multiple rows and columns ", "pt": "Permitir que células se estendam por múltiplas linhas ou colunas "}
+{"id": 825, "en": "Delete the greeting() function from the call stack list. ", "pt": "Deleta a função saudacao() da Pilha de chamadas. "}
