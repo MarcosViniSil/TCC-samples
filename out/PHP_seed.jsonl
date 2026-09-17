@@ -402,3 +402,6 @@
 {"id": 16890, "en": "Example 1. mysql_fetch_object() example", "pt": "Exemplo mysql_fetch_object()"}
 {"id": 22007, "en": "Row numbering starts from 0.", "pt": "A numeração de linhas começa de 0."}
 {"id": 2817, "en": "Changes PHP 's current directory to directory.", "pt": "Muda o diretório atual do PHP para diretorio."}
+{"id": 19059, "en": "Example 1. number_format() Example", "pt": "Exemplo number_format()"}
+{"id": 16961, "en": "For downward compatibility mysql_fieldtable() can also be used.", "pt": "Para compatibilidade com versões anteriores mysql_fieldtable() também pode ser usada."}
+{"id": 29711, "en": "Please consult the Apache Docs for further configuration directives.", "pt": "Por favor consulte os Documentos do Apache para maiores diretivas de configuração."}
