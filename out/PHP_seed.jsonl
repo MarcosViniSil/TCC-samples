@@ -446,3 +446,5 @@
 {"id": 17352, "en": "This is described as a \"natural ordering\".", "pt": "Isso é chamado de \"ordenação natural\"."}
 {"id": 502, "en": "Chapter 12.", "pt": "Capítulo 12."}
 {"id": 24777, "en": "See also usleep() and set_time_limit()", "pt": "Veja também usleep() e set_time_limit()"}
+{"id": 15539, "en": "Example 1. mktime() example", "pt": "Exemplo 1. mktime() exemplo"}
+{"id": 30054, "en": "Classes are extended using the keyword 'extends'.", "pt": "Classes são estendidas utilizando a instrução 'extends'."}
