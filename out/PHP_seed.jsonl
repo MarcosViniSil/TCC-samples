@@ -449,3 +449,4 @@
 {"id": 15539, "en": "Example 1. mktime() example", "pt": "Exemplo 1. mktime() exemplo"}
 {"id": 30054, "en": "Classes are extended using the keyword 'extends'.", "pt": "Classes são estendidas utilizando a instrução 'extends'."}
 {"id": 31580, "en": "Therefore, this statement:", "pt": "Da mesma forma, esta instrução:"}
+{"id": 2890, "en": "See also chmod().", "pt": "Veja também chmod()."}
