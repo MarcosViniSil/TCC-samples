@@ -482,3 +482,5 @@
 {"id": 3787, "en": "For example, try adding the following to your CSS: ", "pt": "Por exemplo, experimente adicionar o seguinte trecho no seu CSS: "}
 {"id": 11793, "en": "Fetching data from the server ", "pt": "Buscando dados do servidor "}
 {"id": 5099, "en": "Combining selectors and combinators ", "pt": "Combinando seletores e combinadores "}
+{"id": 826, "en": "Note: Call stack list: EMPTY ", "pt": "Nota: Pilha de chamadas: EMPTY "}
+{"id": 11572, "en": "e.preventDefault(); ", "pt": "e.preventDefault(); "}
