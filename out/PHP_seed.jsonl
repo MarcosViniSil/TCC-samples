@@ -486,3 +486,5 @@
 {"id": 34074, "en": "Example: 'en'.", "pt": "Exemplo 'en'."}
 {"id": 1871, "en": "The second array will contain 1, 1, \"2\", 3.", "pt": "O segundo conterá 1, 1, \"2\", 3."}
 {"id": 33365, "en": "TCP port will NOT be opened by default.", "pt": "A porta TCP não ficará aberta por padrão."}
+{"id": 16701, "en": "This is deprecated, however.", "pt": "Seu uso está obsoleto."}
+{"id": 1017, "en": "Display source with stripped comments and whitespace.", "pt": "Mostra o fonte sem comentários e espaços em branco."}
