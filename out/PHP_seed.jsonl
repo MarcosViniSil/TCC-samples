@@ -406,3 +406,4 @@
 {"id": 16961, "en": "For downward compatibility mysql_fieldtable() can also be used.", "pt": "Para compatibilidade com versões anteriores mysql_fieldtable() também pode ser usada."}
 {"id": 29711, "en": "Please consult the Apache Docs for further configuration directives.", "pt": "Por favor consulte os Documentos do Apache para maiores diretivas de configuração."}
 {"id": 975, "en": "Example showing the difference to the CGI SAPI:", "pt": "Exemplo mostrando a diferença da CGI SAPI:"}
+{"id": 33021, "en": "Doesn 't apply in safe mode.", "pt": "Não se aplica em safe mode."}
