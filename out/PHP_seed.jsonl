@@ -463,3 +463,5 @@
 {"id": 30700, "en": "Table 11-5.", "pt": "Tabela 11-5."}
 {"id": 17330, "en": "See also: mysql_query().", "pt": "Veja também: mysql_query()."}
 {"id": 13301, "en": "International fractional digits", "pt": "Dígitos de fração Internacionais"}
+{"id": 6337, "en": "This flag was added in PHP 4.2.0.", "pt": "Essa opção foi adicionada no PHP 4.2.0."}
+{"id": 23597, "en": "Since 4.2.0 this is no longer necessary.", "pt": "Desde o PHP 4.2.0, isto não é mais necesário."}
