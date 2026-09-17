@@ -405,3 +405,4 @@
 {"id": 19059, "en": "Example 1. number_format() Example", "pt": "Exemplo number_format()"}
 {"id": 16961, "en": "For downward compatibility mysql_fieldtable() can also be used.", "pt": "Para compatibilidade com versões anteriores mysql_fieldtable() também pode ser usada."}
 {"id": 29711, "en": "Please consult the Apache Docs for further configuration directives.", "pt": "Por favor consulte os Documentos do Apache para maiores diretivas de configuração."}
+{"id": 975, "en": "Example showing the difference to the CGI SAPI:", "pt": "Exemplo mostrando a diferença da CGI SAPI:"}
