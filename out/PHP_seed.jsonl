@@ -412,3 +412,4 @@
 {"id": 23982, "en": "With.. you can specify a range of characters.", "pt": "Com.. você pode especificar um intervalo de caracteres."}
 {"id": 19569, "en": "The largest number that can be converted is 17777777777 or 2147483647 in decimal.", "pt": "O maior número que pode ser convertido é 17777777777 ou 2147483647 em decimal."}
 {"id": 31414, "en": "See also the chapter on Types.", "pt": "Veja também o capítulo Tipos."}
+{"id": 25466, "en": "Note that this comparison is case sensitive.", "pt": "Note que esta função diferencia maiúsculas e minúsculas."}
