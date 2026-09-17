@@ -479,3 +479,4 @@
 {"id": 33252, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
 {"id": 25364, "en": "Example 6. sprintf(): formatting currency", "pt": "Exemplo 6. sprintf(): formatting currency"}
 {"id": 16829, "en": "It only returns an associative array.", "pt": "Somente retorna uma matriz associativa."}
+{"id": 1177, "en": "Using $_FILES is preferred.", "pt": "Usar $_FILES é preferido."}
