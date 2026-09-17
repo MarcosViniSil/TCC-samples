@@ -448,3 +448,4 @@
 {"id": 24777, "en": "See also usleep() and set_time_limit()", "pt": "Veja também usleep() e set_time_limit()"}
 {"id": 15539, "en": "Example 1. mktime() example", "pt": "Exemplo 1. mktime() exemplo"}
 {"id": 30054, "en": "Classes are extended using the keyword 'extends'.", "pt": "Classes são estendidas utilizando a instrução 'extends'."}
+{"id": 31580, "en": "Therefore, this statement:", "pt": "Da mesma forma, esta instrução:"}
