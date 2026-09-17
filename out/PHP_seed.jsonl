@@ -466,3 +466,5 @@
 {"id": 6337, "en": "This flag was added in PHP 4.2.0.", "pt": "Essa opção foi adicionada no PHP 4.2.0."}
 {"id": 23597, "en": "Since 4.2.0 this is no longer necessary.", "pt": "Desde o PHP 4.2.0, isto não é mais necesário."}
 {"id": 7556, "en": "Note:", "pt": "Nota:"}
+{"id": 32152, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 30200, "en": "A constant is case-sensitive by default.", "pt": "As constantes são sensíveis ao caso por padrão."}
