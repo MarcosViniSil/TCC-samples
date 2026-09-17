@@ -439,3 +439,5 @@
 {"id": 30505, "en": "These work just like those.", "pt": "Estes operadores funcionam exatamente como aqueles."}
 {"id": 1856, "en": "The very first argument has to be an array.", "pt": "O primeiro argumento de todos deve ser um array."}
 {"id": 42, "en": "How we generate the formats", "pt": "Como nós geramos os formatos"}
+{"id": 9073, "en": "This defines the character set used in conversion.", "pt": "Este defini o conjunto de caracteres usado na conversão."}
+{"id": 977, "en": "When using the CGI version, the output is:", "pt": "Quando utilizando a versão CGI, a saída é"}
