@@ -428,3 +428,6 @@
 {"id": 22353, "en": "See also pg_lo_create() and pg_lo_import().", "pt": "Veja também pg_lo_create() e pg_lo_import()."}
 {"id": 16604, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saida:"}
 {"id": 33016, "en": "Win32 will only use the MYSQL_PORT constant.", "pt": "Windows irá usar somente a constante MYSQL_PORT."}
+{"id": 32833, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
+{"id": 21750, "en": "The function used to be called pg_clientencoding().", "pt": "Esta função costumava ser chamada pg_clientencoding()."}
+{"id": 22552, "en": "See also pg_client_encoding().", "pt": "Veja também pg_client_encoding()."}
