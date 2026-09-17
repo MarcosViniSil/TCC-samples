@@ -418,3 +418,6 @@
 {"id": 20174, "en": "Example 1. openssl_sign() example", "pt": "Exemplo 1. openssl_sign() example"}
 {"id": 5267, "en": "Use that function instead.", "pt": "Ultilize aquela função ao invez."}
 {"id": 1438, "en": "See also stripslashes(), htmlspecialchars(), and quotemeta().", "pt": "veja também stripslashes(), htmlspecialchars(), e quotemeta()."}
+{"id": 32150, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
+{"id": 32164, "en": "Note: db3 conflicts with db2 and db4.", "pt": "Nota: db3 conflicts with db2 and db4."}
+{"id": 5082, "en": "See also hexdec().", "pt": "Veja também hexdec()."}
