@@ -451,3 +451,5 @@
 {"id": 31580, "en": "Therefore, this statement:", "pt": "Da mesma forma, esta instrução:"}
 {"id": 2890, "en": "See also chmod().", "pt": "Veja também chmod()."}
 {"id": 19966, "en": "Home", "pt": "Principal"}
+{"id": 34130, "en": "This is a 'superglobal', or automatic global, variable.", "pt": "Esta é uma variável 'superglobal', ou automaticamente global."}
+{"id": 25120, "en": "Warning", "pt": "Atenção"}
