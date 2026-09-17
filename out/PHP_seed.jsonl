@@ -441,3 +441,4 @@
 {"id": 42, "en": "How we generate the formats", "pt": "Como nós geramos os formatos"}
 {"id": 9073, "en": "This defines the character set used in conversion.", "pt": "Este defini o conjunto de caracteres usado na conversão."}
 {"id": 977, "en": "When using the CGI version, the output is:", "pt": "Quando utilizando a versão CGI, a saída é"}
+{"id": 17052, "en": "The string format depends on the given statement.", "pt": "O formato da string depende do comando dado."}
