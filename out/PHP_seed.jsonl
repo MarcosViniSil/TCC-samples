@@ -531,3 +531,5 @@
 {"id": 24367, "en": "Caution", "pt": "Cuidado"}
 {"id": 30554, "en": "This allows you to do some tricky things:", "pt": "Isto permite que você faça alguns truques:"}
 {"id": 24495, "en": "Example 2. setcookie() delete examples", "pt": "Exemplo 2. setcookie() delete examples"}
+{"id": 2531, "en": "See also bzerrno() and bzerror().", "pt": "Veja também bzerrno() e bzerror()."}
+{"id": 27708, "en": "Returns the new temporary filename, or the FALSE string on failure.", "pt": "Retorna o nome do novo arquivo temporário, ou a string FALSE string em caso de erro."}
