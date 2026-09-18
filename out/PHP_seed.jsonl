@@ -596,3 +596,5 @@
 {"id": 24016, "en": "Now, compare the above with this:", "pt": "Agora, compare o que está acima com este:"}
 {"id": 8344, "en": "This functionality was added in PHP 4.0.5.", "pt": "Esta funcionalidade foi adicionada no PHP 4.0.5."}
 {"id": 2125, "en": "In PHP 3, array_walk() resets the pointer.", "pt": "No PHP 3, array_walk() reinicia o ponteiro."}
+{"id": 30738, "en": "TRUE if $a is not TRUE.", "pt": "Verdadeiro se $a não é verdadeiro."}
+{"id": 16854, "en": "table - name of the table the column belongs to", "pt": "table - nome da tabela onde esta o campo"}
