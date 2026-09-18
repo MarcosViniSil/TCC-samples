@@ -567,3 +567,4 @@
 {"id": 1319, "en": "PUT method support", "pt": "Suporte ao método PUT"}
 {"id": 33013, "en": "The maximum number of MySQL connections per process, including persistent connections.", "pt": "O número maximo de conexões com o MYSQL por processo, incluindo conexões persistentes."}
 {"id": 16855, "en": "max_length - maximum length of the column", "pt": "max_length - o limite de tamanho para a coluna"}
+{"id": 34020, "en": "These words have special meaning in PHP.", "pt": "Estas palavras tem um significado especial no PHP."}
