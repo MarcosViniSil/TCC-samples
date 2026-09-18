@@ -542,3 +542,4 @@
 {"id": 17011, "en": "Example 1. mysql_get_host_info Example", "pt": "Exemplo mysql_get_host_info"}
 {"id": 25406, "en": "Values are returned by using the optional return statement.", "pt": "Valores podem ser retornados utilizando a instrução opcional return."}
 {"id": 35180, "en": "Example 31-2.", "pt": "Exemplo 31-2."}
+{"id": 31532, "en": "Here 's an example demonstrating the power of superglobals:", "pt": "Segue um exemplo demonstrando o poder das superglobais:"}
