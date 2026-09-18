@@ -547,3 +547,4 @@
 {"id": 30855, "en": "Some constructs, like passing and returning by-reference, are mentioned above.", "pt": "Alguns desses construtores, como a passagem e o retorno de referências foram mencionados acima."}
 {"id": 31728, "en": "Appendix C.", "pt": "Apêndice C."}
 {"id": 17086, "en": "Example 1. mysql_list_dbs() example", "pt": "Exemplo mysql_list_dbs()"}
+{"id": 8069, "en": "See also get_class_vars() and get_object_vars().", "pt": "Veja também get_class_vars() e get_object_vars()."}
