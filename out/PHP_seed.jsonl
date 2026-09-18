@@ -526,3 +526,6 @@
 {"id": 480, "en": "The alternative syntax applies to else and elseif as well.", "pt": "A sintaxe alternativa se aplica a else e elseif também."}
 {"id": 30385, "en": "You cannot have a class named stdClass in PHP.", "pt": "Você não pode ter uma classe chamada stdClass no PHP."}
 {"id": 1141, "en": "Value:", "pt": "Valor:"}
+{"id": 31106, "en": "This is solved in PHP 4.1.0.", "pt": "Isto foi resolvido no PHP 4.1.0."}
+{"id": 33011, "en": "Whether to allow persistent connections to MySQL.", "pt": "Quando permitir conexões persistentes para o MySQL."}
+{"id": 24367, "en": "Caution", "pt": "Cuidado"}
