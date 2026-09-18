@@ -509,3 +509,5 @@
 {"id": 33792, "en": "The behaviour of these functions is affected by settings in php.ini.", "pt": "O comportamento dessas funções podem ser modificado pelas configurações do php.ini."}
 {"id": 30602, "en": "Chapter 11.", "pt": "Capítulo 11."}
 {"id": 1097, "en": "This is the same limitation that header() has.", "pt": "Esta é a mesma limitação que a função header() tem."}
+{"id": 123, "en": "Table K-1.", "pt": "Tabela K-1."}
+{"id": 3806, "en": "The encryption type is triggered by the salt argument.", "pt": "O tipo de codificação é definido pelo argumento salt."}
