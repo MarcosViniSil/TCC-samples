@@ -590,3 +590,4 @@
 {"id": 30858, "en": "That means, this is the same as:", "pt": "Isto significa que isto é o mesmo que:"}
 {"id": 23490, "en": "Example 1. pspell_new()", "pt": "Exemplo 1. pspell_new()"}
 {"id": 30447, "en": "Creating references within the constructor can lead to confusing results.", "pt": "A criação de referências em construtores pode gerar resultados confusos."}
+{"id": 3980, "en": "See also end(), next(), prev(), and reset().", "pt": "Veja também end(), next(), prev() e reset()."}
