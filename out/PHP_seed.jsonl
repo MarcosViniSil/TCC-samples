@@ -574,3 +574,5 @@
 {"id": 29688, "en": "Different examples of compiling PHP for apache are as follows:", "pt": "Exemplos diferentes de compilação do PHP para apache estão a seguir:"}
 {"id": 7491, "en": "If the file does not exist, attempt to create it.", "pt": "Se o arquivo não existe, tentar cria-lo."}
 {"id": 21850, "en": "It returns FALSE on failure.", "pt": "Caso haja falhas, FALSE é retornado."}
+{"id": 34174, "en": "This is a 'superglobal', or automatic global, variable.", "pt": "Esta é uma variável 'superglobal', ou automaticamente global."}
+{"id": 7389, "en": "See clearstatcache() for more details.", "pt": "Veja clearstatcache() para mais detalhes."}
