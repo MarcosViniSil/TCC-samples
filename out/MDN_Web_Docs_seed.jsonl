@@ -585,3 +585,4 @@
 {"id": 11879, "en": "let randomNumber = Math.floor(Math.random() * 100) + 1; ", "pt": "var numeroAleatorio = Math.floor(Math.random() * 100) + 1; "}
 {"id": 7397, "en": "It returns a true/false (Boolean) result. ", "pt": "Ele retorna um Resultado true/false (booleano). "}
 {"id": 5063, "en": "The live example below includes the two rules above. ", "pt": "O exemplo ativo abaixo inclui as duas regras acima. "}
+{"id": 9578, "en": "First the source code: ", "pt": "Primeiro o código fonte: "}
