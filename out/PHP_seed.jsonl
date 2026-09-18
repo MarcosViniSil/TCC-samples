@@ -578,3 +578,4 @@
 {"id": 7389, "en": "See clearstatcache() for more details.", "pt": "Veja clearstatcache() para mais detalhes."}
 {"id": 3123, "en": "The supported types are:", "pt": "Os tipos suportados são:"}
 {"id": 632, "en": "All of them display numbers from 1 to 10:", "pt": "Todos eles mostram números de 1 a 10:"}
+{"id": 13342, "en": "\"tm_year\" - Years since 1900", "pt": "\"tm_year\" - Anos desde 1900"}
