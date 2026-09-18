@@ -593,3 +593,4 @@
 {"id": 3980, "en": "See also end(), next(), prev(), and reset().", "pt": "Veja também end(), next(), prev() e reset()."}
 {"id": 3159, "en": "The arg parameter is in radians.", "pt": "O parametro arg deve estar em radianos."}
 {"id": 636, "en": "for (expr1; expr2; expr3): statement;...; endfor;", "pt": "for (expr1; expr2; expr3): instrucoes;...; endfor;"}
+{"id": 24016, "en": "Now, compare the above with this:", "pt": "Agora, compare o que está acima com este:"}
