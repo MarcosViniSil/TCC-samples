@@ -538,3 +538,5 @@
 {"id": 33359, "en": "Not all functions are supported by all builds.", "pt": "Nem todas as funções são suportadas por todas as compilações."}
 {"id": 16472, "en": "See also mt_srand(), mt_getrandmax() and rand().", "pt": "Veja também mt_srand(), mt_getrandmax() e rand()."}
 {"id": 8297, "en": "This function is not implemented on Windows platforms.", "pt": "Nota: esta função não é implementada na plataforma Windows"}
+{"id": 17242, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saída:"}
+{"id": 17011, "en": "Example 1. mysql_get_host_info Example", "pt": "Exemplo mysql_get_host_info"}
