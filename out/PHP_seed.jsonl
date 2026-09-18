@@ -557,3 +557,8 @@
 {"id": 727, "en": "while (expr): statement... endwhile;", "pt": "while (expressao): instrucoes... endwhile;"}
 {"id": 2540, "en": "Returns TRUE on success or FALSE on failure.", "pt": "Retorna TRUE em caso de sucesso ou FALSE em falhas."}
 {"id": 12785, "en": "This example would display:", "pt": "A saída deste programa seria:"}
+{"id": 132, "en": "returned type function name (parameter type parameter name)", "pt": "tipo retornado nome da função (parametro tipo parametro tipo)"}
+{"id": 30944, "en": "The foreach control structure exists specifically for arrays.", "pt": "foreach foreach existe especificamente para lidar com arrays."}
+{"id": 32677, "en": "Table 1.", "pt": "Tabela 1."}
+{"id": 33875, "en": "The behaviour of these functions is affected by settings in php.ini.", "pt": "O comportamento dessas funções podem ser modificado pelas configurações do php.ini."}
+{"id": 22616, "en": "See also pg_convert()", "pt": "Veja também pg_convert()"}
