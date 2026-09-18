@@ -528,3 +528,5 @@
 {"id": 9066, "en": "This is useful in many ways. ", "pt": "Isso é útil de várias maneiras. "}
 {"id": 3102, "en": "Links and Search Engines ", "pt": "Links e Mecanismos de pesquisa "}
 {"id": 10861, "en": "The output is as follows: ", "pt": "A saída é a seguinte: "}
+{"id": 5522, "en": "Its use should be avoided as much as possible. ", "pt": "Este seletor deve ser evitado o máximo possível. "}
+{"id": 11894, "en": "<p class=\"guesses\"></p> ", "pt": "<p class=\"palpites\"></p> "}
