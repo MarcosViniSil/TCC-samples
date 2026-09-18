@@ -546,3 +546,4 @@
 {"id": 34231, "en": "Language Reference", "pt": "Referência da Linguagem"}
 {"id": 30855, "en": "Some constructs, like passing and returning by-reference, are mentioned above.", "pt": "Alguns desses construtores, como a passagem e o retorno de referências foram mencionados acima."}
 {"id": 31728, "en": "Appendix C.", "pt": "Apêndice C."}
+{"id": 17086, "en": "Example 1. mysql_list_dbs() example", "pt": "Exemplo mysql_list_dbs()"}
