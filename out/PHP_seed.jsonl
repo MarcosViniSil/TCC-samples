@@ -503,3 +503,5 @@
 {"id": 23586, "en": "See also deg2rad().", "pt": "Veja também deg2rad()."}
 {"id": 30235, "en": "Predefined constants", "pt": "Constantes Predefinidas"}
 {"id": 17241, "en": "Example 1. mysql_real_escape_string() example", "pt": "Exemplo mysql_real_escape_string()"}
+{"id": 30318, "en": "When necessary, an expression is automatically converted to boolean.", "pt": "As vezes uma expressão é automaticamente convertida para um booleano."}
+{"id": 2097, "en": "This will output:", "pt": "A saída seria:"}
