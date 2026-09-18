@@ -552,3 +552,4 @@
 {"id": 370, "en": "Generally speaking, memory_limit should be larger than post_max_size.", "pt": "Falando diretamente, memory_limit precisa ser maior que post_max_size."}
 {"id": 30922, "en": "A value can be of any PHP type.", "pt": "O valor pode ser qualquer coisa."}
 {"id": 23601, "en": "See also srand(), getrandmax(), and mt_rand().", "pt": "Veja também srand(), getrandmax() e mt_rand()."}
+{"id": 32484, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
