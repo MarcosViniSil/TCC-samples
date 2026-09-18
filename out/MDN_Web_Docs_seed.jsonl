@@ -545,3 +545,7 @@
 {"id": 8812, "en": "Getting started with HTML ", "pt": "Iniciando com o HTML "}
 {"id": 11051, "en": "As an example, the array join() function’s parameter is optional: ", "pt": "Como exemplo, a função join() tem parâmetro opcional: "}
 {"id": 1708, "en": "JavaScript operators ", "pt": "Operadores JavaScript "}
+{"id": 9905, "en": "To set this up: ", "pt": "Para configurar isso: "}
+{"id": 12636, "en": "for (const station of stations) { ", "pt": "for (var i = 0; i < stations.length; i++) { "}
+{"id": 5256, "en": "Make the level 2 heading italic. ", "pt": "Faça o cabeçalho nível 2 em itálico. "}
+{"id": 2630, "en": "Prerequisites: ", "pt": "Pré-requisitos: "}
