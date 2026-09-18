@@ -518,3 +518,5 @@
 {"id": 3025, "en": "In short, it does the opposite of extract().", "pt": "Em resumo, ela faz o oposto de extract()."}
 {"id": 11882, "en": "Example 12-6. include() and conditional blocks", "pt": "Exemplo 12-6. include() e instruções condicionais"}
 {"id": 5124, "en": "See also defined(), constant() and the section on Constants.", "pt": "Vejá também defined(), constant() e a seção sobre Constantes."}
+{"id": 7122, "en": "See also explode(), file(), and pack()", "pt": "Veja também explode(), file() e pack()"}
+{"id": 33951, "en": "Accept-Encoding \"headers are added to the output.", "pt": "Accept-Encoding \"serão adicionados para a saida."}
