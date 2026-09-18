@@ -564,3 +564,5 @@
 {"id": 22616, "en": "See also pg_convert()", "pt": "Veja também pg_convert()"}
 {"id": 5118, "en": "The default behaviour is case-sensitive; i.e.", "pt": "O padrão é case-sensitive; ex."}
 {"id": 21804, "en": "See also pg_connect(), pg_pconnect() and pg_connection_status()", "pt": "Veja também pg_connect(), pg_pconnect() e pg_connection_status()"}
+{"id": 1319, "en": "PUT method support", "pt": "Suporte ao método PUT"}
+{"id": 33013, "en": "The maximum number of MySQL connections per process, including persistent connections.", "pt": "O número maximo de conexões com o MYSQL por processo, incluindo conexões persistentes."}
