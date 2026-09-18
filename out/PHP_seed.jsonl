@@ -550,3 +550,4 @@
 {"id": 8069, "en": "See also get_class_vars() and get_object_vars().", "pt": "Veja também get_class_vars() e get_object_vars()."}
 {"id": 12564, "en": "See also is_writable().", "pt": "Veja também is_writable()."}
 {"id": 370, "en": "Generally speaking, memory_limit should be larger than post_max_size.", "pt": "Falando diretamente, memory_limit precisa ser maior que post_max_size."}
+{"id": 30922, "en": "A value can be of any PHP type.", "pt": "O valor pode ser qualquer coisa."}
