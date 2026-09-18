@@ -580,3 +580,5 @@
 {"id": 632, "en": "All of them display numbers from 1 to 10:", "pt": "Todos eles mostram números de 1 a 10:"}
 {"id": 13342, "en": "\"tm_year\" - Years since 1900", "pt": "\"tm_year\" - Anos desde 1900"}
 {"id": 33597, "en": "Defaults to 1 (enabled).", "pt": "Por definição 1 (habilitado)."}
+{"id": 32866, "en": "This extension is EXPERIMENTAL.", "pt": "Este módulo é EXPERIMENTAL."}
+{"id": 2577, "en": "See also bzread() and bzopen().", "pt": "Veja também bzread() e bzopen()."}
