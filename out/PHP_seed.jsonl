@@ -511,3 +511,4 @@
 {"id": 1097, "en": "This is the same limitation that header() has.", "pt": "Esta é a mesma limitação que a função header() tem."}
 {"id": 123, "en": "Table K-1.", "pt": "Tabela K-1."}
 {"id": 3806, "en": "The encryption type is triggered by the salt argument.", "pt": "O tipo de codificação é definido pelo argumento salt."}
+{"id": 6041, "en": "Example 1. each() examples", "pt": "Exemplos de each()"}
