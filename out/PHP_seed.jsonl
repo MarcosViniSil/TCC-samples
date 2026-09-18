@@ -584,3 +584,4 @@
 {"id": 2577, "en": "See also bzread() and bzopen().", "pt": "Veja também bzread() e bzopen()."}
 {"id": 2444, "en": "bindec() converts a binary number to an integer.", "pt": "bindec() converte um número binário em um integer."}
 {"id": 1184, "en": "The size, in bytes, of the uploaded file.", "pt": "O tamanho, em bytes, do arquivo."}
+{"id": 16578, "en": "See also: mysql_num_rows(), mysql_info().", "pt": "Veja também: mysql_num_rows(), mysql_info()."}
