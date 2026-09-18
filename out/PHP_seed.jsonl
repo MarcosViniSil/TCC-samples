@@ -512,3 +512,6 @@
 {"id": 123, "en": "Table K-1.", "pt": "Tabela K-1."}
 {"id": 3806, "en": "The encryption type is triggered by the salt argument.", "pt": "O tipo de codificação é definido pelo argumento salt."}
 {"id": 6041, "en": "Example 1. each() examples", "pt": "Exemplos de each()"}
+{"id": 1261, "en": "A line like this would do the trick:", "pt": "Uma linha como esta deve fazer o truque:"}
+{"id": 7137, "en": "A simple example follows:", "pt": "Um simples exemplo segue:"}
+{"id": 28761, "en": "Warning", "pt": "Atenção"}
