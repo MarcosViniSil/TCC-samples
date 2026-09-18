@@ -524,3 +524,5 @@
 {"id": 371, "en": "Set the order of GET / POST / COOKIE variable parsing.", "pt": "Informa a ordem de interpretação das variáveis GET / POST / COOKIE."}
 {"id": 24729, "en": "Example 1. shuffle() example", "pt": "Exemplo de shuffle()"}
 {"id": 480, "en": "The alternative syntax applies to else and elseif as well.", "pt": "A sintaxe alternativa se aplica a else e elseif também."}
+{"id": 30385, "en": "You cannot have a class named stdClass in PHP.", "pt": "Você não pode ter uma classe chamada stdClass no PHP."}
+{"id": 1141, "en": "Value:", "pt": "Valor:"}
