@@ -529,3 +529,4 @@
 {"id": 31106, "en": "This is solved in PHP 4.1.0.", "pt": "Isto foi resolvido no PHP 4.1.0."}
 {"id": 33011, "en": "Whether to allow persistent connections to MySQL.", "pt": "Quando permitir conexões persistentes para o MySQL."}
 {"id": 24367, "en": "Caution", "pt": "Cuidado"}
+{"id": 30554, "en": "This allows you to do some tricky things:", "pt": "Isto permite que você faça alguns truques:"}
