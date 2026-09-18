@@ -562,3 +562,5 @@
 {"id": 32677, "en": "Table 1.", "pt": "Tabela 1."}
 {"id": 33875, "en": "The behaviour of these functions is affected by settings in php.ini.", "pt": "O comportamento dessas funções podem ser modificado pelas configurações do php.ini."}
 {"id": 22616, "en": "See also pg_convert()", "pt": "Veja também pg_convert()"}
+{"id": 5118, "en": "The default behaviour is case-sensitive; i.e.", "pt": "O padrão é case-sensitive; ex."}
+{"id": 21804, "en": "See also pg_connect(), pg_pconnect() and pg_connection_status()", "pt": "Veja também pg_connect(), pg_pconnect() e pg_connection_status()"}
