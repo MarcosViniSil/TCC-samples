@@ -570,3 +570,4 @@
 {"id": 34020, "en": "These words have special meaning in PHP.", "pt": "Estas palavras tem um significado especial no PHP."}
 {"id": 7502, "en": "If the open fails, the function returns FALSE.", "pt": "Se a abertura falhar, a função retorna FALSE."}
 {"id": 28048, "en": "Prefix can be up to 114 characters long.", "pt": "Prefix pode ter até 114 caracteres."}
+{"id": 16679, "en": "The next call to mysql_fetch_row() would return that row.", "pt": "A próxima chamada a mysql_fetch_row() irá retornar esta linha."}
