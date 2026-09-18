@@ -591,3 +591,5 @@
 {"id": 23490, "en": "Example 1. pspell_new()", "pt": "Exemplo 1. pspell_new()"}
 {"id": 30447, "en": "Creating references within the constructor can lead to confusing results.", "pt": "A criação de referências em construtores pode gerar resultados confusos."}
 {"id": 3980, "en": "See also end(), next(), prev(), and reset().", "pt": "Veja também end(), next(), prev() e reset()."}
+{"id": 3159, "en": "The arg parameter is in radians.", "pt": "O parametro arg deve estar em radianos."}
+{"id": 636, "en": "for (expr1; expr2; expr3): statement;...; endfor;", "pt": "for (expr1; expr2; expr3): instrucoes;...; endfor;"}
