@@ -517,3 +517,4 @@
 {"id": 28761, "en": "Warning", "pt": "Atenção"}
 {"id": 3025, "en": "In short, it does the opposite of extract().", "pt": "Em resumo, ela faz o oposto de extract()."}
 {"id": 11882, "en": "Example 12-6. include() and conditional blocks", "pt": "Exemplo 12-6. include() e instruções condicionais"}
+{"id": 5124, "en": "See also defined(), constant() and the section on Constants.", "pt": "Vejá também defined(), constant() e a seção sobre Constantes."}
