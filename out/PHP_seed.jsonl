@@ -534,3 +534,4 @@
 {"id": 2531, "en": "See also bzerrno() and bzerror().", "pt": "Veja também bzerrno() e bzerror()."}
 {"id": 27708, "en": "Returns the new temporary filename, or the FALSE string on failure.", "pt": "Retorna o nome do novo arquivo temporário, ou a string FALSE string em caso de erro."}
 {"id": 413, "en": "You can turn it off AT YOUR OWN RISK.", "pt": "Você pode desligá-lo SOB SEU RISCO."}
+{"id": 12454, "en": "See clearstatcache() for more details.", "pt": "Veja clearstatcache() para mais detalhes."}
