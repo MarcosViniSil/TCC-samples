@@ -597,3 +597,4 @@
 {"id": 3541, "en": "Type, class, and ID selectors ", "pt": "Seletores de tipo, classe e ID "}
 {"id": 452, "en": "Other tools ", "pt": "Outras ferramentas "}
 {"id": 7123, "en": "Let’s turn our attention to the {{htmlelement(“img”)}} element again: ", "pt": "Vamos voltar nossa atenção para o elemento {{htmlelement(“img”)}} novamente: "}
+{"id": 20, "en": "It might require both input and simulated time. ", "pt": "Ele pode requerer ambos, entrada e tempo simulado. "}
