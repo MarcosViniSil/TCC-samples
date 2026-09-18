@@ -551,3 +551,6 @@
 {"id": 2630, "en": "Prerequisites: ", "pt": "Pré-requisitos: "}
 {"id": 3304, "en": "This behavior helps avoid repetition in your CSS. ", "pt": "Esse comportamento ajuda a evitar a repetição em seu CSS. "}
 {"id": 1535, "en": "See also ", "pt": "Saiba mais "}
+{"id": 7071, "en": "<p>My cat is <strong>very</strong> grumpy.</p> ", "pt": "<p>Meu gatinho é <strong>muito</strong> mal humorado.</p> "}
+{"id": 4251, "en": "border: 2px solid rgb(79, 185, 227); ", "pt": "border: 2px solid rgb(79, 185, 227); "}
+{"id": 2271, "en": "Browser support for WebRTC ", "pt": "Suporte do navegador para WebRTC "}
