@@ -506,3 +506,5 @@
 {"id": 30318, "en": "When necessary, an expression is automatically converted to boolean.", "pt": "As vezes uma expressão é automaticamente convertida para um booleano."}
 {"id": 2097, "en": "This will output:", "pt": "A saída seria:"}
 {"id": 8067, "en": "Example 1. get_class_methods() example", "pt": "Exemplo get_class_methods()"}
+{"id": 33792, "en": "The behaviour of these functions is affected by settings in php.ini.", "pt": "O comportamento dessas funções podem ser modificado pelas configurações do php.ini."}
+{"id": 30602, "en": "Chapter 11.", "pt": "Capítulo 11."}
