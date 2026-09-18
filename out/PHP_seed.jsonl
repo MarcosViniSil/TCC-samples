@@ -586,3 +586,5 @@
 {"id": 1184, "en": "The size, in bytes, of the uploaded file.", "pt": "O tamanho, em bytes, do arquivo."}
 {"id": 16578, "en": "See also: mysql_num_rows(), mysql_info().", "pt": "Veja também: mysql_num_rows(), mysql_info()."}
 {"id": 18823, "en": "next() behaves like current(), with one difference.", "pt": "next() funciona de forma semelhante a current(), com uma diferença."}
+{"id": 13257, "en": "Returns 0 or FALSE in case of error.", "pt": "Retorna 0 ou FALSE em caso de erro."}
+{"id": 30858, "en": "That means, this is the same as:", "pt": "Isto significa que isto é o mesmo que:"}
