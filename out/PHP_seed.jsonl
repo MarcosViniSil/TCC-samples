@@ -522,3 +522,5 @@
 {"id": 33951, "en": "Accept-Encoding \"headers are added to the output.", "pt": "Accept-Encoding \"serão adicionados para a saida."}
 {"id": 13415, "en": "With.. you can specify a range of characters.", "pt": "Com.. você pode especificar um ordem de caracteres."}
 {"id": 371, "en": "Set the order of GET / POST / COOKIE variable parsing.", "pt": "Informa a ordem de interpretação das variáveis GET / POST / COOKIE."}
+{"id": 24729, "en": "Example 1. shuffle() example", "pt": "Exemplo de shuffle()"}
+{"id": 480, "en": "The alternative syntax applies to else and elseif as well.", "pt": "A sintaxe alternativa se aplica a else e elseif também."}
