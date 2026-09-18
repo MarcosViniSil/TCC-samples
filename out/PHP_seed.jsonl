@@ -573,3 +573,4 @@
 {"id": 16679, "en": "The next call to mysql_fetch_row() would return that row.", "pt": "A próxima chamada a mysql_fetch_row() irá retornar esta linha."}
 {"id": 29688, "en": "Different examples of compiling PHP for apache are as follows:", "pt": "Exemplos diferentes de compilação do PHP para apache estão a seguir:"}
 {"id": 7491, "en": "If the file does not exist, attempt to create it.", "pt": "Se o arquivo não existe, tentar cria-lo."}
+{"id": 21850, "en": "It returns FALSE on failure.", "pt": "Caso haja falhas, FALSE é retornado."}
