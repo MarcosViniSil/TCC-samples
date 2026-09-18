@@ -519,3 +519,6 @@
 {"id": 747, "en": "// code to execute if the conditional is true ", "pt": "// codigo a executar se o booleano for TRUE "}
 {"id": 4971, "en": "color: red; ", "pt": "color: red; "}
 {"id": 7469, "en": "(Read more about variable scoping.) ", "pt": "(Leia mais sobre escopo de variável.) "}
+{"id": 7111, "en": "<head></head> — the {{htmlelement(“head”)}} element. ", "pt": "<head></head> — o elemento {{htmlelement(“head”)}}. "}
+{"id": 10025, "en": "First, a promise can be in one of three states: ", "pt": "Primeiro, uma promise pode estar em um dos três estados: "}
+{"id": 7016, "en": "DNS explained ", "pt": "DNS explicado "}
