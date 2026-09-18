@@ -540,3 +540,5 @@
 {"id": 8297, "en": "This function is not implemented on Windows platforms.", "pt": "Nota: esta função não é implementada na plataforma Windows"}
 {"id": 17242, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saída:"}
 {"id": 17011, "en": "Example 1. mysql_get_host_info Example", "pt": "Exemplo mysql_get_host_info"}
+{"id": 25406, "en": "Values are returned by using the optional return statement.", "pt": "Valores podem ser retornados utilizando a instrução opcional return."}
+{"id": 35180, "en": "Example 31-2.", "pt": "Exemplo 31-2."}
