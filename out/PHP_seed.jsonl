@@ -556,3 +556,4 @@
 {"id": 1719, "en": "Array ([1] = 'January '[2] = 'February' [3] = 'March ')", "pt": "Array ([1] = 'Janeiro '[2] = 'Fevereiro' [3] = 'Marco ')"}
 {"id": 727, "en": "while (expr): statement... endwhile;", "pt": "while (expressao): instrucoes... endwhile;"}
 {"id": 2540, "en": "Returns TRUE on success or FALSE on failure.", "pt": "Retorna TRUE em caso de sucesso ou FALSE em falhas."}
+{"id": 12785, "en": "This example would display:", "pt": "A saída deste programa seria:"}
