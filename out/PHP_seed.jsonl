@@ -588,3 +588,4 @@
 {"id": 18823, "en": "next() behaves like current(), with one difference.", "pt": "next() funciona de forma semelhante a current(), com uma diferença."}
 {"id": 13257, "en": "Returns 0 or FALSE in case of error.", "pt": "Retorna 0 ou FALSE em caso de erro."}
 {"id": 30858, "en": "That means, this is the same as:", "pt": "Isto significa que isto é o mesmo que:"}
+{"id": 23490, "en": "Example 1. pspell_new()", "pt": "Exemplo 1. pspell_new()"}
