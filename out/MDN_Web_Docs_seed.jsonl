@@ -509,3 +509,6 @@
 {"id": 6455, "en": "Consider the following form: ", "pt": "Considere o seguinte formulário: "}
 {"id": 11669, "en": "Using return values in your own functions ", "pt": "Usando valores de retorno em suas próprias funções "}
 {"id": 9242, "en": "Responsive images ", "pt": "Imagens responsivas "}
+{"id": 10153, "en": "Instead, you'd need to do something like: ```js ", "pt": "Em vez disso, você precisaria fazer algo como: "}
+{"id": 12615, "en": "Making new strings from old parts ", "pt": "Fazendo novas strings a partir de partes antigas "}
+{"id": 7525, "en": "This welcome message will persist. ", "pt": "Esta mensagem de boas-vindas persistirá. "}
