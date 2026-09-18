@@ -502,3 +502,4 @@
 {"id": 34056, "en": "Array of arguments passed to the script.", "pt": "Array de argumentos passado para o script."}
 {"id": 23586, "en": "See also deg2rad().", "pt": "Veja também deg2rad()."}
 {"id": 30235, "en": "Predefined constants", "pt": "Constantes Predefinidas"}
+{"id": 17241, "en": "Example 1. mysql_real_escape_string() example", "pt": "Exemplo mysql_real_escape_string()"}
