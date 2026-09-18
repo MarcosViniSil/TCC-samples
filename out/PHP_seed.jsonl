@@ -500,3 +500,4 @@
 {"id": 6198, "en": "This is a cup with my coffee in it.", "pt": "Esta é uma taça com o meu café nela."}
 {"id": 22317, "en": "It returns FALSE if there is an error.", "pt": "Retorna FALSE se algum erro acontecer."}
 {"id": 34056, "en": "Array of arguments passed to the script.", "pt": "Array de argumentos passado para o script."}
+{"id": 23586, "en": "See also deg2rad().", "pt": "Veja também deg2rad()."}
