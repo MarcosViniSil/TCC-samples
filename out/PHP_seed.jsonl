@@ -706,3 +706,4 @@
 {"id": 22023, "en": "The row (record) is returned as an array.", "pt": "A linha (registro) é recuperada como um array."}
 {"id": 2218, "en": "Example 1. aspell_new()", "pt": "Exemplo 1. aspell_new()"}
 {"id": 1851, "en": "It maintains key association when sorting.", "pt": "A associação entre chaves e valores é mantida."}
+{"id": 16952, "en": "See also: mysql_fetch_field().", "pt": "Veja também: mysql_fetch_field()."}
