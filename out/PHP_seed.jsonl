@@ -683,3 +683,4 @@
 {"id": 32967, "en": "MS SQL Server configuration options", "pt": "Opções de configuração do MS SQL Server"}
 {"id": 30082, "en": "The:: operator is being used for this.", "pt": "O operador:: pode ser utilizado nessas ocasiões."}
 {"id": 12639, "en": "Returns TRUE if the filename exists and is writable.", "pt": "Retorna TRUE se o nomedoarquivo existe e pode ser escrito para."}
+{"id": 7238, "en": "The results of this function are cached.", "pt": "O resultado desta função é guardado em cache."}
