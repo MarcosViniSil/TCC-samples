@@ -740,3 +740,4 @@
 {"id": 2169, "en": "See also asin(), acosh() and atanh().", "pt": "Veja também asin(), acosh() e atanh()."}
 {"id": 231, "en": "Example 1. dir() example", "pt": "Exemplo dir()"}
 {"id": 3745, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
+{"id": 16941, "en": "This is deprecated, however.", "pt": "Esta função está depreciada."}
