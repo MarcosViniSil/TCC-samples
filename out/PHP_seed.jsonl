@@ -739,3 +739,4 @@
 {"id": 23816, "en": "Attempts to rename oldname to newname.", "pt": "Tenta renomear nomeantigo para novonome."}
 {"id": 2169, "en": "See also asin(), acosh() and atanh().", "pt": "Veja também asin(), acosh() e atanh()."}
 {"id": 231, "en": "Example 1. dir() example", "pt": "Exemplo dir()"}
+{"id": 3745, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
