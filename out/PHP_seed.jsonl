@@ -695,3 +695,6 @@
 {"id": 655, "en": "It allows for conditional execution of code fragments.", "pt": "Ela permite a execução condicional de fragmentos de código."}
 {"id": 22278, "en": "See also pg_lo_export() and pg_lo_open().", "pt": "Veja também pg_lo_export() e pg_lo_open()."}
 {"id": 17106, "en": "This is deprecated however.", "pt": "Esta função esta depreciada."}
+{"id": 6326, "en": "If there is a collision, overwrite the existing variable.", "pt": "Se houver uma colisão, sobrescreve a variável existente."}
+{"id": 12783, "en": "Example 1. krsort() example", "pt": "Exemplo de krsort()"}
+{"id": 23352, "en": "Example 1. print() examples", "pt": "Exemplos print()"}
