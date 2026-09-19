@@ -652,3 +652,4 @@
 {"id": 7507, "en": "?php $handle = fopen (\"c:\\\\data\\\\info.txt\", \"r\");?", "pt": "?php $fp = fopen (\"c:\\\\data\\\\info.txt\", \"r\");?"}
 {"id": 33834, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
 {"id": 314, "en": "For more information, see Escaping from HTML.", "pt": "Para mais informações, veja Alternando do HTML."}
+{"id": 7857, "en": "Example 1. ftp_put() example", "pt": "Exemplo 1. ftp_put() example"}
