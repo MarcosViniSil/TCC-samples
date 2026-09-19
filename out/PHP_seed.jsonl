@@ -629,3 +629,4 @@
 {"id": 21966, "en": "row is row (record) number to be retrieved.", "pt": "row é o número da linha (registro) a ser recuperado."}
 {"id": 181, "en": "Table F-1.", "pt": "Tabela F-1."}
 {"id": 1835, "en": "It returns the resulting array.", "pt": "Retorna o array resultante da fusão."}
+{"id": 13313, "en": "The sign string precedes the quantity and currency_symbol", "pt": "A string sinal precede a quantidade e o simbolo da moeda"}
