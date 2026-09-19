@@ -789,3 +789,4 @@
 {"id": 22330, "en": "See also pg_lo_tell().", "pt": "Veja também pg_lo_tell()."}
 {"id": 2309, "en": "Example 1. base_convert()", "pt": "Exemplo 1. base_convert()"}
 {"id": 29502, "en": "Zlib Compression Functions", "pt": "Funções de Compressão Zlib"}
+{"id": 21984, "en": "row is row (record) number to be retrieved.", "pt": "row é o número da linha (registro) a ser recuperada."}
