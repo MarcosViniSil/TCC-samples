@@ -736,3 +736,6 @@
 {"id": 11720, "en": "return num; ", "pt": "return num; "}
 {"id": 860, "en": "A sequence of bytes allows for different textual interpretations. ", "pt": "Uma sequência de bytes permite diferentes interpretações textuais. "}
 {"id": 7599, "en": "The complete course is available for a small one-time payment. ", "pt": "O curso completo está disponível por um pequeno pagamento único. "}
+{"id": 8801, "en": "Three columns of content? ", "pt": "Três colunas de conteúdo? "}
+{"id": 9547, "en": "Update the contents of your table to look like so: ", "pt": "Altere o conteúdo da sua tabela para ficar dessa maneira: "}
+{"id": 7845, "en": "Just use data attributes for that: ", "pt": "Use atributos data para isso: "}
