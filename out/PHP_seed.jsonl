@@ -639,3 +639,4 @@
 {"id": 31304, "en": "Floating point numbers", "pt": "Números de ponto flutuante"}
 {"id": 24440, "en": "This function always returns TRUE.", "pt": "Esta função sempre retorna TRUE."}
 {"id": 1990, "en": "Example 1. array_shift() example", "pt": "Exemplo de array_shift()"}
+{"id": 30448, "en": "This tutorial-like section helps you to avoid problems.", "pt": "Esta seção tentará ajudá-lo e evitar essas situações."}
