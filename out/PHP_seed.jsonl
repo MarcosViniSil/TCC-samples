@@ -606,3 +606,4 @@
 {"id": 34150, "en": "In earlier versions, use $HTTP_POST_FILES.", "pt": "Em versões anteriores, use $HTTP_POST_FILES."}
 {"id": 31463, "en": "This is a major change in PHP.", "pt": "Esta é a maior modificação no PHP."}
 {"id": 33102, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
+{"id": 22709, "en": "?php $handle = popen (\"/ bin / ls\", \"r\");?", "pt": "?php $fp = popen (\"/ bin / ls\", \"r\");?"}
