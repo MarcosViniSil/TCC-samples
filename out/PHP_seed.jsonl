@@ -716,3 +716,5 @@
 {"id": 30088, "en": "In the above example, class B redefines the function example().", "pt": "Ainda no exemplo acima, a classe B redefine a função exemplo()."}
 {"id": 29551, "en": "PHP 5 will include the new Zend Engine 2.0.", "pt": "PHP 5 irá incluir a nova Zend Engine 2.0."}
 {"id": 765, "en": "Time including microseconds: hh: mm: uuuuuu", "pt": "Hora, incluindo microsegundos: hh: mm: uuuuuu"}
+{"id": 30651, "en": "See also error_reporting().", "pt": "Veja também: error_reporting()."}
+{"id": 21896, "en": "Users are supposed to convert back to binary format by yourself.", "pt": "Usuários devem converter de volta para binários por si mesmos."}
