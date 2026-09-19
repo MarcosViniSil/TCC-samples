@@ -713,3 +713,4 @@
 {"id": 1642, "en": "In words: when the string representation is the same.", "pt": "Em palavras: quando a representação em string é a mesma."}
 {"id": 16590, "en": "Returns TRUE on success or FALSE on failure.", "pt": "Retorna TRUE em caso de sucesso ou FALSE em falhas."}
 {"id": 1600, "en": "You may also have an array with less values at the end.", "pt": "Você provavelmente terá um array com menos valores no final."}
+{"id": 30088, "en": "In the above example, class B redefines the function example().", "pt": "Ainda no exemplo acima, a classe B redefine a função exemplo()."}
