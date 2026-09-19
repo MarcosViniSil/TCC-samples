@@ -715,3 +715,6 @@
 {"id": 11909, "en": "This is really useful. ", "pt": "Isso é realmente útil. "}
 {"id": 7804, "en": "How to use CSS within a webpage ", "pt": "Como usar CSS em uma página web "}
 {"id": 10349, "en": "Next, add the following lines inside the .msgBox p { } rule: ", "pt": "Em seguida, adicione as seguintes linhas dentro da regra .msgBox p { ... }: "}
+{"id": 4880, "en": "margin: 0 auto; ", "pt": "margin: 0 auto; "}
+{"id": 7468, "en": "This is called variable {{Glossary(“Scope”, “scoping”)}}. ", "pt": "Isso é chamado de variável {{Glossary(“Scope”, “scoping”)}}. "}
+{"id": 12376, "en": "Now return to the raw text file. ", "pt": "Agora volte ao arquivo de texto bruto. "}
