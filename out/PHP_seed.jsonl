@@ -625,3 +625,4 @@
 {"id": 2263, "en": "This function is not implemented on Windows platforms.", "pt": "Nota: esta função não é implementada na plataforma Windows"}
 {"id": 12627, "en": "Note:", "pt": "Nota:"}
 {"id": 20445, "en": "This function complements chr().", "pt": "Esta função complementa chr()."}
+{"id": 31486, "en": "See POST method uploads for more information.", "pt": "Veja uploads via método POST para maiores informações."}
