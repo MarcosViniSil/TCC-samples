@@ -679,3 +679,4 @@
 {"id": 25981, "en": "Example 1. swfaction() example", "pt": "Exemplo 1. swfaction() example"}
 {"id": 11892, "en": "Notice the difference between the above examples.", "pt": "Verifique a diferença entre os exemplo."}
 {"id": 700, "en": "A special case is the default case.", "pt": "Um case especial é o default."}
+{"id": 22379, "en": "See also pg_num_rows() and pg_affected_rows().", "pt": "Veja também pg_num_rows() e pg_affected_rows()."}
