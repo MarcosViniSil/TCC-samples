@@ -769,3 +769,4 @@
 {"id": 26588, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
 {"id": 681, "en": "This is exactly what the switch statement is for.", "pt": "É exatamente para isso que a instrução switch faz."}
 {"id": 13296, "en": "Monetary decimal point character", "pt": "Caractere monetário de ponto decimal"}
+{"id": 16734, "en": "The function mysql_drop_db() is deprecated.", "pt": "A função mysql_drop_db() é obsoleta."}
