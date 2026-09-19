@@ -762,3 +762,4 @@
 {"id": 17222, "en": "Example 1. mysql_query()", "pt": "Exemplo 1. mysql_query()"}
 {"id": 10695, "en": "PHP Manual", "pt": "Manual do PHP"}
 {"id": 22469, "en": "If connection is not set, default connection is used.", "pt": "Se connection não for definido, a conexão padrão será usada."}
+{"id": 1585, "en": "The default is CASE_LOWER.", "pt": "O padrão é CASE_LOWER."}
