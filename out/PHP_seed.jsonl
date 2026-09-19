@@ -766,3 +766,4 @@
 {"id": 22201, "en": "However, PHP 4.0.6 has problem with notice message handling.", "pt": "Entretanto o PHP 4.0.6 tem problemas com a manipulação de mensagens."}
 {"id": 7976, "en": "Returns TRUE on success or FALSE on failure.", "pt": "Retorna TRUE em caso de sucesso ou FALSE em falhas."}
 {"id": 139, "en": "All optional parameters are seen in [brackets].", "pt": "Todos os parâmetros opcionais aparecem dentro de [colchetes]."}
+{"id": 26588, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
