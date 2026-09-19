@@ -659,3 +659,5 @@
 {"id": 1720, "en": "See also array_pad(), list(), and range().", "pt": "Veja também array_pad(), list() e range()."}
 {"id": 1804, "en": "See also array_filter(), array_reduce(), and array_walk().", "pt": "Veja também array_filter(), array_reduce() e array_walk()."}
 {"id": 7269, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
+{"id": 25435, "en": "number of links", "pt": "número de links"}
+{"id": 22668, "en": "Example 1. php_uname() Example", "pt": "Exemplo 1. php_uname() Example"}
