@@ -634,3 +634,4 @@
 {"id": 3133, "en": "Example 1. copy() example", "pt": "Exemplo 1. exemplo do copy()"}
 {"id": 33377, "en": "Make sure you set environment variables for appropriate user.", "pt": "Certifique-se que você definiu as variáveis de ambiente para o usuário apropriado."}
 {"id": 355, "en": "Or, $DOCUMENT_ROOT from $_SERVER[ 'DOCUMENT_ROOT'].", "pt": "Ou, $DOCUMENT_ROOT de $_SERVER[ 'DOCUMENT_ROOT']."}
+{"id": 21902, "en": "Newer PostgreSQL will support unescape function.", "pt": "Versões do PostgreSQL mais novas suportarão a função unescape."}
