@@ -620,3 +620,7 @@
 {"id": 31576, "en": "A normal variable is set with a statement such as:", "pt": "Uma variável normal é criada numa instrução como:"}
 {"id": 25787, "en": "Up", "pt": "Acima"}
 {"id": 13307, "en": "Parentheses surround the quantity and currency_symbol", "pt": "Parênteses na quantidade e simbolo da moeda"}
+{"id": 15376, "en": "Metaphone was developed by Lawrence Philips lphilips@verity.com.", "pt": "Metaphone foi desenvolvido por Lawrence Philips lphilips@verity.com."}
+{"id": 7607, "en": "Upon success, returns 0; otherwise, returns -1.", "pt": "Em caso de sucesso, retorna 0; caso contrário, retorna -1."}
+{"id": 2263, "en": "This function is not implemented on Windows platforms.", "pt": "Nota: esta função não é implementada na plataforma Windows"}
+{"id": 12627, "en": "Note:", "pt": "Nota:"}
