@@ -682,3 +682,4 @@
 {"id": 22379, "en": "See also pg_num_rows() and pg_affected_rows().", "pt": "Veja também pg_num_rows() e pg_affected_rows()."}
 {"id": 32967, "en": "MS SQL Server configuration options", "pt": "Opções de configuração do MS SQL Server"}
 {"id": 30082, "en": "The:: operator is being used for this.", "pt": "O operador:: pode ser utilizado nessas ocasiões."}
+{"id": 12639, "en": "Returns TRUE if the filename exists and is writable.", "pt": "Retorna TRUE se o nomedoarquivo existe e pode ser escrito para."}
