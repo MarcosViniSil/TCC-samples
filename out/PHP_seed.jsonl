@@ -637,3 +637,5 @@
 {"id": 21902, "en": "Newer PostgreSQL will support unescape function.", "pt": "Versões do PostgreSQL mais novas suportarão a função unescape."}
 {"id": 23947, "en": "See also ceil() and floor().", "pt": "Veja também ceil() e floor()."}
 {"id": 31304, "en": "Floating point numbers", "pt": "Números de ponto flutuante"}
+{"id": 24440, "en": "This function always returns TRUE.", "pt": "Esta função sempre retorna TRUE."}
+{"id": 1990, "en": "Example 1. array_shift() example", "pt": "Exemplo de array_shift()"}
