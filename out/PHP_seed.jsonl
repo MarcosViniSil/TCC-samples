@@ -723,3 +723,5 @@
 {"id": 16776, "en": "If not, the last opened link is used.", "pt": "Se não, a ultima conexão aberta é usada."}
 {"id": 31853, "en": "Table E-1.", "pt": "Tabela E-1."}
 {"id": 1678, "en": "See also array_map() and array_reduce().", "pt": "Veja também array_map() e array_reduce()."}
+{"id": 17115, "en": "Example 1. mysql_list_processes() example", "pt": "Exemplo mysql_list_processes()"}
+{"id": 1590, "en": "Array ([FIRST] = 1 [SECOND] = 2)", "pt": "Array ([PRIMEIRO] = 1 [SEGUNDO] = 2)"}
