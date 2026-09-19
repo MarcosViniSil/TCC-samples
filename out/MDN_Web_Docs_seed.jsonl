@@ -623,3 +623,6 @@
 {"id": 3496, "en": "What is a selector? ", "pt": "O que é um seletor? "}
 {"id": 7938, "en": "aside ", "pt": "aparte "}
 {"id": 5838, "en": "Note the CSS that is included in the example file: ", "pt": "Além disso, anote o CSS incluído no arquivo de exemplo: "}
+{"id": 5430, "en": "CSS does not exactly allow one style to be defined in terms of another. ", "pt": "CSS não exatamente permite que um estilo seja definido com os termos de outro. "}
+{"id": 4204, "en": "top: 30px; ", "pt": "top: 30px; "}
+{"id": 7704, "en": "To begin, you’ll need to answer these questions: ", "pt": "Para começar, você deve responder às seguintes questões: "}
