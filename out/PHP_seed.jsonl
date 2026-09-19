@@ -736,3 +736,5 @@
 {"id": 776, "en": "The PHP 3 error message.", "pt": "A mensagem de erro do PHP 3."}
 {"id": 1801, "en": "Creating an array of arrays", "pt": "Criando um array de arrays"}
 {"id": 16254, "en": "The row is returned as an array.", "pt": "A linha é retornada como uma matriz."}
+{"id": 23816, "en": "Attempts to rename oldname to newname.", "pt": "Tenta renomear nomeantigo para novonome."}
+{"id": 2169, "en": "See also asin(), acosh() and atanh().", "pt": "Veja também asin(), acosh() e atanh()."}
