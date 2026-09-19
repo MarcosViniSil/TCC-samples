@@ -752,3 +752,4 @@
 {"id": 22307, "en": "This function used to be called pg_loreadall().", "pt": "Esta função era chamada pg_loreadall()."}
 {"id": 22352, "en": "This function used to be called pg_lo_unlink().", "pt": "Esta função era chamada pg_lo_unlink()."}
 {"id": 16787, "en": "Example 1. mysql_escape_string() example", "pt": "Exemplo mysql_escape_string()"}
+{"id": 33373, "en": "Environmental variables affect PostgreSQL server / client behavior.", "pt": "Variáveis de ambiente afetam o comportamento do servidor / cliente PostgreSQL."}
