@@ -727,3 +727,7 @@
 {"id": 1590, "en": "Array ([FIRST] = 1 [SECOND] = 2)", "pt": "Array ([PRIMEIRO] = 1 [SEGUNDO] = 2)"}
 {"id": 33949, "en": "Whether to transparently compress pages.", "pt": "Serve para comprimir páginas de modo transparente."}
 {"id": 11975, "en": "Example 1. ingres_fetch_array() example", "pt": "Exemplo 1. ingres_fetch_array() example"}
+{"id": 2031, "en": "Example 1. array_splice() examples", "pt": "Exemplos de array_splice()"}
+{"id": 11842, "en": "This will display:", "pt": "A saída seria:"}
+{"id": 22222, "en": "This function used to be called pg_getlastoid().", "pt": "Esta função era chamada pg_getlastoid()."}
+{"id": 22591, "en": "User must cast to bytea to avoid this error.", "pt": "O usuário deve fazer a coerção (cast) para bytea para evitar este erro."}
