@@ -694,3 +694,4 @@
 {"id": 22009, "en": "Field indices start from 0.", "pt": "Índices de campo iniciam-se em 0."}
 {"id": 655, "en": "It allows for conditional execution of code fragments.", "pt": "Ela permite a execução condicional de fragmentos de código."}
 {"id": 22278, "en": "See also pg_lo_export() and pg_lo_open().", "pt": "Veja também pg_lo_export() e pg_lo_open()."}
+{"id": 17106, "en": "This is deprecated however.", "pt": "Esta função esta depreciada."}
