@@ -626,3 +626,4 @@
 {"id": 12627, "en": "Note:", "pt": "Nota:"}
 {"id": 20445, "en": "This function complements chr().", "pt": "Esta função complementa chr()."}
 {"id": 31486, "en": "See POST method uploads for more information.", "pt": "Veja uploads via método POST para maiores informações."}
+{"id": 21966, "en": "row is row (record) number to be retrieved.", "pt": "row é o número da linha (registro) a ser recuperado."}
