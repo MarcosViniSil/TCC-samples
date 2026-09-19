@@ -632,3 +632,4 @@
 {"id": 13313, "en": "The sign string precedes the quantity and currency_symbol", "pt": "A string sinal precede a quantidade e o simbolo da moeda"}
 {"id": 13993, "en": "Example 1. mb_strimwidth() example", "pt": "Exemplo 1. mb_strimwidth() example"}
 {"id": 3133, "en": "Example 1. copy() example", "pt": "Exemplo 1. exemplo do copy()"}
+{"id": 33377, "en": "Make sure you set environment variables for appropriate user.", "pt": "Certifique-se que você definiu as variáveis de ambiente para o usuário apropriado."}
