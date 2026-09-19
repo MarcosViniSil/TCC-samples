@@ -734,3 +734,4 @@
 {"id": 12547, "en": "// Your conditional test needs to go inside the parentheses ", "pt": "// Seu teste condicional precisa ir dentro dos parênteses "}
 {"id": 3870, "en": "Flexbox is a bit trickier than some CSS features. ", "pt": "Flexbox é um pouco mais ardiloso que algumas propriedades CSS. "}
 {"id": 11720, "en": "return num; ", "pt": "return num; "}
+{"id": 860, "en": "A sequence of bytes allows for different textual interpretations. ", "pt": "Uma sequência de bytes permite diferentes interpretações textuais. "}
