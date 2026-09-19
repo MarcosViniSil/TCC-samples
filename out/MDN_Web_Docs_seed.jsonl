@@ -611,3 +611,5 @@
 {"id": 1203, "en": "if (x >= 10) return; ", "pt": "if (x >= 10) return; "}
 {"id": 5554, "en": "The z-index property specifies the stack order of elements. ", "pt": "A propriedade z-index especifica a ordem dos elementos da pilha. "}
 {"id": 12548, "en": "// in the line below, replacing what's currently there ", "pt": "// na linha abaixo, substituindo o que está lá if (greetings[i]) { "}
+{"id": 7659, "en": "To learn more, see GitHub Pages Help. ", "pt": "Para aprender mais, consulte a Ajuda do Github Pages (em inglês). "}
+{"id": 9109, "en": "This is called “hotlinking”. ", "pt": "Isso é chamado de “hotlinking”. "}
