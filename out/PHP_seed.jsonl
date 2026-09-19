@@ -718,3 +718,5 @@
 {"id": 765, "en": "Time including microseconds: hh: mm: uuuuuu", "pt": "Hora, incluindo microsegundos: hh: mm: uuuuuu"}
 {"id": 30651, "en": "See also error_reporting().", "pt": "Veja também: error_reporting()."}
 {"id": 21896, "en": "Users are supposed to convert back to binary format by yourself.", "pt": "Usuários devem converter de volta para binários por si mesmos."}
+{"id": 24334, "en": "If module is specified, that module will be used instead.", "pt": "Se module está especificado, o nome será trocado."}
+{"id": 9819, "en": "Home", "pt": "Principal"}
