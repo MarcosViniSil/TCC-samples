@@ -607,3 +607,4 @@
 {"id": 31463, "en": "This is a major change in PHP.", "pt": "Esta é a maior modificação no PHP."}
 {"id": 33102, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
 {"id": 22709, "en": "?php $handle = popen (\"/ bin / ls\", \"r\");?", "pt": "?php $fp = popen (\"/ bin / ls\", \"r\");?"}
+{"id": 1117, "en": "Make sure to set max_execution_time large enough.", "pt": "Tenha certeza de estabelecer um max_execution_time grande o suficiente."}
