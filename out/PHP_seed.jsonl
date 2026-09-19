@@ -598,3 +598,5 @@
 {"id": 2125, "en": "In PHP 3, array_walk() resets the pointer.", "pt": "No PHP 3, array_walk() reinicia o ponteiro."}
 {"id": 30738, "en": "TRUE if $a is not TRUE.", "pt": "Verdadeiro se $a não é verdadeiro."}
 {"id": 16854, "en": "table - name of the table the column belongs to", "pt": "table - nome da tabela onde esta o campo"}
+{"id": 30263, "en": "For instance, consider the following function:", "pt": "Por exemplo, considere a seguinte função:"}
+{"id": 2541, "en": "See also bzread() and bzwrite().", "pt": "Veja também bzread() e bzwrite()."}
