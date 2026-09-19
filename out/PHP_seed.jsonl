@@ -690,3 +690,7 @@
 {"id": 29994, "en": "There are three main fields where PHP scripts are used.", "pt": "Esses são os maiores campos onde os scripts PHP podem se utilizados:"}
 {"id": 1604, "en": "The default is FALSE.", "pt": "O padrão é FALSE."}
 {"id": 21792, "en": "See also pg_connection_status() and pg_get_result()", "pt": "Veja também pg_connection_status() e pg_get_result()"}
+{"id": 33796, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 22009, "en": "Field indices start from 0.", "pt": "Índices de campo iniciam-se em 0."}
+{"id": 655, "en": "It allows for conditional execution of code fragments.", "pt": "Ela permite a execução condicional de fragmentos de código."}
+{"id": 22278, "en": "See also pg_lo_export() and pg_lo_open().", "pt": "Veja também pg_lo_export() e pg_lo_open()."}
