@@ -761,3 +761,4 @@
 {"id": 2145, "en": "This example would display:", "pt": "A saída deste exemplo seria:"}
 {"id": 17222, "en": "Example 1. mysql_query()", "pt": "Exemplo 1. mysql_query()"}
 {"id": 10695, "en": "PHP Manual", "pt": "Manual do PHP"}
+{"id": 22469, "en": "If connection is not set, default connection is used.", "pt": "Se connection não for definido, a conexão padrão será usada."}
