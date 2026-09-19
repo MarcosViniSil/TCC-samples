@@ -701,3 +701,5 @@
 {"id": 31555, "en": "References are not stored statically:", "pt": "Referências não são armazenadas estaticamente:"}
 {"id": 30641, "en": "PHP supports one error control operator: the at sign (@).", "pt": "O PHP suporta um operador de controle de erro: o sinal 'arroba' (@)."}
 {"id": 11719, "en": "Example 1. imap_set_quota() example", "pt": "Exemplo 1. imap_set_quota() example"}
+{"id": 21913, "en": "It returns escaped string for PostgreSQL.", "pt": "Retorna uma string com escapes para PostgreSQL."}
+{"id": 12561, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
