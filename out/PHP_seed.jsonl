@@ -726,3 +726,4 @@
 {"id": 17115, "en": "Example 1. mysql_list_processes() example", "pt": "Exemplo mysql_list_processes()"}
 {"id": 1590, "en": "Array ([FIRST] = 1 [SECOND] = 2)", "pt": "Array ([PRIMEIRO] = 1 [SEGUNDO] = 2)"}
 {"id": 33949, "en": "Whether to transparently compress pages.", "pt": "Serve para comprimir páginas de modo transparente."}
+{"id": 11975, "en": "Example 1. ingres_fetch_array() example", "pt": "Exemplo 1. ingres_fetch_array() example"}
