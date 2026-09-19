@@ -745,3 +745,5 @@
 {"id": 764, "en": "Date in ISO 8601 format (yyyy - mm - dd)", "pt": "Data no formato ISO 8601 (yyyy - mm - dd)"}
 {"id": 13341, "en": "\"tm_mon\" - month of the year, starting with 0 for January", "pt": "\"tm_mon\" - mês do ano, começa com 0 para Janeiro"}
 {"id": 20500, "en": "Next", "pt": "Próxima"}
+{"id": 32399, "en": "This configuration option was introduced in PHP 4.3.", "pt": "Esta opção de configuração foi incluida no PHP 4.3."}
+{"id": 6340, "en": "This flag was added in PHP 4.3.0.", "pt": "Essa opação foi adicionada no PHP 4.3.0."}
