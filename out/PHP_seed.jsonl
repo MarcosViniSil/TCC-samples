@@ -698,3 +698,4 @@
 {"id": 6326, "en": "If there is a collision, overwrite the existing variable.", "pt": "Se houver uma colisão, sobrescreve a variável existente."}
 {"id": 12783, "en": "Example 1. krsort() example", "pt": "Exemplo de krsort()"}
 {"id": 23352, "en": "Example 1. print() examples", "pt": "Exemplos print()"}
+{"id": 31555, "en": "References are not stored statically:", "pt": "Referências não são armazenadas estaticamente:"}
