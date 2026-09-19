@@ -780,3 +780,5 @@
 {"id": 6119, "en": "To validate a form, ask yourself a few questions: ", "pt": "Para validar um formulário, você deve se fazer algumas perguntas: "}
 {"id": 10030, "en": "rejected: the asynchronous function has failed. ", "pt": "rejected: a função assíncrona falhou. "}
 {"id": 9822, "en": "Update the repository using the following command: ", "pt": "Atualize o repositório usando o seguinte comando: "}
+{"id": 11703, "en": "Make a local copy of the function-library.html file from GitHub. ", "pt": "Primeiro de tudo, faça uma cópia local do arquivo function-library.html do GitHub. "}
+{"id": 2090, "en": "SVG documentation on MDN ", "pt": "Documentação sobre SVG na MDN "}
