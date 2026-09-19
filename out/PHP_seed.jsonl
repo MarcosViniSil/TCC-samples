@@ -602,3 +602,5 @@
 {"id": 2541, "en": "See also bzread() and bzwrite().", "pt": "Veja também bzread() e bzwrite()."}
 {"id": 28024, "en": "Example 1. uksort() example", "pt": "Exemplo de uksort()"}
 {"id": 33331, "en": "PostgreSQL is an open source descendant of this original Berkeley code.", "pt": "O PostgreSQL é um descendente com código aberto do código original desenvolvido em Berkeley."}
+{"id": 6088, "en": "It is not possible to use echo() in a variable function context.", "pt": "Não é possível usar echo() num contexto de variable function, mas você pode usar print() no lugar dela."}
+{"id": 34150, "en": "In earlier versions, use $HTTP_POST_FILES.", "pt": "Em versões anteriores, use $HTTP_POST_FILES."}
