@@ -678,3 +678,6 @@
 {"id": 5938, "en": "<label for=\"t1\">What's your favorite fruit? ", "pt": "<label for=\"t1\">Qual é a sua fruta favorita? "}
 {"id": 6701, "en": "Styling and layout with CSS ", "pt": "Estilizando e layout com CSS "}
 {"id": 2762, "en": "For this tutorial, the following values are used: ", "pt": "Para este tutorial, os seguintes valores são usados "}
+{"id": 7343, "en": "Numbers don’t have quotes around them. ", "pt": "Os números não têm aspas. "}
+{"id": 7481, "en": "Here we select the {{htmlelement(“html”)}} element. ", "pt": "Aqui selecionamos o elemento {{htmlelement(“html”)}}. "}
+{"id": 9047, "en": "Active learning: applying CSS and JavaScript to a page ", "pt": "Aprendizagem ativa: aplicar CSS e JavaScript a uma página "}
