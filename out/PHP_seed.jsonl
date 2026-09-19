@@ -792,3 +792,4 @@
 {"id": 21984, "en": "row is row (record) number to be retrieved.", "pt": "row é o número da linha (registro) a ser recuperada."}
 {"id": 1021, "en": "Only providing the filename to execute is sufficient.", "pt": "Informar somente o nome do arquivo para execução é suficiente."}
 {"id": 32454, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 31876, "en": "PHP, which stands for \"PHP:", "pt": "PHP, que significa \"PHP:"}
