@@ -647,3 +647,4 @@
 {"id": 4993, "en": "Example 1. dbx_escape_string() example", "pt": "Exemplo 1. dbx_escape_string() example"}
 {"id": 32904, "en": "TRUE by default.", "pt": "TRUE por padrão."}
 {"id": 5140, "en": "See also rad2deg().", "pt": "Veja também rad2deg()."}
+{"id": 2474, "en": "See also bzopen().", "pt": "Veja também bzopen()."}
