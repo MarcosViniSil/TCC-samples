@@ -794,3 +794,5 @@
 {"id": 32454, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
 {"id": 31876, "en": "PHP, which stands for \"PHP:", "pt": "PHP, que significa \"PHP:"}
 {"id": 14634, "en": "This function is currently not documented; only the argument list is available.", "pt": "Esta função não está documentada, somente a lista de argumentos está disponível."}
+{"id": 22208, "en": "See also pg_query() and pg_last_error().", "pt": "Veja também pg_query() e pg_last_error()."}
+{"id": 30622, "en": "TRUE if $a is strictly less than $b.", "pt": "Verdadeiro se $a é estritamente menor que $b."}
