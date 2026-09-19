@@ -704,3 +704,4 @@
 {"id": 21913, "en": "It returns escaped string for PostgreSQL.", "pt": "Retorna uma string com escapes para PostgreSQL."}
 {"id": 12561, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
 {"id": 22023, "en": "The row (record) is returned as an array.", "pt": "A linha (registro) é recuperada como um array."}
+{"id": 2218, "en": "Example 1. aspell_new()", "pt": "Exemplo 1. aspell_new()"}
