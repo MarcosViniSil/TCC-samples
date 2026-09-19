@@ -610,3 +610,4 @@
 {"id": 1117, "en": "Make sure to set max_execution_time large enough.", "pt": "Tenha certeza de estabelecer um max_execution_time grande o suficiente."}
 {"id": 1009, "en": "Command line options", "pt": "Opções de linha de comando"}
 {"id": 33345, "en": "The maximum number of persistent Postgres connections per process.", "pt": "O número máximo de conexões persistentes com PostgreSQL por processo."}
+{"id": 8122, "en": "Example 1. getdate() example", "pt": "Exemplo 1. getdate() exemplo"}
