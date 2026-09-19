@@ -750,3 +750,4 @@
 {"id": 13396, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
 {"id": 23899, "en": "For more information, see Returning values.", "pt": "Para maiores informações, veja Retornando Valores."}
 {"id": 22307, "en": "This function used to be called pg_loreadall().", "pt": "Esta função era chamada pg_loreadall()."}
+{"id": 22352, "en": "This function used to be called pg_lo_unlink().", "pt": "Esta função era chamada pg_lo_unlink()."}
