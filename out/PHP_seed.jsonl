@@ -748,3 +748,5 @@
 {"id": 32399, "en": "This configuration option was introduced in PHP 4.3.", "pt": "Esta opção de configuração foi incluida no PHP 4.3."}
 {"id": 6340, "en": "This flag was added in PHP 4.3.0.", "pt": "Essa opação foi adicionada no PHP 4.3.0."}
 {"id": 13396, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
+{"id": 23899, "en": "For more information, see Returning values.", "pt": "Para maiores informações, veja Retornando Valores."}
+{"id": 22307, "en": "This function used to be called pg_loreadall().", "pt": "Esta função era chamada pg_loreadall()."}
