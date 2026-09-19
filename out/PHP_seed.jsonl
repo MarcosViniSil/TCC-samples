@@ -759,3 +759,5 @@
 {"id": 8015, "en": "Essentially, it was renamed.", "pt": "Essencialmente, ela foi renomeada."}
 {"id": 14372, "en": "Example 1. mcrypt_create_iv() example", "pt": "Exemplo 1. mcrypt_create_iv() example"}
 {"id": 2145, "en": "This example would display:", "pt": "A saída deste exemplo seria:"}
+{"id": 17222, "en": "Example 1. mysql_query()", "pt": "Exemplo 1. mysql_query()"}
+{"id": 10695, "en": "PHP Manual", "pt": "Manual do PHP"}
