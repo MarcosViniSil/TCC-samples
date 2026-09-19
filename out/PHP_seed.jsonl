@@ -649,3 +649,4 @@
 {"id": 5140, "en": "See also rad2deg().", "pt": "Veja também rad2deg()."}
 {"id": 2474, "en": "See also bzopen().", "pt": "Veja também bzopen()."}
 {"id": 31049, "en": "Floating point precision", "pt": "Precisão de números de ponto flutuante"}
+{"id": 7507, "en": "?php $handle = fopen (\"c:\\\\data\\\\info.txt\", \"r\");?", "pt": "?php $fp = fopen (\"c:\\\\data\\\\info.txt\", \"r\");?"}
