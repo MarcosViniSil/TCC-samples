@@ -741,3 +741,7 @@
 {"id": 231, "en": "Example 1. dir() example", "pt": "Exemplo dir()"}
 {"id": 3745, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
 {"id": 16941, "en": "This is deprecated, however.", "pt": "Esta função está depreciada."}
+{"id": 2282, "en": "The returned data may be binary.", "pt": "O retorno pode ser binário."}
+{"id": 764, "en": "Date in ISO 8601 format (yyyy - mm - dd)", "pt": "Data no formato ISO 8601 (yyyy - mm - dd)"}
+{"id": 13341, "en": "\"tm_mon\" - month of the year, starting with 0 for January", "pt": "\"tm_mon\" - mês do ano, começa com 0 para Janeiro"}
+{"id": 20500, "en": "Next", "pt": "Próxima"}
