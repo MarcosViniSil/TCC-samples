@@ -708,3 +708,5 @@
 {"id": 1851, "en": "It maintains key association when sorting.", "pt": "A associação entre chaves e valores é mantida."}
 {"id": 16952, "en": "See also: mysql_fetch_field().", "pt": "Veja também: mysql_fetch_field()."}
 {"id": 32261, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 8120, "en": "\"weekday\" - day of the week, textual, full; i.e. \"Friday \"", "pt": "\"weekday\" - dia da semana, texo, completo; i.e. \"Friday \""}
+{"id": 22545, "en": "Available encoding depends on your PostgreSQL and libpq version.", "pt": "As codificações disponíveis dependem da versão do PostgreSQL e libpq."}
