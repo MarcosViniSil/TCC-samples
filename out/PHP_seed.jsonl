@@ -661,3 +661,5 @@
 {"id": 7269, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
 {"id": 25435, "en": "number of links", "pt": "número de links"}
 {"id": 22668, "en": "Example 1. php_uname() Example", "pt": "Exemplo 1. php_uname() Example"}
+{"id": 25751, "en": "Example 1. str_pad() example", "pt": "Exemplo 1. str_pad() example"}
+{"id": 15375, "en": "The metaphone generated keys are of variable length.", "pt": "As metaphone keys geradas são de comprimentos variados."}
