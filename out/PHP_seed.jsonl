@@ -781,3 +781,5 @@
 {"id": 17144, "en": "This is deprecated however.", "pt": "Esta função está depreciada."}
 {"id": 30461, "en": "10 class B:", "pt": "10 classe B:"}
 {"id": 25318, "en": "SORT_STRING - compare items as strings", "pt": "SORT_STRING - compara os itens como strings"}
+{"id": 13414, "en": "Simply list all characters that you want to be stripped.", "pt": "Simplesmente lista todos os caracteres que você quer que sejam retirados."}
+{"id": 17339, "en": "This is described as a \"natural ordering\".", "pt": "Essa forma de ordenação é denominada \"ordenação natural\"."}
