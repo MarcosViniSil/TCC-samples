@@ -732,3 +732,5 @@
 {"id": 22222, "en": "This function used to be called pg_getlastoid().", "pt": "Esta função era chamada pg_getlastoid()."}
 {"id": 22591, "en": "User must cast to bytea to avoid this error.", "pt": "O usuário deve fazer a coerção (cast) para bytea para evitar este erro."}
 {"id": 13311, "en": "The sign string immediately succeeds the currency_symbol", "pt": "A string sinal sucede imediatamente o simbolo da moeda"}
+{"id": 31884, "en": "See also PHP History", "pt": "Veja também a história do PHP."}
+{"id": 776, "en": "The PHP 3 error message.", "pt": "A mensagem de erro do PHP 3."}
