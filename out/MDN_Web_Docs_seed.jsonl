@@ -713,3 +713,5 @@
 {"id": 994, "en": "DOCTYPE html>” preamble found at the top of all documents. ", "pt": "DOCTYPE html>” encontrada no topo de todos os documentos. "}
 {"id": 8946, "en": "content specifies the actual meta content. ", "pt": "O content especifica o conteúdo real do meta. "}
 {"id": 11909, "en": "This is really useful. ", "pt": "Isso é realmente útil. "}
+{"id": 7804, "en": "How to use CSS within a webpage ", "pt": "Como usar CSS em uma página web "}
+{"id": 10349, "en": "Next, add the following lines inside the .msgBox p { } rule: ", "pt": "Em seguida, adicione as seguintes linhas dentro da regra .msgBox p { ... }: "}
