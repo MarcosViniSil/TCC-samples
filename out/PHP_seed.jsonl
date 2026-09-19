@@ -680,3 +680,5 @@
 {"id": 11892, "en": "Notice the difference between the above examples.", "pt": "Verifique a diferença entre os exemplo."}
 {"id": 700, "en": "A special case is the default case.", "pt": "Um case especial é o default."}
 {"id": 22379, "en": "See also pg_num_rows() and pg_affected_rows().", "pt": "Veja também pg_num_rows() e pg_affected_rows()."}
+{"id": 32967, "en": "MS SQL Server configuration options", "pt": "Opções de configuração do MS SQL Server"}
+{"id": 30082, "en": "The:: operator is being used for this.", "pt": "O operador:: pode ser utilizado nessas ocasiões."}
