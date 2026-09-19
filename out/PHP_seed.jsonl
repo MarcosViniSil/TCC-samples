@@ -720,3 +720,5 @@
 {"id": 21896, "en": "Users are supposed to convert back to binary format by yourself.", "pt": "Usuários devem converter de volta para binários por si mesmos."}
 {"id": 24334, "en": "If module is specified, that module will be used instead.", "pt": "Se module está especificado, o nome será trocado."}
 {"id": 9819, "en": "Home", "pt": "Principal"}
+{"id": 16776, "en": "If not, the last opened link is used.", "pt": "Se não, a ultima conexão aberta é usada."}
+{"id": 31853, "en": "Table E-1.", "pt": "Tabela E-1."}
