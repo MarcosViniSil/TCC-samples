@@ -643,3 +643,4 @@
 {"id": 352, "en": "See also register_globals.", "pt": "Veja também register_globals."}
 {"id": 23962, "en": "See also arsort(), asort(), ksort(), sort(), and usort().", "pt": "Veja também arsort(), asort(), ksort(), sort() e usort()."}
 {"id": 25864, "en": "Described there is valid syntax for the time parameter.", "pt": "Lá está descrito a sintaxe válida para o parâmetro time."}
+{"id": 20654, "en": "Would produce:", "pt": "Irá produzir:"}
