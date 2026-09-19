@@ -640,3 +640,6 @@
 {"id": 24440, "en": "This function always returns TRUE.", "pt": "Esta função sempre retorna TRUE."}
 {"id": 1990, "en": "Example 1. array_shift() example", "pt": "Exemplo de array_shift()"}
 {"id": 30448, "en": "This tutorial-like section helps you to avoid problems.", "pt": "Esta seção tentará ajudá-lo e evitar essas situações."}
+{"id": 352, "en": "See also register_globals.", "pt": "Veja também register_globals."}
+{"id": 23962, "en": "See also arsort(), asort(), ksort(), sort(), and usort().", "pt": "Veja também arsort(), asort(), ksort(), sort() e usort()."}
+{"id": 25864, "en": "Described there is valid syntax for the time parameter.", "pt": "Lá está descrito a sintaxe válida para o parâmetro time."}
