@@ -685,3 +685,5 @@
 {"id": 12639, "en": "Returns TRUE if the filename exists and is writable.", "pt": "Retorna TRUE se o nomedoarquivo existe e pode ser escrito para."}
 {"id": 7238, "en": "The results of this function are cached.", "pt": "O resultado desta função é guardado em cache."}
 {"id": 16809, "en": "This feature was added in PHP 3.0.7.", "pt": "Isto foi adicionado no PHP 3.0.7."}
+{"id": 13664, "en": "Example 1. mb_convert_kana() example", "pt": "Exemplo 1. mb_convert_kana() example"}
+{"id": 13315, "en": "The sign string immediately precedes the currency_symbol", "pt": "A string sinal precede imediatamente o simbolo da moeda"}
