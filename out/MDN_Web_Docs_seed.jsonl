@@ -778,3 +778,5 @@
 {"id": 1314, "en": "grid-template-columns: 1fr 1fr 1fr; ", "pt": "grid-template-columns: 1fr 1fr 1fr; "}
 {"id": 7863, "en": "CSS access ", "pt": "Acesso no CSS "}
 {"id": 6119, "en": "To validate a form, ask yourself a few questions: ", "pt": "Para validar um formulário, você deve se fazer algumas perguntas: "}
+{"id": 10030, "en": "rejected: the asynchronous function has failed. ", "pt": "rejected: a função assíncrona falhou. "}
+{"id": 9822, "en": "Update the repository using the following command: ", "pt": "Atualize o repositório usando o seguinte comando: "}
