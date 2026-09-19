@@ -711,3 +711,5 @@
 {"id": 8120, "en": "\"weekday\" - day of the week, textual, full; i.e. \"Friday \"", "pt": "\"weekday\" - dia da semana, texo, completo; i.e. \"Friday \""}
 {"id": 22545, "en": "Available encoding depends on your PostgreSQL and libpq version.", "pt": "As codificações disponíveis dependem da versão do PostgreSQL e libpq."}
 {"id": 1642, "en": "In words: when the string representation is the same.", "pt": "Em palavras: quando a representação em string é a mesma."}
+{"id": 16590, "en": "Returns TRUE on success or FALSE on failure.", "pt": "Retorna TRUE em caso de sucesso ou FALSE em falhas."}
+{"id": 1600, "en": "You may also have an array with less values at the end.", "pt": "Você provavelmente terá um array com menos valores no final."}
