@@ -687,3 +687,4 @@
 {"id": 16809, "en": "This feature was added in PHP 3.0.7.", "pt": "Isto foi adicionado no PHP 3.0.7."}
 {"id": 13664, "en": "Example 1. mb_convert_kana() example", "pt": "Exemplo 1. mb_convert_kana() example"}
 {"id": 13315, "en": "The sign string immediately precedes the currency_symbol", "pt": "A string sinal precede imediatamente o simbolo da moeda"}
+{"id": 29994, "en": "There are three main fields where PHP scripts are used.", "pt": "Esses são os maiores campos onde os scripts PHP podem se utilizados:"}
