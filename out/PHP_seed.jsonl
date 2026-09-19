@@ -776,3 +776,4 @@
 {"id": 11550, "en": "Table 1.", "pt": "Tabela 1."}
 {"id": 1760, "en": "See also isset().", "pt": "Veja também isset()."}
 {"id": 5257, "en": "Example 1. disk_free_space() example", "pt": "Exemplo 1. exemplo de disk_free_space()"}
+{"id": 6042, "en": "$bar now contains the following key / value pairs:", "pt": "$bar agora contém os seguintes pares de chaves e valores:"}
