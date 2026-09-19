@@ -767,3 +767,4 @@
 {"id": 7976, "en": "Returns TRUE on success or FALSE on failure.", "pt": "Retorna TRUE em caso de sucesso ou FALSE em falhas."}
 {"id": 139, "en": "All optional parameters are seen in [brackets].", "pt": "Todos os parâmetros opcionais aparecem dentro de [colchetes]."}
 {"id": 26588, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
+{"id": 681, "en": "This is exactly what the switch statement is for.", "pt": "É exatamente para isso que a instrução switch faz."}
