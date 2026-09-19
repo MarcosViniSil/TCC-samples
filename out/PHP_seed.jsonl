@@ -612,3 +612,4 @@
 {"id": 33345, "en": "The maximum number of persistent Postgres connections per process.", "pt": "O número máximo de conexões persistentes com PostgreSQL por processo."}
 {"id": 8122, "en": "Example 1. getdate() example", "pt": "Exemplo 1. getdate() exemplo"}
 {"id": 30906, "en": "What References Are Not", "pt": "O que as referências não são"}
+{"id": 30818, "en": "The syntax is as follows:", "pt": "A sintaxe é a seguinte:"}
