@@ -654,3 +654,6 @@
 {"id": 314, "en": "For more information, see Escaping from HTML.", "pt": "Para mais informações, veja Alternando do HTML."}
 {"id": 7857, "en": "Example 1. ftp_put() example", "pt": "Exemplo 1. ftp_put() example"}
 {"id": 7905, "en": "Example 1. ftp_set_option() example", "pt": "Exemplo 1. ftp_set_option() example"}
+{"id": 1977, "en": "Please read the section on Booleans for more information.", "pt": "Leia a seção em Booleanos para maiores informações."}
+{"id": 9100, "en": "For full entity translation, see htmlentities().", "pt": "Para completa realidade de conversões, veja htmlentities()."}
+{"id": 1720, "en": "See also array_pad(), list(), and range().", "pt": "Veja também array_pad(), list() e range()."}
