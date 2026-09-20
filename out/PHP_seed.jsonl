@@ -974,3 +974,4 @@
 {"id": 24767, "en": "The sizeof() function is an alias for count().", "pt": "A função sizeof() é um alias para count()."}
 {"id": 22633, "en": "Table 1. phpinfo() options", "pt": "Tabela 1. phpinfo() options"}
 {"id": 33905, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 17311, "en": "The above example would produce the following output:", "pt": "O exemplo acima deve produzir a seguinte saída:"}
