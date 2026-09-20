@@ -858,3 +858,4 @@
 {"id": 27784, "en": "If the file does not exist, it is created.", "pt": "Se o arquivo não existe, ele é criado."}
 {"id": 31393, "en": "You can set cookies using the setcookie() function.", "pt": "Você pode criar cookies com a função setcookie()."}
 {"id": 33452, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 30265, "en": "Functions are expressions with the value of their return value.", "pt": "Funções são expressões com o valor igual ao seu valor de retorno."}
