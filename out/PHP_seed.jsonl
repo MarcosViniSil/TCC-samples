@@ -951,3 +951,4 @@
 {"id": 19587, "en": "Table 1.", "pt": "Tabela 1."}
 {"id": 1564, "en": "See also getallheaders() and headers_sent().", "pt": "Veja também getallheaders() e headers_sent()."}
 {"id": 34117, "en": "In earlier versions, use $HTTP_COOKIE_VARS.", "pt": "Em versões anteriores, utilize $HTTP_COOKIE_VARS."}
+{"id": 25437, "en": "size in bytes", "pt": "tamanho em bytes"}
