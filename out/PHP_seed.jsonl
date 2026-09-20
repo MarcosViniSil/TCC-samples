@@ -968,3 +968,4 @@
 {"id": 22174, "en": "See also pg_convert()", "pt": "Veja também pg_convert()"}
 {"id": 17074, "en": "Example 1. mysql_insert_id Example", "pt": "Exemplo mysql_insert_id"}
 {"id": 15556, "en": "Example 1. money_format() Example", "pt": "Exemplo 1. money_format() Example"}
+{"id": 6043, "en": "$bar now contains the following key / value pairs:", "pt": "$bar agora contém os seguintes pares de chaves e valores:"}
