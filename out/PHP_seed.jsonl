@@ -871,3 +871,4 @@
 {"id": 14543, "en": "Example 1. mcrypt_list_algorithms() Example", "pt": "Exemplo 1. mcrypt_list_algorithms() Example"}
 {"id": 26666, "en": "This function is EXPERIMENTAL.", "pt": "Esta função é EXPERIMENTAL."}
 {"id": 33973, "en": "List of Reserved Words", "pt": "Palavras reservadas do PHP"}
+{"id": 7535, "en": "Example 1. sprintf(): zero-padded integers", "pt": "Exemplo 1. sprintf(): zero-padded integers"}
