@@ -942,3 +942,4 @@
 {"id": 28111, "en": "Example 1. unset() example", "pt": "Exemplo 1. unset() example"}
 {"id": 30668, "en": "PHP supports one execution operator: backticks (``).", "pt": "O PHP suporta um operador de execução: acentos graves (``)."}
 {"id": 7285, "en": "See also filectime(), stat(), touch(), and getlastmod().", "pt": "Veja também filectime() e touch()."}
+{"id": 16777, "en": "See also: mysql_errno()", "pt": "Veja também: mysql_errno()"}
