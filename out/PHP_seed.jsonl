@@ -934,3 +934,5 @@
 {"id": 18830, "en": "See also current(), end(), prev(), and reset().", "pt": "Veja também current(), end(), prev() e reset()."}
 {"id": 547, "en": "The following code fragment demonstrates this:", "pt": "O fragmento de código a seguir demonstra isso:"}
 {"id": 22563, "en": "For more information, refer to PostgreSQL manual.", "pt": "Para maiores informações vide o manual PostgreSQL."}
+{"id": 34103, "en": "In earlier versions, use $HTTP_ENV_VARS.", "pt": "Em versões anteriores, utilize $HTTP_ENV_VARS."}
+{"id": 18851, "en": "See also htmlspecialchars(), htmlentities(), wordwrap(), and str_replace().", "pt": "Veja também htmlspecialchars(), htmlentities() e wordwrap()."}
