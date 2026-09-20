@@ -810,3 +810,5 @@
 {"id": 17160, "en": "For downward compatibility mysql_numrows() can also be used.", "pt": "Para compatibilidade com versões anteriores mysql_numrows() também pode ser usada."}
 {"id": 22544, "en": "encoding is the client encoding and can be either:", "pt": "encoding é a codificação do cliente e pode ter os valores:"}
 {"id": 23944, "en": "See converting from strings.", "pt": "Veja convertendo de strings."}
+{"id": 31020, "en": "Both are case-insensitive.", "pt": "Ambas são insensitivas ao caso."}
+{"id": 28236, "en": "It performs an Apache sub-request.", "pt": "Ela realiza uma sub-requisição do Apache."}
