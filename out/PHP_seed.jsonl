@@ -889,3 +889,5 @@
 {"id": 279, "en": "Entry can be set anywhere", "pt": "Diretiva pode ser modificada em qualquer lugar"}
 {"id": 24427, "en": "Return values from other handlers are converted to boolean expression.", "pt": "Retorna valores de outros handlers que estejam convertidos para expressões booleanas."}
 {"id": 21836, "en": "It issues COPY FROM SQL command internally to insert records.", "pt": "Usa o comando interno COPY FROM para inserir registros."}
+{"id": 23960, "en": "The fruits have been sorted in reverse alphabetical order.", "pt": "As frutas foram ordenadas em ordem alfabética decrescente."}
+{"id": 2434, "en": "The conversion is done byte-wise with the high-nibble first.", "pt": "A conversão é feita byte-wise com o high-nibble primeiro."}
