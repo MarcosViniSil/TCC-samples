@@ -984,3 +984,5 @@
 {"id": 24526, "en": "Example 1. setlocale() Examples", "pt": "Exemplo 1. setlocale() Examples"}
 {"id": 7421, "en": "Check your operating system documentation for more details.", "pt": "Verifique a documentação do seu sistema operacional para mais detalhes."}
 {"id": 22583, "en": "It returns unescaped string (binary).", "pt": "Retorna a string em binário( binary)."}
+{"id": 9102, "en": "The third argument defines character set used in conversion.", "pt": "O terceiro argumento define o conjunto de caracteres usados na conversão."}
+{"id": 8282, "en": "Home", "pt": "Principal"}
