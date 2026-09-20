@@ -971,3 +971,4 @@
 {"id": 6043, "en": "$bar now contains the following key / value pairs:", "pt": "$bar agora contém os seguintes pares de chaves e valores:"}
 {"id": 21848, "en": "It issues COPY TO SQL command internally to insert records.", "pt": "Utiliza internamente o comando SQL COPY TO para inserir os registros."}
 {"id": 22081, "en": "Row numbering starts at 0.", "pt": "A numeração de linha inicia-se em 0."}
+{"id": 24767, "en": "The sizeof() function is an alias for count().", "pt": "A função sizeof() é um alias para count()."}
