@@ -941,3 +941,4 @@
 {"id": 7139, "en": "Reading a file line by line", "pt": "Lendo um arquivo linha a linha"}
 {"id": 28111, "en": "Example 1. unset() example", "pt": "Exemplo 1. unset() example"}
 {"id": 30668, "en": "PHP supports one execution operator: backticks (``).", "pt": "O PHP suporta um operador de execução: acentos graves (``)."}
+{"id": 7285, "en": "See also filectime(), stat(), touch(), and getlastmod().", "pt": "Veja também filectime() e touch()."}
