@@ -972,3 +972,4 @@
 {"id": 21848, "en": "It issues COPY TO SQL command internally to insert records.", "pt": "Utiliza internamente o comando SQL COPY TO para inserir os registros."}
 {"id": 22081, "en": "Row numbering starts at 0.", "pt": "A numeração de linha inicia-se em 0."}
 {"id": 24767, "en": "The sizeof() function is an alias for count().", "pt": "A função sizeof() é um alias para count()."}
+{"id": 22633, "en": "Table 1. phpinfo() options", "pt": "Tabela 1. phpinfo() options"}
