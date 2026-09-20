@@ -849,3 +849,4 @@
 {"id": 34155, "en": "$HTTP_POST_FILES contains the same information, but is not an autoglobal.", "pt": "$HTTP_POST_FILES contém as mesmas informações, mas não é uma superglobal."}
 {"id": 16393, "en": "This type of links is therefore called 'persistent'.", "pt": "Este tipo de conexão é chamado 'Persistente'."}
 {"id": 34161, "en": "There is no equivalent array in earlier versions.", "pt": "Não há array equivalente em versões anteriores."}
+{"id": 23875, "en": "reset() returns the value of the first array element.", "pt": "reset() retorna o valor do primeiro elemento do array."}
