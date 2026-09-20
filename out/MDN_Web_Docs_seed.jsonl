@@ -891,3 +891,4 @@
 {"id": 7529, "en": "<button>Change user</button> ", "pt": "<button>Alterar usuário</button> "}
 {"id": 9062, "en": "Setting the primary language of the document ", "pt": "Definir o idioma principal do documento "}
 {"id": 426, "en": "2D collision detection ", "pt": "Detecção de colisão 2D "}
+{"id": 21, "en": "It might even loop based on something else entirely. ", "pt": "Ele pode até mesmo ter um ciclo baseado em algo totalmente diferente. "}
