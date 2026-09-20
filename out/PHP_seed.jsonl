@@ -930,3 +930,5 @@
 {"id": 6325, "en": "It can be one of the following values:", "pt": "Esse argumento pode receber os seguintes valores:"}
 {"id": 1272, "en": "You do not have to listen to this client.", "pt": "Você não tem que ouvir o cliente."}
 {"id": 12800, "en": "This example would display:", "pt": "O programa acima mostraria:"}
+{"id": 31409, "en": "For the reason, look at it:", "pt": "Para ilustrar, veja o seguinte exemplo:"}
+{"id": 18830, "en": "See also current(), end(), prev(), and reset().", "pt": "Veja também current(), end(), prev() e reset()."}
