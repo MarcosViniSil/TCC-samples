@@ -823,3 +823,4 @@
 {"id": 777, "en": "File name and line number where the error occurred.", "pt": "Arquivo e número da linha onde ocorreu o erro."}
 {"id": 8052, "en": "Returns FALSE if obj is not an object.", "pt": "Retorna FALSE se obj não é um objeto."}
 {"id": 29579, "en": "Publications about PHP", "pt": "Publicações sobre PHP"}
+{"id": 620, "en": "for loops are the most complex loops in PHP.", "pt": "Loops for são os laços mais complexos em PHP."}
