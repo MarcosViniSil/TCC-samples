@@ -923,3 +923,4 @@
 {"id": 2146, "en": "a = orange d = lemon b = banana c = apple", "pt": "c = melancia d = limao a = laranja b = banana"}
 {"id": 2321, "en": "Example 1. basename() example", "pt": "Exemplo 1. exemplo do basename()"}
 {"id": 396, "en": "Here is a short explanation of the configuration directives.", "pt": "Descrição resumida das diretivas de configuração."}
+{"id": 33873, "en": "No external libraries are needed to build this extension.", "pt": "Nenhuma biblioteca externa é necessária para compilar esta extensão."}
