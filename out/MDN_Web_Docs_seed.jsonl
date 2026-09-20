@@ -850,3 +850,5 @@
 {"id": 11919, "en": "Note: You’ll learn a lot more about functions later in the course. ", "pt": "Nota: Você irá aprender muito mais sobre funções mais tarde no curso. "}
 {"id": 6453, "en": "In this case, the browser sends an empty body. ", "pt": "Nesse caso, o navegador envia um corpo vazio. "}
 {"id": 10028, "en": "fulfilled: the asynchronous function has succeeded. ", "pt": "fulfilled: a função assíncrona foi concluída com sucesso. "}
+{"id": 8674, "en": "Active learning: Adding attributes to an element ", "pt": "Aprendizado ativo: Adicionando atributos a um elemento "}
+{"id": 1453, "en": "DELETE /idX/delete HTTP/1.1 -> Returns 404 ", "pt": "DELETE /idX/delete HTTP/1.1 -> Retorna 404 "}
