@@ -932,3 +932,5 @@
 {"id": 12800, "en": "This example would display:", "pt": "O programa acima mostraria:"}
 {"id": 31409, "en": "For the reason, look at it:", "pt": "Para ilustrar, veja o seguinte exemplo:"}
 {"id": 18830, "en": "See also current(), end(), prev(), and reset().", "pt": "Veja também current(), end(), prev() e reset()."}
+{"id": 547, "en": "The following code fragment demonstrates this:", "pt": "O fragmento de código a seguir demonstra isso:"}
+{"id": 22563, "en": "For more information, refer to PostgreSQL manual.", "pt": "Para maiores informações vide o manual PostgreSQL."}
