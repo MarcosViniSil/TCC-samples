@@ -886,3 +886,6 @@
 {"id": 21790, "en": "If it is busy, a previous query is still executing.", "pt": "Se estiver ocupada, significa que uma consulta (query) anterior ainda está sendo executada."}
 {"id": 6301, "en": "Home", "pt": "Principal"}
 {"id": 23419, "en": "Example 1. pspell_add_to_personal()", "pt": "Exemplo 1. pspell_add_to_personal()"}
+{"id": 279, "en": "Entry can be set anywhere", "pt": "Diretiva pode ser modificada em qualquer lugar"}
+{"id": 24427, "en": "Return values from other handlers are converted to boolean expression.", "pt": "Retorna valores de outros handlers que estejam convertidos para expressões booleanas."}
+{"id": 21836, "en": "It issues COPY FROM SQL command internally to insert records.", "pt": "Usa o comando interno COPY FROM para inserir registros."}
