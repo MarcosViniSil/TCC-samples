@@ -956,3 +956,5 @@
 {"id": 20670, "en": "Using parse_str()", "pt": "Usando parse_str()"}
 {"id": 17342, "en": "For more information see:", "pt": "Para mais informações veja:"}
 {"id": 20716, "en": "Returns the termination status of the process that was run.", "pt": "Retorna o status da finalização do processo que estava rodando."}
+{"id": 7646, "en": "See clearstatcache() for more details.", "pt": "Veja clearstatcache() para mais detalhes."}
+{"id": 6332, "en": "This flag was added in PHP 4.0.5.", "pt": "Essa opção foi adicionada no PHP 4.0.5."}
