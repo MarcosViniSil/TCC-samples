@@ -955,3 +955,4 @@
 {"id": 5046, "en": "Example 1. debug_backtrace() example", "pt": "Exemplo 1. debug_backtrace() example"}
 {"id": 20670, "en": "Using parse_str()", "pt": "Usando parse_str()"}
 {"id": 17342, "en": "For more information see:", "pt": "Para mais informações veja:"}
+{"id": 20716, "en": "Returns the termination status of the process that was run.", "pt": "Retorna o status da finalização do processo que estava rodando."}
