@@ -875,3 +875,4 @@
 {"id": 1905, "en": "See also array_push(), array_shift(), and array_unshift().", "pt": "Veja também array_push(), array_shift(), e array_unshift()."}
 {"id": 30284, "en": "These are increment and decrement operators.", "pt": "Estes são os operadores de incremento e decremento."}
 {"id": 32514, "en": "This extension has no resource types defined.", "pt": "Esta extensão não possui nenhum tipo resource."}
+{"id": 21748, "en": "Supported encoding depends on PostgreSQL version.", "pt": "As codificações suportadas dependem da versão do PostgreSQL."}
