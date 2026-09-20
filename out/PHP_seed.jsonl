@@ -917,3 +917,6 @@
 {"id": 4351, "en": "Date and Time functions", "pt": "Funções data e hora"}
 {"id": 22505, "en": "See also pg_connection_status().", "pt": "Veja também pg_connection_status()."}
 {"id": 16202, "en": "This function is currently not documented; only the argument list is available.", "pt": "Esta função não está documentada, somente a lista de argumentos está disponível."}
+{"id": 33697, "en": "This extension has no resource types defined.", "pt": "Esta extensão não possui nenhum tipo resource."}
+{"id": 26381, "en": "Example 1. swfdisplayitem - setname() example", "pt": "Exemplo 1. swfdisplayitem - setname() example"}
+{"id": 24574, "en": "The hash is a 40-character hexadecimal number.", "pt": "A hash é um número hexadecimal de 40 caracteres."}
