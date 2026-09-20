@@ -986,3 +986,4 @@
 {"id": 22583, "en": "It returns unescaped string (binary).", "pt": "Retorna a string em binário( binary)."}
 {"id": 9102, "en": "The third argument defines character set used in conversion.", "pt": "O terceiro argumento define o conjunto de caracteres usados na conversão."}
 {"id": 8282, "en": "Home", "pt": "Principal"}
+{"id": 30518, "en": "Quotient of $a and $b.", "pt": "Quociente de $a por $b."}
