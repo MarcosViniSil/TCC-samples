@@ -990,3 +990,5 @@
 {"id": 621, "en": "They behave like their C counterparts.", "pt": "Eles se comportam como os seus compatíveis em C."}
 {"id": 1822, "en": "Don 't forget that numeric keys will be renumbered!", "pt": "Não esqueça que as chaves numéricas serão reordenadas!"}
 {"id": 228, "en": "Three methods are available: read, rewind and close.", "pt": "Três métodos disponibilizados são: read, rewind e close."}
+{"id": 2254, "en": "See also acos() and atan().", "pt": "Veja também acos() e atan()."}
+{"id": 31140, "en": "The null type was introduced in PHP 4", "pt": "O tipo NULL foi incluído no PHP 4"}
