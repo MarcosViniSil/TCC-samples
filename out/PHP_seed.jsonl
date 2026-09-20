@@ -824,3 +824,4 @@
 {"id": 8052, "en": "Returns FALSE if obj is not an object.", "pt": "Retorna FALSE se obj não é um objeto."}
 {"id": 29579, "en": "Publications about PHP", "pt": "Publicações sobre PHP"}
 {"id": 620, "en": "for loops are the most complex loops in PHP.", "pt": "Loops for são os laços mais complexos em PHP."}
+{"id": 21904, "en": "See also pg_escape_string()", "pt": "Veja também pg_escape_string()"}
