@@ -944,3 +944,5 @@
 {"id": 7285, "en": "See also filectime(), stat(), touch(), and getlastmod().", "pt": "Veja também filectime() e touch()."}
 {"id": 16777, "en": "See also: mysql_errno()", "pt": "Veja também: mysql_errno()"}
 {"id": 5240, "en": "In other environments, it is the forward slash (/).", "pt": "Em outros ambientes é utilizado a barra (/)."}
+{"id": 16661, "en": "MySQL create database example", "pt": "Exemplo MySQL create database"}
+{"id": 16360, "en": "Example 1. mssql_next_result() example", "pt": "Exemplo mssql_next_result()"}
