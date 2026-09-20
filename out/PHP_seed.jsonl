@@ -799,3 +799,5 @@
 {"id": 32767, "en": "This extension has no resource types defined.", "pt": "Esta extensão não possui nenhum tipo resource."}
 {"id": 30275, "en": "Consider the example we' ve already dealt with, '$a = 5 '.", "pt": "Considere o exemplo com o qual já lidamos, '$a = 5'."}
 {"id": 12111, "en": "Example 1. ingres_query() example", "pt": "Exemplo 1. ingres_query() example"}
+{"id": 16926, "en": "This is deprecated, however.", "pt": "Esta função está depreciada."}
+{"id": 30261, "en": "If everything works right, this is exactly what will happen.", "pt": "Se tudo funcionou bem, isto é exatamente o que acontecerá."}
