@@ -910,3 +910,5 @@
 {"id": 650, "en": "Statements usually end with a semicolon.", "pt": "Instruções geralmente terminam com um ponto e vírgula."}
 {"id": 24019, "en": "Making a bowl of acidophilus raspberry.", "pt": "Número variável de argumentos"}
 {"id": 21901, "en": "User must cast to bytea to avoid this error.", "pt": "O usuário deve fazer a coerção (cast) para bytea para evitar este erro."}
+{"id": 13417, "en": "Usage example of ltrim()", "pt": "Exemplo do uso de ltrim()"}
+{"id": 11912, "en": "Example 12-9. include_once() is case sensitive", "pt": "Exemplo 12-9. include_once() é sensitivo ao caso"}
