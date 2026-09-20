@@ -805,3 +805,5 @@
 {"id": 1718, "en": "will display:", "pt": "vai mostrar:"}
 {"id": 623, "en": "for (expr1; expr2; expr3) statement", "pt": "for (expr1; expr2; expr3) instrucoes"}
 {"id": 1635, "en": "Note that keys are preserved.", "pt": "Note que as chaves são preservadas."}
+{"id": 2388, "en": "See also bcpowmod(), and bcsqrt().", "pt": "Veja também bcsqrt()."}
+{"id": 33666, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
