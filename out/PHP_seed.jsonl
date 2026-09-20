@@ -979,3 +979,5 @@
 {"id": 24368, "en": "This registers a global variable.", "pt": "Esta registra uma variável global."}
 {"id": 30677, "en": "Error Control Operators", "pt": "Operadores de controle de erro"}
 {"id": 32428, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
+{"id": 32733, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extensão não possui nenhum tipo resource."}
+{"id": 24426, "en": "Return empty string if there is no data to read.", "pt": "Retorna uma string vazia se não existe dados para ler."}
