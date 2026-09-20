@@ -964,3 +964,4 @@
 {"id": 33339, "en": "PostgreSQL configuration options", "pt": "Opções de configuração do PostgreSQL"}
 {"id": 1780, "en": "See also array_values().", "pt": "Veja também array_values()."}
 {"id": 16224, "en": "The properties of the object are:", "pt": "As propriedades do objeto são:"}
+{"id": 7239, "en": "See clearstatcache() for more details.", "pt": "Veja clearstatcache() para mais detalhes."}
