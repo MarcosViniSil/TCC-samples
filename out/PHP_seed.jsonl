@@ -992,3 +992,5 @@
 {"id": 228, "en": "Three methods are available: read, rewind and close.", "pt": "Três métodos disponibilizados são: read, rewind e close."}
 {"id": 2254, "en": "See also acos() and atan().", "pt": "Veja também acos() e atan()."}
 {"id": 31140, "en": "The null type was introduced in PHP 4", "pt": "O tipo NULL foi incluído no PHP 4"}
+{"id": 21722, "en": "This function used to be called pg_cmdtuples().", "pt": "Esta função costumava ser chamada de pg_cmdtuples()."}
+{"id": 22069, "en": "This function will return -1 on error.", "pt": "Esta função retornará -1 em caso de erro."}
