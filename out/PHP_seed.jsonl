@@ -855,3 +855,4 @@
 {"id": 30019, "en": "With PHP you are not limited to output HTML.", "pt": "Com PHP você não está limitado a gerar somente HTML."}
 {"id": 22249, "en": "This function used to be called pg_locreate().", "pt": "Esta função era chamada pg_locreate()."}
 {"id": 31348, "en": "Pseudo-types used in this documentation", "pt": "Pseudo-tipos utilizados nesta documentação"}
+{"id": 27784, "en": "If the file does not exist, it is created.", "pt": "Se o arquivo não existe, ele é criado."}
