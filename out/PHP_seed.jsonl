@@ -820,3 +820,6 @@
 {"id": 16756, "en": "If not, the last opened link is used.", "pt": "Se não, a ultima conexão aberta é usada."}
 {"id": 31905, "en": "turns PHP parsing on or off", "pt": "liga ou desliga a interpretação pelo PHP"}
 {"id": 1277, "en": "Uploading multiple files", "pt": "Carregando múltiplos arquivos"}
+{"id": 777, "en": "File name and line number where the error occurred.", "pt": "Arquivo e número da linha onde ocorreu o erro."}
+{"id": 8052, "en": "Returns FALSE if obj is not an object.", "pt": "Retorna FALSE se obj não é um objeto."}
+{"id": 29579, "en": "Publications about PHP", "pt": "Publicações sobre PHP"}
