@@ -797,3 +797,5 @@
 {"id": 22208, "en": "See also pg_query() and pg_last_error().", "pt": "Veja também pg_query() e pg_last_error()."}
 {"id": 30622, "en": "TRUE if $a is strictly less than $b.", "pt": "Verdadeiro se $a é estritamente menor que $b."}
 {"id": 32767, "en": "This extension has no resource types defined.", "pt": "Esta extensão não possui nenhum tipo resource."}
+{"id": 30275, "en": "Consider the example we' ve already dealt with, '$a = 5 '.", "pt": "Considere o exemplo com o qual já lidamos, '$a = 5'."}
+{"id": 12111, "en": "Example 1. ingres_query() example", "pt": "Exemplo 1. ingres_query() example"}
