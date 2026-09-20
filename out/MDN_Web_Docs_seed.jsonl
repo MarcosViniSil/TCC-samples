@@ -858,3 +858,7 @@
 {"id": 8608, "en": "Live output ", "pt": "Saída ao vivo "}
 {"id": 7661, "en": "What is a web server ", "pt": "O que é um servidor web "}
 {"id": 2445, "en": "My 2nd subheading ", "pt": "Meu segundo sub-título "}
+{"id": 11891, "en": "In our example: ", "pt": "No nosso exemplo: "}
+{"id": 6841, "en": "It looks something like this: ", "pt": "Será algo parecido com isto: "}
+{"id": 7288, "en": "You should see something like this: ", "pt": "Você deve ver algo assim: "}
+{"id": 1000, "en": "Document.doctype, a JavaScript method that returns the doctype ", "pt": "Document.doctype, um método JavaScript que retorna o doctype "}
