@@ -896,3 +896,7 @@
 {"id": 30932, "en": "You cannot use arrays or objects as keys.", "pt": "Você não pode usar arrays ou objetos como chaves."}
 {"id": 31524, "en": "The above script will output \"3\".", "pt": "O script acima imprimirá \"3\"."}
 {"id": 31018, "en": "The boolean type was introduced in PHP 4.", "pt": "O tipo booleano foi introduzido no PHP 4."}
+{"id": 7188, "en": "The time is returned as a Unix timestamp.", "pt": "O tempo é retornado como um timestamp Unix."}
+{"id": 32500, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 5234, "en": "Directory functions", "pt": "Diretórios"}
+{"id": 12818, "en": "Next", "pt": "Próxima"}
