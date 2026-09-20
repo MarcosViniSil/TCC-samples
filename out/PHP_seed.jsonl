@@ -818,3 +818,4 @@
 {"id": 27498, "en": "sybase_connect() establishes a connection to a Sybase server.", "pt": "sybase_connect() estabelece uma conexão com um servidor Sybase."}
 {"id": 33265, "en": "No external libraries are needed to build this extension.", "pt": "Nenhuma biblioteca externa é necessária para compilar esta extensão."}
 {"id": 16756, "en": "If not, the last opened link is used.", "pt": "Se não, a ultima conexão aberta é usada."}
+{"id": 31905, "en": "turns PHP parsing on or off", "pt": "liga ou desliga a interpretação pelo PHP"}
