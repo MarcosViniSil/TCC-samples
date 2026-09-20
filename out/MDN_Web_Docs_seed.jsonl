@@ -854,3 +854,6 @@
 {"id": 1453, "en": "DELETE /idX/delete HTTP/1.1 -> Returns 404 ", "pt": "DELETE /idX/delete HTTP/1.1 -> Retorna 404 "}
 {"id": 9891, "en": "Promises are the foundation of asynchronous programming in modern JavaScript. ", "pt": "Promises são a base da programação assíncrona moderna em JavaScript. "}
 {"id": 11093, "en": "Your JavaScript needs to: ", "pt": "Seu JavaScript precisa: "}
+{"id": 11834, "en": "The more you code, the better you’ll get at it. ", "pt": "Quanto mais você programa, melhor programador se torna. "}
+{"id": 8608, "en": "Live output ", "pt": "Saída ao vivo "}
+{"id": 7661, "en": "What is a web server ", "pt": "O que é um servidor web "}
