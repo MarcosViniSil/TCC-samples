@@ -863,3 +863,5 @@
 {"id": 33320, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
 {"id": 17183, "en": "This type of link is therefore called 'persistent'.", "pt": "Este tipo de conexão é portanto chamada 'persistente'."}
 {"id": 10893, "en": "PHP Manual", "pt": "Manual do PHP"}
+{"id": 20032, "en": "If successful the opened data is returned in open_data.", "pt": "Retorna TRUE em caso de sucesso ou FALSE em falhas."}
+{"id": 1744, "en": "In words: when the string representation is the same.", "pt": "Em palavras: quando a representação em string é a mesma."}
