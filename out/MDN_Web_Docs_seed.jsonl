@@ -823,3 +823,5 @@
 {"id": 9452, "en": "A really simple example looks like this: ", "pt": "Um exemplo realmente simples é assim: "}
 {"id": 11216, "en": "Only one number has to change. ", "pt": "Apenas um número tem que mudar. "}
 {"id": 50, "en": "Of course this loop is not perfect. ", "pt": "É claro que esse loop não é perfeito. "}
+{"id": 12448, "en": "Your post should include: ", "pt": "Seu post deve incluir: "}
+{"id": 9903, "en": "Using the fetch() API ", "pt": "Usando a API fetch() "}
