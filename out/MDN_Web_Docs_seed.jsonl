@@ -922,3 +922,6 @@
 {"id": 2777, "en": "Open Google Cloud Shell. ", "pt": "Abra o Google Cloud Shell. "}
 {"id": 6601, "en": "Let’s make a rough sketch. ", "pt": "Vamos fazer um esboço. "}
 {"id": 10985, "en": "Or every time we manipulated an array: ", "pt": "Ou toda vez que manipulamos uma lista: "}
+{"id": 3454, "en": "It selects the second and third list items. ", "pt": "Ele seleciona o segundo e o terceiro itens da lista. "}
+{"id": 6284, "en": "<label for=\"size_1\">Small</label> ", "pt": "<label for=\"size_1\">Small</label> "}
+{"id": 10666, "en": "The user resizes or closes the browser window. ", "pt": "O usuário redimensionando ou fechando a janela do navegador. "}
