@@ -904,3 +904,4 @@
 {"id": 2190, "en": "This example would display:", "pt": "A saída desse programa seria:"}
 {"id": 34139, "en": "In earlier versions, use $HTTP_POST_VARS.", "pt": "Em versões anteriores, use $HTTP_POST_VARS."}
 {"id": 17340, "en": "natcasesort() is a case insensitive version of natsort().", "pt": "natcasesort() é uma versão de natsort() que não diferencia letras maiúsculas e minúsculas."}
+{"id": 12418, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
