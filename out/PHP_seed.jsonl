@@ -893,3 +893,4 @@
 {"id": 2434, "en": "The conversion is done byte-wise with the high-nibble first.", "pt": "A conversão é feita byte-wise com o high-nibble primeiro."}
 {"id": 33366, "en": "A table is shown below describing these new connection possibilities.", "pt": "Uma tabela é mostrada abaixo descrevendo essas novas possibilidades de conexão."}
 {"id": 13322, "en": "Example 1. localeconv() example", "pt": "Exemplo 1. localeconv() exemplo"}
+{"id": 30932, "en": "You cannot use arrays or objects as keys.", "pt": "Você não pode usar arrays ou objetos como chaves."}
