@@ -877,3 +877,4 @@
 {"id": 32514, "en": "This extension has no resource types defined.", "pt": "Esta extensão não possui nenhum tipo resource."}
 {"id": 21748, "en": "Supported encoding depends on PostgreSQL version.", "pt": "As codificações suportadas dependem da versão do PostgreSQL."}
 {"id": 16403, "en": "mssql_query() sends a query to the currently active database on the server that's associated with the specified link identifier.", "pt": "mssql_query() envia uma query para o banco de dados atual no servidor que esta associado a conexão especificada em link_identifier."}
+{"id": 32035, "en": "Example 2. test_script.php", "pt": "Exemplo 2. test_script.php"}
