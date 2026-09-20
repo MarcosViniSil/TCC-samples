@@ -906,3 +906,4 @@
 {"id": 17340, "en": "natcasesort() is a case insensitive version of natsort().", "pt": "natcasesort() é uma versão de natsort() que não diferencia letras maiúsculas e minúsculas."}
 {"id": 12418, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
 {"id": 30308, "en": "$first? $second: $third", "pt": "$primeira? $segunda: $terceira"}
+{"id": 16720, "en": "Use mysql_select_db() and mysql_query() instead.", "pt": "Ao invés utilize mysql_select_db() e mysql_query()."}
