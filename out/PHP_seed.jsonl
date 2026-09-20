@@ -840,3 +840,5 @@
 {"id": 34900, "en": "Example 27-1.", "pt": "Exemplo 27-1."}
 {"id": 6738, "en": "Example 1. fbsql_read_clob() example", "pt": "Exemplo 1. fbsql_read_clob() example"}
 {"id": 6346, "en": "Example 1. extract() example", "pt": "Exemplo de extract()"}
+{"id": 30846, "en": "Passing by Reference", "pt": "Passagem por referência"}
+{"id": 17386, "en": "This function is currently not documented; only the argument list is available.", "pt": "Esta função não está documentada, somente a lista de argumentos está disponível."}
