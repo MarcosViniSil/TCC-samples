@@ -828,3 +828,6 @@
 {"id": 22072, "en": "See also pg_field_name().", "pt": "Veja também pg_field_name()."}
 {"id": 33997, "en": "Appendix G.", "pt": "Apêndice G."}
 {"id": 16453, "en": "See also mt_rand(), mt_srand() and getrandmax().", "pt": "Veja também mt_rand(), mt_srand() e getrandmax()."}
+{"id": 33467, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 9012, "en": "Creating a source highlighting URL", "pt": "Criando uma URL para destaque da sintaxe"}
+{"id": 32397, "en": "Default timeout (in seconds) for socket based streams.", "pt": "Timeout padrão (em segundos) para streams baseados em socket."}
