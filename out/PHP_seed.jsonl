@@ -885,3 +885,4 @@
 {"id": 2512, "en": "See also bzerror() and bzerrstr().", "pt": "Veja também bzerror() e bzerrstr()."}
 {"id": 21790, "en": "If it is busy, a previous query is still executing.", "pt": "Se estiver ocupada, significa que uma consulta (query) anterior ainda está sendo executada."}
 {"id": 6301, "en": "Home", "pt": "Principal"}
+{"id": 23419, "en": "Example 1. pspell_add_to_personal()", "pt": "Exemplo 1. pspell_add_to_personal()"}
