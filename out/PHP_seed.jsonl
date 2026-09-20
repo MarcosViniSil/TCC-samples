@@ -807,3 +807,4 @@
 {"id": 1635, "en": "Note that keys are preserved.", "pt": "Note que as chaves são preservadas."}
 {"id": 2388, "en": "See also bcpowmod(), and bcsqrt().", "pt": "Veja também bcsqrt()."}
 {"id": 33666, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
+{"id": 17160, "en": "For downward compatibility mysql_numrows() can also be used.", "pt": "Para compatibilidade com versões anteriores mysql_numrows() também pode ser usada."}
