@@ -997,3 +997,4 @@
 {"id": 13338, "en": "\"tm_min\" - minutes", "pt": "\"tm_min\" - minutos"}
 {"id": 32442, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
 {"id": 25715, "en": "Returns the length of string.", "pt": "Retorna o tamanho de string."}
+{"id": 2320, "en": "In other environments, it is the forward slash (/).", "pt": "Em outros ambientes, somente a barra (/)."}
