@@ -947,3 +947,6 @@
 {"id": 16661, "en": "MySQL create database example", "pt": "Exemplo MySQL create database"}
 {"id": 16360, "en": "Example 1. mssql_next_result() example", "pt": "Exemplo mssql_next_result()"}
 {"id": 2635, "en": "Class / Object Functions", "pt": "Classes e Objetos"}
+{"id": 32441, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
+{"id": 19587, "en": "Table 1.", "pt": "Tabela 1."}
+{"id": 1564, "en": "See also getallheaders() and headers_sent().", "pt": "Veja também getallheaders() e headers_sent()."}
