@@ -837,3 +837,5 @@
 {"id": 2129, "en": "Example 1. array_walk() example", "pt": "Exemplo de array_walk()"}
 {"id": 1915, "en": "Has the same effect as:", "pt": "Tem o mesmo efeito de:"}
 {"id": 1979, "en": "See also array_keys() and in_array().", "pt": "Veja também array_keys() e in_array()."}
+{"id": 34900, "en": "Example 27-1.", "pt": "Exemplo 27-1."}
+{"id": 6738, "en": "Example 1. fbsql_read_clob() example", "pt": "Exemplo 1. fbsql_read_clob() example"}
