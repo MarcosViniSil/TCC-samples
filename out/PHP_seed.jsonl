@@ -812,3 +812,4 @@
 {"id": 23944, "en": "See converting from strings.", "pt": "Veja convertendo de strings."}
 {"id": 31020, "en": "Both are case-insensitive.", "pt": "Ambas são insensitivas ao caso."}
 {"id": 28236, "en": "It performs an Apache sub-request.", "pt": "Ela realiza uma sub-requisição do Apache."}
+{"id": 30624, "en": "TRUE if $a is strictly greater than $b.", "pt": "Verdadeiro se $a é estritamente maior que $b."}
