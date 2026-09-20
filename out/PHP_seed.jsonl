@@ -827,3 +827,4 @@
 {"id": 21904, "en": "See also pg_escape_string()", "pt": "Veja também pg_escape_string()"}
 {"id": 22072, "en": "See also pg_field_name().", "pt": "Veja também pg_field_name()."}
 {"id": 33997, "en": "Appendix G.", "pt": "Apêndice G."}
+{"id": 16453, "en": "See also mt_rand(), mt_srand() and getrandmax().", "pt": "Veja também mt_rand(), mt_srand() e getrandmax()."}
