@@ -836,3 +836,4 @@
 {"id": 33232, "en": "Some simple examples on using the overload() function:", "pt": "Alguns exemplos simples da utilização da função overload():"}
 {"id": 2129, "en": "Example 1. array_walk() example", "pt": "Exemplo de array_walk()"}
 {"id": 1915, "en": "Has the same effect as:", "pt": "Tem o mesmo efeito de:"}
+{"id": 1979, "en": "See also array_keys() and in_array().", "pt": "Veja também array_keys() e in_array()."}
