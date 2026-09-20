@@ -978,3 +978,4 @@
 {"id": 2064, "en": "Example 1. array_unique() example", "pt": "Exemplo de array_unique()"}
 {"id": 24368, "en": "This registers a global variable.", "pt": "Esta registra uma variável global."}
 {"id": 30677, "en": "Error Control Operators", "pt": "Operadores de controle de erro"}
+{"id": 32428, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extenção não define nenhum parâmetro de configuração no php.ini."}
