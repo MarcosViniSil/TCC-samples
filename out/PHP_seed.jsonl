@@ -882,3 +882,4 @@
 {"id": 31143, "en": "it has not been set to any value yet.", "pt": "ela ainda não recebeu nenhum valor ainda."}
 {"id": 17272, "en": "See also: mysql_connect(), mysql_pconnect(), and mysql_query().", "pt": "Veja também: mysql_connect(), mysql_pconnect(), e mysql_query()."}
 {"id": 30178, "en": "Language Reference", "pt": "Referência da Linguagem"}
+{"id": 2512, "en": "See also bzerror() and bzerrstr().", "pt": "Veja também bzerror() e bzerrstr()."}
