@@ -903,3 +903,4 @@
 {"id": 22045, "en": "Row numbering starts at 0.", "pt": "A numeração de linhas inicia-se em 0."}
 {"id": 2190, "en": "This example would display:", "pt": "A saída desse programa seria:"}
 {"id": 34139, "en": "In earlier versions, use $HTTP_POST_VARS.", "pt": "Em versões anteriores, use $HTTP_POST_VARS."}
+{"id": 17340, "en": "natcasesort() is a case insensitive version of natsort().", "pt": "natcasesort() é uma versão de natsort() que não diferencia letras maiúsculas e minúsculas."}
