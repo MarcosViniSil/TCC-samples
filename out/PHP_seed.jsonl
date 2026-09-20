@@ -891,3 +891,4 @@
 {"id": 21836, "en": "It issues COPY FROM SQL command internally to insert records.", "pt": "Usa o comando interno COPY FROM para inserir registros."}
 {"id": 23960, "en": "The fruits have been sorted in reverse alphabetical order.", "pt": "As frutas foram ordenadas em ordem alfabética decrescente."}
 {"id": 2434, "en": "The conversion is done byte-wise with the high-nibble first.", "pt": "A conversão é feita byte-wise com o high-nibble primeiro."}
+{"id": 33366, "en": "A table is shown below describing these new connection possibilities.", "pt": "Uma tabela é mostrada abaixo descrevendo essas novas possibilidades de conexão."}
