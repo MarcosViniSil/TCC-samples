@@ -852,3 +852,5 @@
 {"id": 10028, "en": "fulfilled: the asynchronous function has succeeded. ", "pt": "fulfilled: a função assíncrona foi concluída com sucesso. "}
 {"id": 8674, "en": "Active learning: Adding attributes to an element ", "pt": "Aprendizado ativo: Adicionando atributos a um elemento "}
 {"id": 1453, "en": "DELETE /idX/delete HTTP/1.1 -> Returns 404 ", "pt": "DELETE /idX/delete HTTP/1.1 -> Retorna 404 "}
+{"id": 9891, "en": "Promises are the foundation of asynchronous programming in modern JavaScript. ", "pt": "Promises são a base da programação assíncrona moderna em JavaScript. "}
+{"id": 11093, "en": "Your JavaScript needs to: ", "pt": "Seu JavaScript precisa: "}
