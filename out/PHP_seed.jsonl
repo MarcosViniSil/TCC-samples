@@ -920,3 +920,4 @@
 {"id": 33697, "en": "This extension has no resource types defined.", "pt": "Esta extensão não possui nenhum tipo resource."}
 {"id": 26381, "en": "Example 1. swfdisplayitem - setname() example", "pt": "Exemplo 1. swfdisplayitem - setname() example"}
 {"id": 24574, "en": "The hash is a 40-character hexadecimal number.", "pt": "A hash é um número hexadecimal de 40 caracteres."}
+{"id": 2146, "en": "a = orange d = lemon b = banana c = apple", "pt": "c = melancia d = limao a = laranja b = banana"}
