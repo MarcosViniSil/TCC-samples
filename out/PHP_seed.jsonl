@@ -913,3 +913,7 @@
 {"id": 13417, "en": "Usage example of ltrim()", "pt": "Exemplo do uso de ltrim()"}
 {"id": 11912, "en": "Example 12-9. include_once() is case sensitive", "pt": "Exemplo 12-9. include_once() é sensitivo ao caso"}
 {"id": 13314, "en": "The sign string succeeds the quantity and currency_symbol", "pt": "A string sinal sucede a quantidade e o simbolo da moeda"}
+{"id": 22094, "en": "Field numbering starts at 0.", "pt": "A numeração de campo inicia-se em 0."}
+{"id": 4351, "en": "Date and Time functions", "pt": "Funções data e hora"}
+{"id": 22505, "en": "See also pg_connection_status().", "pt": "Veja também pg_connection_status()."}
+{"id": 16202, "en": "This function is currently not documented; only the argument list is available.", "pt": "Esta função não está documentada, somente a lista de argumentos está disponível."}
