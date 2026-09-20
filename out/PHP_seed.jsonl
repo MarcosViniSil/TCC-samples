@@ -894,3 +894,5 @@
 {"id": 33366, "en": "A table is shown below describing these new connection possibilities.", "pt": "Uma tabela é mostrada abaixo descrevendo essas novas possibilidades de conexão."}
 {"id": 13322, "en": "Example 1. localeconv() example", "pt": "Exemplo 1. localeconv() exemplo"}
 {"id": 30932, "en": "You cannot use arrays or objects as keys.", "pt": "Você não pode usar arrays ou objetos como chaves."}
+{"id": 31524, "en": "The above script will output \"3\".", "pt": "O script acima imprimirá \"3\"."}
+{"id": 31018, "en": "The boolean type was introduced in PHP 4.", "pt": "O tipo booleano foi introduzido no PHP 4."}
