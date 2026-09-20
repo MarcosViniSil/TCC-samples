@@ -982,3 +982,4 @@
 {"id": 32733, "en": "This extension has no configuration directives defined in php.ini.", "pt": "Esta extensão não possui nenhum tipo resource."}
 {"id": 24426, "en": "Return empty string if there is no data to read.", "pt": "Retorna uma string vazia se não existe dados para ler."}
 {"id": 24526, "en": "Example 1. setlocale() Examples", "pt": "Exemplo 1. setlocale() Examples"}
+{"id": 7421, "en": "Check your operating system documentation for more details.", "pt": "Verifique a documentação do seu sistema operacional para mais detalhes."}
