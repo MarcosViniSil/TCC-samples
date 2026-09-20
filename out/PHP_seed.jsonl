@@ -995,3 +995,5 @@
 {"id": 21722, "en": "This function used to be called pg_cmdtuples().", "pt": "Esta função costumava ser chamada de pg_cmdtuples()."}
 {"id": 22069, "en": "This function will return -1 on error.", "pt": "Esta função retornará -1 em caso de erro."}
 {"id": 13338, "en": "\"tm_min\" - minutes", "pt": "\"tm_min\" - minutos"}
+{"id": 32442, "en": "This extension has no constants defined.", "pt": "Esta extensão não possui nenhuma constante."}
+{"id": 25715, "en": "Returns the length of string.", "pt": "Retorna o tamanho de string."}
