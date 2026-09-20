@@ -850,3 +850,4 @@
 {"id": 16393, "en": "This type of links is therefore called 'persistent'.", "pt": "Este tipo de conexão é chamado 'Persistente'."}
 {"id": 34161, "en": "There is no equivalent array in earlier versions.", "pt": "Não há array equivalente em versões anteriores."}
 {"id": 23875, "en": "reset() returns the value of the first array element.", "pt": "reset() retorna o valor do primeiro elemento do array."}
+{"id": 6519, "en": "Example 1. fbsql_fetch_array() example", "pt": "Exemplo 1. fbsql_fetch_array() example"}
