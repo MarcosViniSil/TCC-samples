@@ -938,3 +938,6 @@
 {"id": 18851, "en": "See also htmlspecialchars(), htmlentities(), wordwrap(), and str_replace().", "pt": "Veja também htmlspecialchars(), htmlentities() e wordwrap()."}
 {"id": 33012, "en": "The maximum number of persistent MySQL connections per process.", "pt": "O número máximo de conexões persistentes com o MySQL por processo."}
 {"id": 2086, "en": "See also array_shift(), array_push(), and array_pop().", "pt": "Veja também array_shift(), array_push() e array_pop()."}
+{"id": 7139, "en": "Reading a file line by line", "pt": "Lendo um arquivo linha a linha"}
+{"id": 28111, "en": "Example 1. unset() example", "pt": "Exemplo 1. unset() example"}
+{"id": 30668, "en": "PHP supports one execution operator: backticks (``).", "pt": "O PHP suporta um operador de execução: acentos graves (``)."}
