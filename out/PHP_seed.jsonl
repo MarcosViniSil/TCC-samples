@@ -922,3 +922,4 @@
 {"id": 24574, "en": "The hash is a 40-character hexadecimal number.", "pt": "A hash é um número hexadecimal de 40 caracteres."}
 {"id": 2146, "en": "a = orange d = lemon b = banana c = apple", "pt": "c = melancia d = limao a = laranja b = banana"}
 {"id": 2321, "en": "Example 1. basename() example", "pt": "Exemplo 1. exemplo do basename()"}
+{"id": 396, "en": "Here is a short explanation of the configuration directives.", "pt": "Descrição resumida das diretivas de configuração."}
