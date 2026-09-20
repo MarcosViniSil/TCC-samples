@@ -801,3 +801,4 @@
 {"id": 12111, "en": "Example 1. ingres_query() example", "pt": "Exemplo 1. ingres_query() example"}
 {"id": 16926, "en": "This is deprecated, however.", "pt": "Esta função está depreciada."}
 {"id": 30261, "en": "If everything works right, this is exactly what will happen.", "pt": "Se tudo funcionou bem, isto é exatamente o que acontecerá."}
+{"id": 8780, "en": "Example 1. gmstrftime() example", "pt": "Exemplo 1. gmstrftime() exemplo"}
