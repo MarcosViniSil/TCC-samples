@@ -907,3 +907,6 @@
 {"id": 12418, "en": "The results of this function are cached.", "pt": "Os resultados desta função são guardados em cache."}
 {"id": 30308, "en": "$first? $second: $third", "pt": "$primeira? $segunda: $terceira"}
 {"id": 16720, "en": "Use mysql_select_db() and mysql_query() instead.", "pt": "Ao invés utilize mysql_select_db() e mysql_query()."}
+{"id": 650, "en": "Statements usually end with a semicolon.", "pt": "Instruções geralmente terminam com um ponto e vírgula."}
+{"id": 24019, "en": "Making a bowl of acidophilus raspberry.", "pt": "Número variável de argumentos"}
+{"id": 21901, "en": "User must cast to bytea to avoid this error.", "pt": "O usuário deve fazer a coerção (cast) para bytea para evitar este erro."}
